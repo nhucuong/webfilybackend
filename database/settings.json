@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "697995e758f5cc85920a0ae2",
+    "companyName": "Weblify",
+    "contactAddress": "Weblify Technologies Pvt. Ltd. 402, Skyline Business Tower MG Road, Andheri East Mumbai, Maharashtra 400069 India",
+    "contactNumber": "+91 98765 43210",
+    "emailAddress": "info@weblify.com",
+    "facebook": "https://www.facebook.com/",
+    "instagram": "https://www.instagram.com/accounts/login/?hl=en",
+    "twitter": "https://x.com/",
+    "linkedin": "https://www.linkedin.com/",
+    "youtube": "https://www.youtube.com/",
+    "logo": "/uploads/setting/1771741770799-921745294.png",
+    "favicon": "/uploads/setting/1771569396353-914056962.png",
+    "currency": "USD",
+    "currencySymbol": "$",
+    "supportTime": "24/7",
+    "email": "exmaple@gmail.com",
+    "password": "********",
+    "defaultLanguages": "en",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30158.7078038878!2d72.84789085498828!3d19.11474070423364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b61b41dfb131%3A0xa668297563ddac31!2sAndheri%20East%2C%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1771569850313!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
+    "aboutcompany": "Weblify is an AI-powered website generator that helps businesses and creators build professional, responsive websites without coding. With smart automation, modern templates, and SEO-ready structure, Weblify makes launching fast, simple, and accessible for everyone looking to grow online.",
+    "theme": {
+      "primaryColor": "#0043ff",
+      "secondaryColor": "#78e911"
+    },
+    "__v": 0,
+    "dbVersion": "2.0.0"
+  }
+]

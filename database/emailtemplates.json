@@ -1,0 +1,109 @@
+[
+  {
+    "_id": "6979da91529ef23ef8be3361",
+    "type": "website_publish",
+    "subject": "Website Exported",
+    "htmlContent": "<div style=\"margin:0;padding:0;background:#f4f6f8;font-family:Arial,Helvetica,sans-serif;\">\n\n\n\n <table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"background:#f4f6f8;padding:30px 0;\">\n\n <tbody><tr>\n\n  <td align=\"center\">\n\n  <table width=\"600\" cellpadding=\"0\" cellspacing=\"0\" style=\"background:#ffffff;border-radius:8px;overflow:hidden;\n\n   box-shadow:0 5px 15px rgba(0,0,0,0.08);\">\n\n\n\n   <!-- Header -->\n\n   <tbody><tr>\n\n   <td style=\"background:#0d6efd;padding:24px;text-align:center;\">\n\n    {{site_logo}}\n\n    <p style=\"margin:6px 0 0;color:#e9f1ff;font-size:14px;\">\n\n      Website Exported Successful</p>\n\n   </td>\n\n   </tr>\n\n\n\n   <!-- Body -->\n\n   <tr>\n\n   <td style=\"padding:30px;color:#333333;\">\n\n    <h2 style=\"margin-top:0;font-size:20px;\">\n\n    Hello {{firstName}},\n\n    </h2>\n\n\n\n    <p style=\"font-size:14px;line-height:1.6;\">\n\n    Great news! Your website Exported request has been processed successfully on <strong>{{site_name}}</strong>.\n\n    </p>\n\n\n\n    <!-- Leads Info Box -->\n\n    <div style=\"text-align:center;margin:30px 0;\">\n\n    <div style=\"\n\n     display:inline-block;\n\n     padding:20px 30px;\n\n     font-size:16px;\n\n     font-weight:bold;\n\n     color:#0d6efd;\n\n     border:2px dashed #0d6efd;\n\n     border-radius:8px;\n\n     background:#f8faff;\">\n\n  Website Name - {{web_name}}</div></div>\n\n\n\n    <p style=\"font-size:14px;line-height:1.6;\">\n\n    You can now access these Website from your dashboard. Make sure to follow up promptly to get the best results.\n\n    </p>\n\n\n\n    <p style=\"margin-top:24px;font-size:13px;color:#777;\">\n\n    If you did not request this, please contact our support team immediately.\n\n    </p>\n\n\n\n    <p style=\"margin-top:30px;font-size:14px;\">\n\n    Best Regards,<br>\n\n    <strong>{{site_name}} Support Team</strong>\n\n    </p>\n\n   </td>\n\n   </tr>\n\n\n\n   <!-- Footer -->\n\n   <tr>\n\n   <td style=\"background:#f1f3f5;padding:15px;text-align:center;\n\n    font-size:12px;color:#888;\">\n\n    © {{site_name}} — All rights reserved\n\n   </td>\n\n   </tr>\n\n\n\n  </tbody></table>\n\n  </td>\n\n </tr>\n\n </tbody></table>\n\n</div>\n\n",
+    "variables": [
+      "firstName",
+      "site_name",
+      "web_name",
+      "site_logo"
+    ],
+    "from_name": "Support Team",
+    "from_email": "example@gmail.com",
+    "createdAt": "2026-02-02T06:40:23.588Z",
+    "updatedAt": "2026-04-13T10:24:30.763Z",
+    "__v": 0
+  },
+  {
+    "_id": "6979db0d529ef23ef8be3362",
+    "type": "subscription_success",
+    "subject": "Your Subscription is Active",
+    "htmlContent": "<div style=\"margin:0;padding:0;background:#f4f6f8;font-family:Arial,Helvetica,sans-serif;\">\n\n <table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"background:#f4f6f8;padding:30px 0;\">\n\n  <tbody><tr>\n\n   <td align=\"center\">\n\n    <table width=\"600\" cellpadding=\"0\" cellspacing=\"0\" style=\"background:#ffffff;border-radius:8px;overflow:hidden;box-shadow:0 5px 15px rgba(0,0,0,0.08);\">\n\n\n\n     <!-- Header -->\n\n     <tbody><tr>\n\n      <td style=\"background:#0d6efd;padding:20px;text-align:center;\">\n{{site_logo}}\n\n       <p style=\"margin:5px 0 0;color:#e9f1ff;font-size:14px;\">Subscription Activated</p>\n\n      </td>\n\n     </tr>\n\n\n\n     <!-- Body -->\n\n     <tr>\n\n      <td style=\"padding:30px;color:#333333;\">\n\n       <h2 style=\"margin-top:0;font-size:20px;\">Hello {{firstName}},</h2>\n\n\n\n       <p style=\"font-size:14px;line-height:1.6;\">\n\n        Thank you for subscribing to <strong>{{site_name}}</strong>.\n\n        Your subscription has been successfully activated.\n\n       </p>\n\n\n\n       <p style=\"font-size:14px;line-height:1.6;\">\n\n        <strong>Plan:</strong> {{plan_name}}<br>\n\n       </p>\n\n\n\n\n\n\n\n       <p style=\"font-size:13px;color:#666;\">\n\n        If you have any questions or need help, feel free to contact our support team.\n\n       </p>\n\n\n\n       <p style=\"margin-top:30px;font-size:14px;\">\n\n        Best Regards,<br>\n\n        <strong>{{site_name}} Support Team</strong>\n\n       </p>\n\n      </td>\n\n     </tr>\n\n\n\n     <!-- Footer -->\n\n     <tr>\n\n      <td style=\"background:#f1f3f5;padding:15px;text-align:center;font-size:12px;color:#888;\">\n\n       © {{site_name}} — All rights reserved\n\n      </td>\n\n     </tr>\n\n\n\n    </tbody></table>\n\n   </td>\n\n  </tr>\n\n </tbody></table>\n\n</div>",
+    "variables": [
+      "firstName",
+      "site_name",
+      "plan_name",
+      "billingType",
+      "amount",
+      "invoice_url",
+      "site_logo"
+    ],
+    "from_name": "Support Team",
+    "from_email": "example@gmail.com",
+    "createdAt": "2026-02-02T06:40:23.588Z",
+    "updatedAt": "2026-04-08T10:30:12.705Z",
+    "__v": 0
+  },
+  {
+    "_id": "6979db1a529ef23ef8be3363",
+    "type": "reset_password",
+    "subject": "Reset Your Password",
+    "htmlContent": "<div style=\"margin:0;padding:0;background:#f4f6f8;font-family:Arial,Helvetica,sans-serif;\">\n\n <table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"background:#f4f6f8;padding:30px 0;\">\n\n  <tbody><tr>\n\n   <td align=\"center\">\n\n    <table width=\"600\" cellpadding=\"0\" cellspacing=\"0\" style=\"background:#ffffff;border-radius:8px;overflow:hidden;\n\n     box-shadow:0 5px 15px rgba(0,0,0,0.08);\">\n\n\n\n     <!-- Header -->\n\n     <tbody><tr>\n\n      <td style=\"background:#0d6efd;padding:24px;text-align:center;\">\n\n      {{site_logo}}\n\n       <p style=\"margin:6px 0 0;color:#e9f1ff;font-size:14px;\">\n\n        Password Reset\n\n       </p>\n\n      </td>\n\n     </tr>\n\n\n\n     <!-- Body -->\n\n     <tr>\n\n      <td style=\"padding:30px;color:#333333;\">\n\n       <h2 style=\"margin-top:0;font-size:20px;\">\n\n        Hello {{firstName}},\n\n       </h2>\n\n\n\n       <p style=\"font-size:14px;line-height:1.6;\">\n\n        We received a request to reset your password for your\n\n        <strong>{{site_name}}</strong> account.\n\n       </p>\n\n\n\n       <p style=\"font-size:14px;line-height:1.6;\">\n\n        Click the button below to create a new password.\n\n        This link is valid for <strong>30 minutes</strong>.\n\n       </p>\n\n\n\n       <!-- Button -->\n\n       <div style=\"text-align:center;margin:32px 0;\">\n\n        <a href=\"{{reset_link}}\" style=\"background:#0d6efd;color:#ffffff;text-decoration:none;\n\n         padding:14px 30px;border-radius:6px;\n\n         display:inline-block;font-size:15px;font-weight:bold;\">\n\n         Reset Password\n\n        </a>\n\n       </div>\n\n\n\n       <p style=\"font-size:13px;color:#666;\">\n\n        If the button doesn’t work, copy and paste this link into your browser:\n\n       </p>\n\n\n\n     \n\n       <p style=\"margin-top:24px;font-size:13px;color:#777;\">\n\n        If you didn’t request a password reset, you can safely ignore this email.\n\n       </p>\n\n\n\n       <p style=\"margin-top:30px;font-size:14px;\">\n\n        Best Regards,<br>\n\n        <strong>{{site_name}} Support Team</strong>\n\n       </p>\n\n      </td>\n\n     </tr>\n\n\n\n     <!-- Footer -->\n\n     <tr>\n\n      <td style=\"background:#f1f3f5;padding:15px;text-align:center;\n\n       font-size:12px;color:#888;\">\n\n       © {{site_name}} — All rights reserved\n\n      </td>\n\n     </tr>\n\n\n\n    </tbody></table>\n\n   </td>\n\n  </tr>\n\n </tbody></table>\n\n</div>\n\n",
+    "variables": [
+      "reset_link",
+      "site_name",
+      "firstName",
+      "site_logo"
+    ],
+    "from_name": "Support Team",
+    "from_email": "example@gmail.com",
+    "createdAt": "2026-02-02T06:40:23.588Z",
+    "updatedAt": "2026-04-08T10:30:29.373Z",
+    "__v": 0
+  },
+  {
+    "_id": "6979db22529ef23ef8be3364",
+    "type": "signup_otp",
+    "subject": "Your OTP Code",
+    "htmlContent": "<div style=\"margin:0;padding:0;background:#f4f6f8;font-family:Arial,Helvetica,sans-serif;\">\n\n <table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"background:#f4f6f8;padding:30px 0;\">\n\n  <tbody><tr>\n\n   <td align=\"center\">\n\n    <table width=\"600\" cellpadding=\"0\" cellspacing=\"0\" style=\"background:#ffffff;border-radius:8px;overflow:hidden;\n\n     box-shadow:0 5px 15px rgba(0,0,0,0.08);\">\n\n\n\n     <!-- Header -->\n\n     <tbody><tr>\n\n      <td style=\"background:#0d6efd;padding:24px;text-align:center;\">\n\n        {{site_logo}}\n\n       <p style=\"margin:6px 0 0;color:#e9f1ff;font-size:14px;\">\n\n        Email Verification\n\n       </p>\n\n      </td>\n\n     </tr>\n\n\n\n     <!-- Body -->\n\n     <tr>\n\n      <td style=\"padding:30px;color:#333333;\">\n\n       <h2 style=\"margin-top:0;font-size:20px;\">\n\n        Hello {{firstName}},\n\n       </h2>\n\n\n\n       <p style=\"font-size:14px;line-height:1.6;\">\n\n        Welcome to <strong>{{site_name}}</strong>!  \n\n        Please use the One-Time Password (OTP) below to complete your signup process.\n\n       </p>\n\n\n\n       <!-- OTP Box -->\n\n       <div style=\"text-align:center;margin:30px 0;\">\n\n        <div style=\"\n\n         display:inline-block;\n\n         padding:16px 30px;\n\n         font-size:24px;\n\n         letter-spacing:4px;\n\n         font-weight:bold;\n\n         color:#0d6efd;\n\n         border:2px dashed #0d6efd;\n\n         border-radius:8px;\n\n         background:#f8faff;\">\n\n         {{otp}}\n\n        </div>\n\n       </div>\n\n\n\n       <p style=\"font-size:14px;line-height:1.6;\">\n\n        This OTP is valid for a limited time.  \n\n        Please do not share it with anyone.\n\n       </p>\n\n\n\n       <p style=\"margin-top:24px;font-size:13px;color:#777;\">\n\n        If you did not request this verification, you can safely ignore this email.\n\n       </p>\n\n\n\n       <p style=\"margin-top:30px;font-size:14px;\">\n\n        Best Regards,<br>\n\n        <strong>{{site_name}} Support Team</strong>\n\n       </p>\n\n      </td>\n\n     </tr>\n\n\n\n     <!-- Footer -->\n\n     <tr>\n\n      <td style=\"background:#f1f3f5;padding:15px;text-align:center;\n\n       font-size:12px;color:#888;\">\n\n       © {{site_name}} — All rights reserved\n\n      </td>\n\n     </tr>\n\n\n\n    </tbody></table>\n\n   </td>\n\n  </tr>\n\n </tbody></table>\n\n</div>\n\n",
+    "variables": [
+      "firstName",
+      "site_name",
+      "otp",
+      "site_logo"
+    ],
+    "from_name": "Support Team",
+    "from_email": "example@gmail.com",
+    "createdAt": "2026-02-02T06:40:23.588Z",
+    "updatedAt": "2026-04-08T10:30:50.180Z",
+    "__v": 0
+  },
+  {
+    "_id": "6979db2c529ef23ef8be3365",
+    "type": "resend_otp",
+    "subject": "Your OTP Code",
+    "htmlContent": "<div style=\"margin:0;padding:0;background:#f4f6f8;font-family:Arial,Helvetica,sans-serif;\">\n\n <table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"background:#f4f6f8;padding:30px 0;\">\n\n  <tbody><tr>\n\n   <td align=\"center\">\n\n    <table width=\"600\" cellpadding=\"0\" cellspacing=\"0\" style=\"background:#ffffff;border-radius:8px;overflow:hidden;\n\n     box-shadow:0 5px 15px rgba(0,0,0,0.08);\">\n\n\n\n     <!-- Header -->\n\n     <tbody><tr>\n\n      <td style=\"background:#0d6efd;padding:24px;text-align:center;\">\n\n      {{site_logo}}\n\n       <p style=\"margin:6px 0 0;color:#e9f1ff;font-size:14px;\">\n\n        Email Verification\n\n       </p>\n\n      </td>\n\n     </tr>\n\n\n\n     <!-- Body -->\n\n     <tr>\n\n      <td style=\"padding:30px;color:#333333;\">\n\n       <h2 style=\"margin-top:0;font-size:20px;\">\n\n        Hello {{firstName}},\n\n       </h2>\n\n\n\n       <p style=\"font-size:14px;line-height:1.6;\">\n\n        Welcome to <strong>{{site_name}}</strong>!  \n\n        Please use the One-Time Password (OTP) below to complete your signup process.\n\n       </p>\n\n\n\n       <!-- OTP Box -->\n\n       <div style=\"text-align:center;margin:30px 0;\">\n\n        <div style=\"\n\n         display:inline-block;\n\n         padding:16px 30px;\n\n         font-size:24px;\n\n         letter-spacing:4px;\n\n         font-weight:bold;\n\n         color:#0d6efd;\n\n         border:2px dashed #0d6efd;\n\n         border-radius:8px;\n\n         background:#f8faff;\">\n\n         {{otp}}\n\n        </div>\n\n       </div>\n\n\n\n       <p style=\"font-size:14px;line-height:1.6;\">\n\n        This OTP is valid for a limited time.  \n\n        Please do not share it with anyone.\n\n       </p>\n\n\n\n       <p style=\"margin-top:24px;font-size:13px;color:#777;\">\n\n        If you did not request this verification, you can safely ignore this email.\n\n       </p>\n\n\n\n       <p style=\"margin-top:30px;font-size:14px;\">\n\n        Best Regards,<br>\n\n        <strong>{{site_name}} Support Team</strong>\n\n       </p>\n\n      </td>\n\n     </tr>\n\n\n\n     <!-- Footer -->\n\n     <tr>\n\n      <td style=\"background:#f1f3f5;padding:15px;text-align:center;\n\n       font-size:12px;color:#888;\">\n\n       © {{site_name}} — All rights reserved\n\n      </td>\n\n     </tr>\n\n\n\n    </tbody></table>\n\n   </td>\n\n  </tr>\n\n </tbody></table>\n\n</div>\n\n",
+    "variables": [
+      "firstName",
+      "site_name",
+      "otp",
+      "site_logo"
+    ],
+    "from_name": "Support Team",
+    "from_email": "example@gmail.com",
+    "createdAt": "2026-02-02T06:40:23.588Z",
+    "updatedAt": "2026-04-08T10:31:06.467Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7033dd2c5253863cee0574",
+    "type": "plan_expiry",
+    "__v": 0,
+    "createdAt": "2026-08-03T06:23:25.805Z",
+    "from_email": "example@gmail.com",
+    "from_name": "Support Team",
+    "htmlContent": "\n<div style=\"margin:0;padding:0;background:#f4f6f8;font-family:Arial,Helvetica,sans-serif;\">\n\n <table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"background:#f4f6f8;padding:30px 0;\">\n <tr>\n  <td align=\"center\">\n  <table width=\"600\" cellpadding=\"0\" cellspacing=\"0\" style=\"background:#ffffff;border-radius:8px;overflow:hidden;box-shadow:0 5px 15px rgba(0,0,0,0.08);\">\n\n   <!-- Header -->\n   <tr>\n   <td style=\"background:#0d6efd;padding:24px;text-align:center;\">\n    {{site_logo}}\n    <p style=\"margin:6px 0 0;color:#e9f1ff;font-size:14px;\">\n      Your Subscription Plan is Expiring Soon\n    </p>\n   </td>\n   </tr>\n\n   <!-- Body -->\n   <tr>\n   <td style=\"padding:30px;color:#333333;\">\n    <h2 style=\"margin-top:0;font-size:20px;\">\n      Hello {{firstName}},\n    </h2>\n\n    <p style=\"font-size:14px;line-height:1.6;\">\n      This is a friendly reminder that your <strong>{{plan_name}}</strong> subscription on <strong>{{site_name}}</strong> will expire in <strong>5 days</strong>.\n    </p>\n\n    <div style=\"text-align:center;margin:30px 0;\">\n      <div style=\"\n        display:inline-block;\n        padding:20px 30px;\n        font-size:16px;\n        font-weight:bold;\n        color:#0d6efd;\n        border:2px dashed #0d6efd;\n        border-radius:8px;\n        background:#f8faff;\">\n        Plan - {{plan_name}} <br><br>\n        Expiry Date - {{expiry_date}}\n      </div>\n    </div>\n\n    <p style=\"font-size:14px;line-height:1.6;\">\n      To continue enjoying uninterrupted access to all premium features, please renew your subscription before the expiry date.\n    </p>\n\n    <div style=\"text-align:center;margin:30px 0;\">\n      <a href=\"{{renew_plan_url}}\" style=\"\n        background:#0d6efd;\n        color:#ffffff;\n        text-decoration:none;\n        padding:12px 28px;\n        border-radius:6px;\n        font-size:14px;\n        font-weight:bold;\n        display:inline-block;\">\n        Renew Subscription\n      </a>\n    </div>\n\n    <p style=\"margin-top:24px;font-size:13px;color:#777;\">\n      If you have already renewed your subscription, please ignore this email.\n    </p>\n\n    <p style=\"margin-top:30px;font-size:14px;\">\n      Best Regards,<br>\n      <strong>{{site_name}} Support Team</strong>\n    </p>\n   </td>\n   </tr>\n\n   <!-- Footer -->\n   <tr>\n   <td style=\"background:#f1f3f5;padding:15px;text-align:center;font-size:12px;color:#888;\">\n    © {{site_name}} — All rights reserved\n   </td>\n   </tr>\n\n  </table>\n  </td>\n </tr>\n </table>\n\n</div>\n      ",
+    "subject": "Your Weblify Subscription Will Expire Soon",
+    "updatedAt": "2026-08-03T08:38:51.319Z",
+    "variables": [
+      "firstName",
+      "site_name",
+      "site_logo",
+      "plan_name",
+      "expiry_date",
+      "renew_plan_url"
+    ]
+  }
+]

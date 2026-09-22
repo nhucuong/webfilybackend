@@ -1,0 +1,215 @@
+<%- include('includes/header', {username: admin[0].name,email: admin[0].email } ) %>
+  <link rel="stylesheet" href="/css/userdetail.css">
+  <div class="body-wrapper">
+    <div class="container-fluid">
+      <div class="card bg-info-subtle shadow-none position-relative overflow-hidden mb-4">
+        <div class="card-body px-4 py-3">
+          <div class="row align-items-center">
+            <div class="col-md-8 col-sm-7">
+              <h4 class="fw-semibold mb-1">User Detail</h4>
+
+            </div>
+            <div class="col-md-4 col-sm-5 text-md-end text-sm-start mt-3 mt-md-0">
+              <a href="javascript:void(0)" onclick="goBack()" class="btn btn-primary mb-3">
+                <i class="fas fa-arrow-left"></i> Back
+              </a>
+                 <a href="javascript:void(0)" onclick='loginasuser("<%= user._id %>")' class="btn btn-info mb-3">
+                Login as User <i class="fas fa-arrow-right"></i> 
+              </a>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-4 col-md-6">
+          <div class="card overflow-hidden">
+            <div class="d-flex flex-row">
+              <div class="p-3">
+                <h3 class="text-info mb-0 fs-6">
+                  <%= planInfo.totalWebsite == 0 ? "Unlimited": planInfo.totalWebsite %>
+                </h3>
+                <span>Total Websites</span>
+              </div>
+              <div class="p-3 bg-info-subtle d-flex align-items-center ms-auto">
+                <h3 class="text-info box mb-0">
+                  <i class="ti ti-brand-messenger"></i>
+                </h3>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Column -->
+        <!-- Column -->
+        <div class="col-lg-4 col-md-6">
+          <div class="card overflow-hidden">
+            <div class="d-flex flex-row">
+              <div class="p-3">
+                <h3 class="text-success mb-0 fs-6">
+                  <%= planInfo.websiteCreated ?? 0 %>
+                </h3>
+                <span>Created Websites</span>
+              </div>
+              <div class="p-3 bg-success-subtle d-flex align-items-center ms-auto">
+                <h3 class="text-success box mb-0">
+                  <i class="ti ti-building-broadcast-tower"></i>
+                </h3>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Column -->
+        <!-- Column -->
+        <div class="col-lg-4 col-md-6">
+          <div class="card overflow-hidden">
+            <div class="d-flex flex-row">
+              <div class="p-3">
+                <h3 class="text-primary mb-0 fs-6">
+                  <%= planInfo.planName ?? 0 %>
+                </h3>
+                <span>
+  <% if (planInfo) { %>
+    <strong><%=  planInfo.isFree ? "Free" : planInfo.planName %></strong>
+    
+    <% if (planInfo.startDate && planInfo.endDate) { %>
+   
+       <% if (planInfo.isFree) { %>
+     &nbsp;| Subscription Expired Limit On: Monthly
+          <% } else { %>
+               &nbsp;| Subscription Expired On: 
+              <%= new Date(planInfo.endDate).toLocaleDateString('en-IN', { 
+            weekday: 'short', 
+            day: '2-digit', 
+            month: 'short', 
+            year: 'numeric' 
+      }) %>
+          <% }%>
+    <% } else { %>
+      &nbsp;| Current Plan: 
+      <span class="Current-plandate">
+        <%= new Date(planInfo.startDate).toLocaleDateString('en-IN', { 
+              weekday: 'short', 
+              day: '2-digit', 
+              month: 'short', 
+              year: 'numeric' 
+        }) %> - Unlimited
+      </span>
+    <% } %>
+
+  <% } else { %>
+    <span class="Current-plandate">
+    </span>
+  <% } %>
+</span>
+              </div>
+              <div class="p-3 bg-primary-subtle d-flex align-items-center ms-auto">
+                <h3 class="text-primary box mb-0">
+                  <i class="fa-solid fa-diamond"></i>
+                </h3>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-body p-4">
+          <h4 class="card-title mb-4">Information of <%= user.firstName + " " + user.lastName %>
+          </h4>
+
+          <form id="userForm" data-userid="<%= user._id %>">
+
+            <div class="row">
+              <div class="col-md-6 mb-3">
+                <label class="form-label">First Name *</label>
+                <input type="text" class="form-control" name="firstName" value="<%= user.firstName %>" readonly>
+              </div>
+              <div class="col-md-6 mb-3">
+                <label class="form-label">Last Name *</label>
+                <input type="text" class="form-control" name="lastName" value="<%= user.lastName %>" readonly>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-md-6 mb-3">
+                <label class="form-label">Email *</label>
+                <input type="email" class="form-control" name="email" value="<%= user.email %>" readonly>
+              </div>
+              <div class="col-md-6 mb-3">
+                <label class="form-label">Phone Number *</label>
+                <div class="input-group">
+                  <input type="tel" class="form-control" name="phone" value="<%= user.phone %>" readonly>
+                </div>
+              </div>
+            </div>
+
+
+
+
+            <div class="row">
+              <div class="col-md-6 mb-3">
+                <label class="form-label">Country</label>
+                <input type="text" class="form-control" name="country" value="<%= user.country %>" readonly>
+              </div>
+                  <div class="col-md-6 mb-3">
+                <label class="form-label">State</label>
+                <input type="text" class="form-control" name="state" value="<%= user.state %>" readonly>
+              </div>
+            </div>
+   <div class="row">
+              <div class="col-md-12 mb-3">
+              <div class="col-md-6 mb-3">
+                <label class="form-label">Bio</label>
+                <input type="text" class="form-control" name="bio" value="<%= user.bio %>" readonly>
+              </div>
+            </div>
+            <div class="row mt-3">
+
+              <!-- EMAIL VERIFICATION SWITCH -->
+              <div class="col-md-6 mb-3">
+                <label class="form-label">Email Verification</label>
+
+                <div class="form-check form-switch mt-2">
+                  <input class="form-check-input" type="checkbox" role="switch" id="emailVerifySwitch"
+                    data-userid="<%= user._id %>" <%=user.emailVerified ? 'checked' : '' %>>
+                  <label class="form-check-label" for="emailVerifySwitch" id="emailVerifyText">
+                    <%= user.emailVerified ? 'Verified' : 'Not Verified' %>
+                  </label>
+                </div>
+              </div>
+
+              <!-- USER BAN / ACTIVE SWITCH -->
+              <div class="col-md-6 mb-3">
+                <label class="form-label">User Status</label>
+
+                <div class="form-check form-switch mt-2">
+                  <input class="form-check-input" type="checkbox" role="switch" id="banSwitch"
+                    data-userid="<%= user._id %>" data-status="<%= user.status %>" <%=user.status===1 ? "checked" : ""
+                    %>
+                  >
+
+                  <label class="form-check-label" for="banSwitch" id="banText">
+                    <%= user.status===1 ? "Active" : user.status===1 ? "Inactive" : "Banned" %>
+                  </label>
+                </div>
+              </div>
+
+
+            </div>
+
+          </form>
+        </div>
+      </div>
+    </div>
+
+
+
+
+  </div>
+  </div>
+  </div>
+
+  <%- include('includes/allscripts') %>
+    <script src="/js/view/userdetails.js"></script>
+    <script src="/js/view/pageback.js"></script>

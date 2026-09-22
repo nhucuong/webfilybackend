@@ -1,0 +1,106 @@
+[
+  {
+    "_id": "6986f77a9fac9f81fd71bc11",
+    "type": "home",
+    "metaTitle": "Weblify – AI Website Generator & No-Code Builder",
+    "metaDescription": "Weblify is an AI-powered website generator that lets you build responsive, SEO-ready websites in minutes. No coding required. Customize, preview, and launch instantly.",
+    "metaKeywords": [
+      "AI website generator",
+      "no-code website builder",
+      "create website with AI",
+      "responsive website builder",
+      "SEO-ready websites",
+      "instant website creation",
+      "Weblify"
+    ],
+    "createdAt": "2026-02-07T08:27:38.440Z",
+    "updatedAt": "2026-02-13T04:32:23.347Z",
+    "__v": 0
+  },
+  {
+    "_id": "698ea8619fac9f81fd737cbd",
+    "type": "contact",
+    "metaTitle": "Contact Weblify – Get Support & Start Building",
+    "metaDescription": "Get in touch with Weblify for support, inquiries, or partnership opportunities. Our team is ready to help you build and launch your AI-powered website easily.",
+    "metaKeywords": [
+      "contact Weblify",
+      "Weblify support",
+      "AI website builder help",
+      "website generator support",
+      "customer support Weblify",
+      "contact AI website platform"
+    ],
+    "createdAt": "2026-02-13T04:28:17.962Z",
+    "updatedAt": "2026-02-13T04:32:21.301Z",
+    "__v": 0
+  },
+  {
+    "_id": "698ea8a79fac9f81fd737cbe",
+    "type": "blog",
+    "metaTitle": "Weblify Blog – AI Website Tips & Insights",
+    "metaDescription": "Explore the Weblify blog for expert tips on AI website creation, no-code tools, SEO strategies, design trends, and online growth insights to build better, faster websites.",
+    "metaKeywords": [
+      "Weblify blog",
+      "AI website tips",
+      "no-code website guides",
+      "SEO tips for websites",
+      "website design trends",
+      "AI website builder blog",
+      "digital growth strategies"
+    ],
+    "createdAt": "2026-02-13T04:29:27.237Z",
+    "updatedAt": "2026-02-13T04:32:19.675Z",
+    "__v": 0
+  },
+  {
+    "_id": "698ea8e19fac9f81fd737cbf",
+    "type": "pricing",
+    "metaTitle": "Weblify Pricing – Affordable AI Website Plans",
+    "metaDescription": "Explore Weblify pricing plans designed for startups, businesses, and creators. Build AI-powered, responsive websites with flexible, affordable packages and no coding required.",
+    "metaKeywords": [
+      "Weblify pricing",
+      "AI website builder plans",
+      "website generator pricing",
+      "no-code website cost",
+      "affordable website builder",
+      "Weblify subscription plans"
+    ],
+    "createdAt": "2026-02-13T04:30:25.415Z",
+    "updatedAt": "2026-02-13T04:32:17.389Z",
+    "__v": 0
+  },
+  {
+    "_id": "698ea9109fac9f81fd737cc0",
+    "type": "howitwork",
+    "metaTitle": "How Weblify Works – Build Websites with AI",
+    "metaDescription": "Learn how Weblify’s AI website generator works. Choose your website type, customize preferences, and launch a fully responsive, SEO-ready website in minutes without coding.",
+    "metaKeywords": [
+      "how Weblify works",
+      "AI website generator process",
+      "no-code website builder steps",
+      "build website with AI",
+      "Weblify features",
+      "AI website creation guide"
+    ],
+    "createdAt": "2026-02-13T04:31:12.014Z",
+    "updatedAt": "2026-02-13T04:32:15.303Z",
+    "__v": 0
+  },
+  {
+    "_id": "698ea9469fac9f81fd737cc1",
+    "type": "webpreview",
+    "metaTitle": "Website Preview – See Your AI Site Live | Weblify",
+    "metaDescription": "Preview your AI-generated website instantly with Weblify. Check design, responsiveness, and layout before publishing. Edit, customize, and launch your website with confidence.",
+    "metaKeywords": [
+      "Weblify website preview",
+      "AI website demo",
+      "preview AI website",
+      "website builder live preview",
+      "responsive website preview",
+      "Weblify site demo"
+    ],
+    "createdAt": "2026-02-13T04:32:06.115Z",
+    "updatedAt": "2026-04-13T10:22:56.321Z",
+    "__v": 0
+  }
+]

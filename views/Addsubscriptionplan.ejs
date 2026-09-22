@@ -1,0 +1,318 @@
+<%- include('includes/header', {username: admin[0].name,email: admin[0].email } ) %>
+
+    <div class="body-wrapper">
+        <div class="container-fluid">
+            <div class="card bg-info-subtle shadow-none position-relative overflow-hidden mb-4">
+                <div class="card-body px-4 py-3">
+                    <div class="row align-items-center">
+                        <div class="col-md-8 col-sm-7">
+                            <h4 class="fw-semibold mb-1"><%= plan ? 'Update Plan' : 'Add Plan' %></h4>
+
+                        </div>
+
+                        <div class="col-md-4 col-sm-5 text-md-end text-sm-start mt-3 mt-md-0">
+                            <a href="/subscriptionplan" class="btn btn-primary">
+                                <i class="ti ti-arrow-left me-1"></i> Back to Products
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+
+            <!-- start Default Basic Forms -->
+            <div class="card">
+                <div class="card-body">
+                    <form id="pricingForm" data-features='<%- JSON.stringify(plan?.features || {}) %>'
+                        class="form needs-validation" novalidate action="/subscriptionsave" method="POST">
+
+                        <input type="hidden" name="id" id="planId" value="<%= plan ? plan._id : '' %>">
+
+                        <!-- ============================= -->
+                        <!-- 1. BASIC INFORMATION SECTION  -->
+                        <!-- ============================= -->
+                        <div class="card mb-4">
+                            <div class="card-header bg-light">
+                                <h5 class="mb-0">Plan Information</h5>
+                            </div>
+                            <div class="card-body">
+
+                                <div class="mb-3 row">
+                                    <label class="col-md-3 col-form-label fw-bold">
+                                        Plan Name <span class="text-danger">*</span>
+                                    </label>
+                                    <div class="col-md-9">
+                                        <input class="form-control" type="text" name="name"
+                                            value="<%= plan ? plan.name : '' %>" placeholder="e.g. Starter Plan"
+                                            required>
+                                        <div class="invalid-feedback">Name is required</div>
+                                    </div>
+                                </div>
+
+
+
+                                <div class="mb-3 row">
+                                    <label class="col-md-3 col-form-label fw-bold">
+                                        Description <span class="text-danger">*</span>
+                                    </label>
+                                    <div class="col-md-9">
+                                        <textarea class="form-control" rows="2" name="shortDescription"
+                                            placeholder="Brief overview of the plan"
+                                            required><%= plan ? plan.shortDescription : '' %></textarea>
+                                        <div class="invalid-feedback">Description is required</div>
+                                    </div>
+                                </div>
+
+
+                                <div class="mb-3 row">
+                                    <label class="col-md-3 col-form-label fw-bold">
+                                        Plan Order<span class="text-danger">*</span>
+                                    </label>
+                                    <div class="col-md-9">
+                                        <input class="form-control" type="number" name="order"
+                                            value="<%= plan ? plan.order : '' %>" placeholder="e.g. 1,2,3" required>
+                                        <div class="invalid-feedback">Order is required</div>
+                                    </div>
+                                </div>
+
+                                   <div class="mb-3 row">
+                                    <label class="col-md-3 col-form-label fw-bold">
+                                        Is Free Plan
+                                    </label>
+                                    <div class="col-md-9">
+                                         <input class="form-check-input" type="checkbox" name="isFree" id="isFreePlan" <%=plan &&
+                                            plan.isFree ? 'checked' : '' %>>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- ============================= -->
+                        <!-- 2. BILLING DETAILS -->
+                        <!-- ============================= -->
+                        <div class="card mb-4">
+                            <div class="card-header bg-light">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <h5 class="mb-0">Plan Features</h5>
+                                    </div>
+                                    <div class="col-md-4 text-center fw-bold text-primary">MONTHLY DETAILS</div>
+                                    <div class="col-md-4 text-center fw-bold text-primary isFreeHidden">YEARLY DETAILS</div>
+                                </div>
+                            </div>
+
+                            <div class="card-body">
+
+
+                                <!-- PRICE -->
+                                <div class="row mb-4 align-items-center pb-3 isFreeHidden">
+                                    <div class="col-md-3">
+                                        <label class="fw-bold">Price <span class="text-danger">*</span></label>
+                                        <div class="text-muted small">Cost charged to user.</div>
+                                    </div>
+
+                                    <div class="col-md-4">
+                                        <div class="input-group">
+                                            <span class="input-group-text">
+                                                <%= currencySymbol %>
+                                            </span>
+                                            <input type="number" class="form-control" id="monthlyPrice" name="monthlyPrice"
+                                                value="<%= plan ? plan.monthlyPrice : '' %>" placeholder="Monthly Price"
+                                                required>
+                                        </div>
+                                        <div class="text-muted small mt-1"><strong>Note:</strong> Enter <code>0</code>
+                                            For Free Plan.</div>
+                                        <div class="invalid-feedback">Required</div>
+                                    </div>
+
+                                    <div class="col-md-4">
+                                        <div class="input-group">
+                                            <span class="input-group-text">
+                                                <%= currencySymbol %>
+                                            </span>
+                                            <input type="number" class="form-control" id="yearlyPrice" name="yearlyPrice"
+                                                value="<%= plan ? plan.yearlyPrice : '' %>" placeholder="Yearly Price"
+                                                required>
+                                        </div>
+                                        <div class="text-muted small mt-1"><strong>Note:</strong> Enter
+                                            <code>0</code>
+                                            For Free Plan.
+                                        </div>
+                                        <div class="invalid-feedback">Required</div>
+                                    </div>
+                                </div>
+
+                                <div class="row mb-4 align-items-center pb-3 isFreeHidden">
+                                    <div class="col-md-3">
+                                        <label class="fw-bold">Discount</label>
+                                        <div class="text-muted small">Apply discount per cycle (optional)</div>
+                                    </div>
+                                    <!-- Monthly Discount -->
+                                    <div class="col-md-4">
+                                        <label class="d-md-none text-primary fw-bold">Monthly:</label>
+                                        <div class="input-group">
+                                            <span class="input-group-text">%</span>
+                                            <input type="number" class="form-control" name="monthlyDiscount"
+                                                value="<%= plan ? plan.monthlyDiscount : '' %>"
+                                                placeholder="Monthly Discount">
+                                        </div>
+                                    </div>
+                                    <!-- Yearly Discount -->
+                                    <div class="col-md-4">
+                                        <label class="d-md-none text-success fw-bold">Yearly:</label>
+                                        <div class="input-group">
+                                            <span class="input-group-text">%</span>
+                                            <input type="number" class="form-control" name="yearlyDiscount"
+                                                value="<%= plan ? plan.yearlyDiscount : '' %>"
+                                                placeholder="Yearly Discount">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- WEBSITE LIMIT -->
+                                <div class="row mb-4 align-items-center border-bottom pb-3">
+                                    <div class="col-md-3">
+                                        <label class="fw-bold">
+                                            WebSite Limit <span class="text-danger">*</span>
+                                        </label>
+                                        <div class="text-muted small">Max websites allowed per cycle.</div>
+                                    </div>
+
+                                    <div class="col-md-4">
+                                        <div class="input-group">
+                                            <span class="input-group-text"><i class="fa-regular fa-hand"></i></span>
+                                            <input type="number" class="form-control" id="monthlyWebsiteLimit"
+                                                name="monthlyWebsiteLimit"
+                                                value="<%= plan ? plan.monthlyWebsiteLimit : '' %>"
+                                                placeholder="Monthly Limit" required min="0">
+                                        </div>
+                                        <div class="text-muted small mt-1"><strong>Note:</strong> Enter <code>0</code>
+                                            for unlimited websites.</div>
+                                        <div class="invalid-feedback">Min 0 required</div>
+                                    </div>
+
+                                    <div class="col-md-4 isFreeHidden">
+                                        <div class="input-group">
+                                            <span class="input-group-text"><i class="fa-regular fa-hand"></i></span>
+                                            <input type="number" class="form-control" id="yearlyWebsiteLimit"
+                                                name="yearlyWebsiteLimit"
+                                                value="<%= plan ? plan.yearlyWebsiteLimit : '' %>"
+                                                placeholder="Yearly Limit" required min="0">
+                                        </div>
+                                        <div class="text-muted small mt-1"><strong>Note:</strong> Enter <code>0</code>
+                                            for unlimited websites.</div>
+                                        <div class="invalid-feedback">Min 0 required</div>
+                                    </div>
+                                </div>
+
+
+                               <!-- max page -->
+                                <div class="row mb-4 align-items-center  pb-3">
+                                    <div class="col-md-3">
+                                        <label class="fw-bold">Max Pages <span class="text-danger">*</span></label>
+                                        <div class="text-muted small">Set maximum pages allowed.</div>
+                                    </div>
+
+                                    <!-- Monthly Max Pages -->
+                                    <div class="col-md-4">
+                                        <div class="input-group">
+                                            <input type="number" class="form-control" name="maxPages"
+                                                value="<%= plan ? plan.maxPages : '' %>"
+                                                placeholder="Max Pages" required>
+                                        </div>
+                                         <div class="text-muted small mt-1"><strong>Note:</strong> Enter <code>0</code>
+                                            for unlimited pages.</div>
+                                        <div class="invalid-feedback">Required</div>
+                                    </div>
+
+                                </div>
+
+                                <!-- max secction per page -->
+                                <div class="row mb-4 align-items-center border-bottom pb-3">
+                                    <div class="col-md-3">
+                                        <label class="fw-bold">Max Sections Per Page <span
+                                                class="text-danger">*</span></label>
+                                        <div class="text-muted small">Set maximum sections allowed per page.</div>
+                                    </div>
+
+                                    <!-- Max Sections -->
+                                    <div class="col-md-4">
+                                        <div class="input-group">
+                                            <input type="number" class="form-control" name="maxSectionsPerPage"
+                                                value="<%= plan ? plan.maxSectionsPerPage : '' %>"
+                                                placeholder="maximum sections allowed per page." required>
+                                        </div>
+                                         <div class="text-muted small mt-1"><strong>Note:</strong> Enter <code>0</code>
+                                            for unlimited sections.</div>
+                                        <div class="invalid-feedback">Required</div>
+                                    </div>
+
+                                </div>
+
+                                <!-- PREMIUM -->
+
+
+                            </div>
+                        </div>
+                        <!-- ============================= -->
+                        <!-- 3. FEATURE CONFIGURATION -->
+                        <!-- ============================= -->
+
+                        <div class="card mb-4">
+                            <div class="card-header bg-light">
+                                <h5 class="mb-0">Feature Configuration</h5>
+                                <div class="text-muted small">Enable or disable features per billing cycle</div>
+                            </div>
+
+                            <div class="card-body">
+ 
+                                <!-- FEATURES -->
+
+                                <!-- Header Row -->
+                                <div class="row fw-semibold text-muted border-bottom pb-2 mb-3">
+                                    <div class="col-md-6">Feature</div>
+                                    <div class="col-md-3 text-center">Status</div>
+                                </div>
+
+                                <!-- Feature Rows Render Here -->
+                                <div id="featureBox" class="border-bottom"></div>
+                                <div class="col-md-6 d-flex mt-5">
+                                    <div class="form-check form-switch">
+                                        <input class="form-check-input" type="checkbox" name="isPremium" <%=plan &&
+                                            plan.isPremium ? 'checked' : '' %>>
+                                        <label class="form-check-label fw-bold">Enable popular Plan?</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- ACTIONS -->
+                        <div class="card bg-light">
+                            <div class="card-body">
+                                <div class="row align-items-center">
+                                    <div class="col-md-6">
+                                        <button type="reset"
+                                            class="btn btn-outline-secondary me-2 <%= plan ? 'd-none' : '' %>">
+                                            Reset
+                                        </button>
+                                        <button type="submit" class="btn btn-primary px-4">Save Plan</button>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+
+
+
+
+                </div>
+            </div>
+            <!-- end Default Basic Forms -->
+        </div>
+    </div>
+    </div>
+
+
+    <%- include('includes/allscripts') %>
+        <script src="/js/view/addsubscriptionplan.js"></script>

@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "697845bf4c9fddf13c179e4a",
+    "name": "Admin",
+    "email": "admin@gmail.com",
+    "password": "$2b$10$xk/vTvtrVskEwfHQQqnnjuRu.7B2TE8Vtsk39WXtbPcHyI99FfNr.",
+    "profile": "/uploads/adminprofile/1776074410237-37447841.png",
+    "loginAttempts": 0,
+    "lockUntil": null,
+    "createdAt": "2025-11-21T06:32:28.690Z",
+    "updatedAt": "2026-08-03T08:38:50.721Z",
+    "__v": 0
+  }
+]

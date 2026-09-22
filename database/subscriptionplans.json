@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "6981c9a08cfd369ac88ff78c",
+    "order": 3,
+    "name": "Business",
+    "shortDescription": "Build unlimited websites with full flexibility, powerful features, and complete design freedom.",
+    "isFree": false,
+    "monthlyPrice": 19,
+    "yearlyPrice": 149,
+    "monthlyWebsiteLimit": 0,
+    "yearlyWebsiteLimit": 0,
+    "maxPages": 0,
+    "maxSectionsPerPage": 0,
+    "features": {
+      "logoFaviconUpload": {
+        "label": "Logo & Favicon Upload",
+        "status": true
+      },
+      "regenerateWebsite": {
+        "label": "Regenerate Website",
+        "status": true
+      },
+      "regenerateContent": {
+        "label": "Regenerate Content",
+        "status": true
+      },
+      "reorderSection": {
+        "label": "Reorder Section",
+        "status": true
+      },
+      "exportCode": {
+        "label": "Export Code",
+        "status": true
+      },
+      "editContent": {
+        "label": "Edit Content",
+        "status": true
+      }
+    },
+    "status": true,
+    "monthlyDiscount": 30,
+    "yearlyDiscount": 30,
+    "isPremium": false,
+    "billingType": [
+      "monthly",
+      "yearly"
+    ],
+    "createdAt": "2026-02-03T10:10:40.997Z",
+    "updatedAt": "2026-04-05T11:05:09.579Z",
+    "__v": 0
+  },
+  {
+    "_id": "6981e1218cfd369ac88ffd68",
+    "order": 2,
+    "name": "Pro",
+    "shortDescription": "Create professional websites with advanced customization and greater control over design and content.",
+    "isFree": false,
+    "monthlyPrice": 9,
+    "yearlyPrice": 79,
+    "monthlyWebsiteLimit": 10,
+    "yearlyWebsiteLimit": 120,
+    "maxPages": 10,
+    "maxSectionsPerPage": 12,
+    "features": {
+      "logoFaviconUpload": {
+        "label": "Logo & Favicon Upload",
+        "status": true
+      },
+      "regenerateWebsite": {
+        "label": "Regenerate Website",
+        "status": true
+      },
+      "regenerateContent": {
+        "label": "Regenerate Content",
+        "status": true
+      },
+      "reorderSection": {
+        "label": "Reorder Section",
+        "status": true
+      },
+      "exportCode": {
+        "label": "Export Code",
+        "status": true
+      },
+      "editContent": {
+        "label": "Edit Content",
+        "status": true
+      }
+    },
+    "status": true,
+    "monthlyDiscount": 20,
+    "yearlyDiscount": 20,
+    "isPremium": true,
+    "billingType": [
+      "monthly",
+      "yearly"
+    ],
+    "createdAt": "2026-02-03T11:50:57.329Z",
+    "updatedAt": "2026-04-05T11:04:49.708Z",
+    "__v": 0
+  },
+  {
+    "_id": "69ca5b98e595de8e213676f3",
+    "order": 1,
+    "name": "Starter",
+    "shortDescription": "Start building AI-powered websites with essential tools and basic customization options.",
+    "isFree": true,
+    "monthlyPrice": 0,
+    "yearlyPrice": 0,
+    "monthlyWebsiteLimit": 2,
+    "yearlyWebsiteLimit": 2,
+    "maxPages": 3,
+    "maxSectionsPerPage": 6,
+    "features": {
+      "logoFaviconUpload": {
+        "label": "Logo & Favicon Upload",
+        "status": false
+      },
+      "regenerateWebsite": {
+        "label": "Regenerate Website",
+        "status": false
+      },
+      "regenerateContent": {
+        "label": "Regenerate Content",
+        "status": true
+      },
+      "reorderSection": {
+        "label": "Reorder Section",
+        "status": true
+      },
+      "exportCode": {
+        "label": "Export Code",
+        "status": true
+      },
+      "editContent": {
+        "label": "Edit Content",
+        "status": true
+      }
+    },
+    "status": true,
+    "monthlyDiscount": 0,
+    "yearlyDiscount": 0,
+    "isPremium": false,
+    "billingType": [
+      "monthly",
+      "yearly"
+    ],
+    "createdAt": "2026-03-30T11:16:40.510Z",
+    "updatedAt": "2026-04-05T11:14:31.617Z",
+    "__v": 0
+  }
+]

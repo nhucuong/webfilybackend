@@ -1,0 +1,86 @@
+[
+  {
+    "_id": "69799e2634b386d8d27f4f5d",
+    "tag": "UI DESIGN",
+    "createdAt": "2026-01-28T05:27:02.554Z",
+    "updatedAt": "2026-01-28T05:27:02.554Z",
+    "__v": 0
+  },
+  {
+    "_id": "69799e2f34b386d8d27f4f60",
+    "tag": "USER EXPERIENCE",
+    "createdAt": "2026-01-28T05:27:11.833Z",
+    "updatedAt": "2026-01-28T05:27:11.833Z",
+    "__v": 0
+  },
+  {
+    "_id": "69799e3734b386d8d27f4f63",
+    "tag": "DARK MODE",
+    "createdAt": "2026-01-28T05:27:19.097Z",
+    "updatedAt": "2026-01-28T05:27:19.097Z",
+    "__v": 0
+  },
+  {
+    "_id": "69799e3e34b386d8d27f4f66",
+    "tag": "RESPONSIVE LAYOUT",
+    "createdAt": "2026-01-28T05:27:26.497Z",
+    "updatedAt": "2026-01-28T05:27:26.497Z",
+    "__v": 0
+  },
+  {
+    "_id": "69799e4634b386d8d27f4f69",
+    "tag": "INTERACTIVE ELEMENTS",
+    "createdAt": "2026-01-28T05:27:34.888Z",
+    "updatedAt": "2026-01-28T05:27:34.888Z",
+    "__v": 0
+  },
+  {
+    "_id": "69799e4d34b386d8d27f4f6c",
+    "tag": "SMOOTH ANIMATIONS",
+    "createdAt": "2026-01-28T05:27:41.529Z",
+    "updatedAt": "2026-01-28T05:27:41.529Z",
+    "__v": 0
+  },
+  {
+    "_id": "69799e5434b386d8d27f4f6f",
+    "tag": "ACCESSIBILITY",
+    "createdAt": "2026-01-28T05:27:48.799Z",
+    "updatedAt": "2026-01-28T05:27:48.799Z",
+    "__v": 0
+  },
+  {
+    "_id": "69799e5b34b386d8d27f4f72",
+    "tag": "HIGH PERFORMANCE",
+    "createdAt": "2026-01-28T05:27:55.983Z",
+    "updatedAt": "2026-01-28T05:27:55.983Z",
+    "__v": 0
+  },
+  {
+    "_id": "69799e6434b386d8d27f4f75",
+    "tag": "MODERN TYPOGRAPHY",
+    "createdAt": "2026-01-28T05:28:04.743Z",
+    "updatedAt": "2026-01-28T05:28:04.743Z",
+    "__v": 0
+  },
+  {
+    "_id": "69799e6c34b386d8d27f4f78",
+    "tag": "CLEAN CODE",
+    "createdAt": "2026-01-28T05:28:12.303Z",
+    "updatedAt": "2026-01-28T05:28:12.303Z",
+    "__v": 0
+  },
+  {
+    "_id": "69799e7434b386d8d27f4f7b",
+    "tag": "LATEST TECH STACK",
+    "createdAt": "2026-01-28T05:28:20.521Z",
+    "updatedAt": "2026-01-28T05:28:20.521Z",
+    "__v": 0
+  },
+  {
+    "_id": "69799e7c34b386d8d27f4f7e",
+    "tag": "SEAMLESS FLOW",
+    "createdAt": "2026-01-28T05:28:28.559Z",
+    "updatedAt": "2026-01-28T05:28:28.559Z",
+    "__v": 0
+  }
+]

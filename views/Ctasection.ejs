@@ -1,0 +1,66 @@
+<%- include('includes/header', {username: admin[0].name,email: admin[0].email } ) %>
+
+  <div class="body-wrapper">
+    <div class="container-fluid">
+      <div class="card bg-info-subtle shadow-none position-relative overflow-hidden mb-4">
+        <div class="card-body px-4 py-3">
+          <div class="row align-items-center">
+            <div class="col-md-8 col-sm-7">
+              <h4 class="fw-semibold mb-1">Manage CTA</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+
+                <div class="card shadow-sm">
+                <div class="card-body">
+
+                    <h4 class="mb-4">Update CTA Section</h4>
+
+                    <form id="sectionForm">
+
+                        <!-- TYPE (HIDDEN) -->
+                        <input type="hidden" name="type" value="<%= section ? section.type : 'cta' %>">
+
+                        <!-- LABEL + TITLE (ONE LINE) -->
+                        <div class="row mb-3">
+                           
+                            <div class="col-md-6">
+                                <label class="form-label fw-semibold">Title</label>
+                                <input type="text" class="form-control" name="title"
+                                    value="<%= section ? section.title : '' %>"
+                                    placeholder="Custom CTA for Every Requirement">
+                            </div>
+                            <div class="col-md-6">
+                                <label class="form-label fw-semibold">CTA Tag</label>
+                                <input type="text" class="form-control" name="subtitle"
+                                    value="<%= section ? section.subtitle : '' %>" placeholder="Cta Page – Custom Section"
+                                    >
+                            </div>
+
+                        </div>
+
+                        <!-- SHORT DESCRIPTION -->
+                        <div class="mb-4">
+                            <label class="form-label fw-semibold">Short Description</label>
+                            <textarea class="form-control" name="shortDescription" rows="3"
+                                placeholder="Write short description here..."
+                                ><%= section ? section.shortDescription : '' %></textarea>
+                        </div>
+
+                        <!-- BUTTON -->
+                        <button type="submit" class="btn btn-primary px-4">
+                            Update Section
+                        </button>
+
+                    </form>
+
+                </div>
+            </div>
+    </div>
+  </div>
+  </div>
+
+
+  <%- include('includes/allscripts') %>
+    <script src="/js/view/pagesection.js"></script>

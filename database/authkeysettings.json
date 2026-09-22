@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "6a5468bbc28d7f052ff069cf",
+    "google": {
+      "enabled": true,
+      "apiKey": "#############",
+      "apiSecretKey": "#############",
+      "apiRedirectUrl": "http://localhost:5001/api/auth/google/callback"
+    },
+    "github": {
+      "enabled": true,
+      "apiKey": "#############",
+      "apiSecretKey": "#############",
+      "apiRedirectUrl": "http://localhost:5001/api/auth/github/callback"
+    },
+    "createdAt": "2026-07-13T04:25:31.566Z",
+    "updatedAt": "2026-07-13T04:25:31.566Z",
+    "__v": 0
+  }
+]

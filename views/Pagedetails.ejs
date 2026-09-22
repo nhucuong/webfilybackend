@@ -1,0 +1,69 @@
+<%- include('includes/header', {username: admin[0].name,email: admin[0].email } ) %>
+<link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-lite.min.css" rel="stylesheet">
+
+    <div class="body-wrapper">
+        <div class="container-fluid">
+            <div class="card bg-info-subtle shadow-none position-relative overflow-hidden mb-4">
+                <div class="card-body px-4 py-3">
+                    <div class="row align-items-center">
+                        <div class="col-9">
+                            <h4 class="fw-semibold mb-8">Manage Page Details</h4>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="page-manager">
+                <div class="page-container">
+                    <!-- Sidebar with Page Names -->
+                    <div class="page-sidebar">
+                        <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist"
+                            aria-orientation="vertical">
+                            <% const pageNames=["Privacy policy" , "Security policy" , "Terms of Service"]; %>
+                                <% pageNames.forEach((name, index)=> { %>
+                                    <a class="nav-link <%= index === 0 ? 'active' : '' %>"
+                                        id="v-pills-<%= index+1 %>-tab" data-bs-toggle="pill"
+                                        href="#v-pills-<%= index+1 %>" role="tab" aria-controls="v-pills-<%= index+1 %>"
+                                        aria-selected="<%= index === 0 ? 'true' : 'false' %>">
+                                        <%= name %>
+                                    </a>
+                                    <% }) %>
+                        </div>
+                    </div>
+                    <!-- Content Editor Area -->
+                    <div class="page-content tab-content" id="v-pills-tabContent">
+                        <% pageNames.forEach((name, index)=> { %>
+                            <div class="tab-pane fade <%= index === 0 ? 'show active' : '' %>"
+                                id="v-pills-<%= index+1 %>" role="tabpanel"
+                                aria-labelledby="v-pills-<%= index+1 %>-tab">
+                                <h4>
+                                    <%= name %> Page Content
+                                </h4>
+                                <form action="/addpagedetails" method="POST" id="pageForm-<%= index+1 %>">
+                                    <input type="hidden" name="pageId" value="<%= index+1 %>">
+
+                                    <!-- Quill Editor -->
+                                    <textarea id="editor-<%= index+1 %>" name="content"></textarea>
+
+                                    <!-- Hidden input to store content -->
+                                    <input type="hidden" id="content-<%= index+1 %>" name="content">
+
+                                    <button type="submit" class="btn btn-primary mt-3">Save Content</button>
+                                </form>
+                            </div>
+                            <% }) %>
+                    </div>
+                </div>
+            </div>
+            <script>
+                window.pageNames = <%- JSON.stringify(pageNames) %>;
+                window.existingContent = <%- JSON.stringify(pages || []) %>;
+            </script>
+        </div>
+    </div>
+    </div>
+
+    <%- include('includes/allscripts') %>
+<script src="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-lite.min.js"></script>
+        <script src="/js/view/pagedetail.js"></script>

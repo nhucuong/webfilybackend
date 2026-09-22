@@ -1,0 +1,6645 @@
+[
+  {
+    "_id": "6a366f104b693f6bfd5a9f90",
+    "key": "Home",
+    "createdAt": "2026-06-20T10:44:32.117Z",
+    "updatedAt": "2026-06-20T10:44:32.117Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a366f524b693f6bfd5a9fdd",
+    "key": "Pricing",
+    "createdAt": "2026-06-20T10:45:38.773Z",
+    "updatedAt": "2026-06-20T10:45:38.773Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a366f674b693f6bfd5a9fe9",
+    "key": "How It Work",
+    "createdAt": "2026-06-20T10:45:59.549Z",
+    "updatedAt": "2026-06-20T10:45:59.549Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a366f6f4b693f6bfd5a9ff7",
+    "key": "Blog",
+    "createdAt": "2026-06-20T10:46:07.615Z",
+    "updatedAt": "2026-06-20T10:46:07.615Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a366f7d4b693f6bfd5aa007",
+    "key": "Contact US",
+    "createdAt": "2026-06-20T10:46:21.652Z",
+    "updatedAt": "2026-06-20T10:46:21.652Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a366fa34b693f6bfd5aa01b",
+    "key": "Dashboard",
+    "createdAt": "2026-06-20T10:46:59.302Z",
+    "updatedAt": "2026-06-20T10:46:59.302Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a366fc24b693f6bfd5aa031",
+    "key": "My Profile",
+    "createdAt": "2026-06-20T10:47:30.766Z",
+    "updatedAt": "2026-06-20T10:47:30.766Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a366fca4b693f6bfd5aa047",
+    "key": "Website History",
+    "createdAt": "2026-06-20T10:47:38.941Z",
+    "updatedAt": "2026-06-20T10:47:38.941Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a366fd64b693f6bfd5aa05f",
+    "key": "Support",
+    "createdAt": "2026-06-20T10:47:50.279Z",
+    "updatedAt": "2026-06-20T10:47:50.279Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a366fe04b693f6bfd5aa079",
+    "key": "Logout",
+    "createdAt": "2026-06-20T10:48:00.663Z",
+    "updatedAt": "2026-06-20T10:48:00.663Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a366ff04b693f6bfd5aa095",
+    "key": "Sign In",
+    "createdAt": "2026-06-20T10:48:16.004Z",
+    "updatedAt": "2026-06-20T10:48:16.004Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3671744b693f6bfd5aa189",
+    "key": "Generate AI Website",
+    "createdAt": "2026-06-20T10:54:44.739Z",
+    "updatedAt": "2026-06-20T10:54:44.739Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3671864b693f6bfd5aa1a9",
+    "key": "Explore Free Plan",
+    "createdAt": "2026-06-20T10:55:02.444Z",
+    "updatedAt": "2026-06-20T10:55:02.444Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3672d77b266a1fba06bba3",
+    "key": "View More",
+    "createdAt": "2026-06-20T11:00:39.554Z",
+    "updatedAt": "2026-06-20T11:00:39.554Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3673947b266a1fba06bbf5",
+    "key": "Start Building Now",
+    "createdAt": "2026-06-20T11:03:48.514Z",
+    "updatedAt": "2026-06-20T11:03:48.514Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3673e97b266a1fba06bc45",
+    "key": "save",
+    "createdAt": "2026-06-20T11:05:13.249Z",
+    "updatedAt": "2026-06-20T11:05:13.249Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3673f87b266a1fba06bc6d",
+    "key": "Most Popular",
+    "createdAt": "2026-06-20T11:05:28.705Z",
+    "updatedAt": "2026-06-20T11:05:28.705Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3674087b266a1fba06bc99",
+    "key": "Free",
+    "createdAt": "2026-06-20T11:05:44.858Z",
+    "updatedAt": "2026-06-20T11:05:44.858Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3674527b266a1fba06bcc5",
+    "key": "Start Building Free",
+    "createdAt": "2026-06-20T11:06:58.979Z",
+    "updatedAt": "2026-06-20T11:06:58.979Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3674b37b266a1fba06bd1d",
+    "key": "Still have questions?",
+    "createdAt": "2026-06-20T11:08:35.737Z",
+    "updatedAt": "2026-06-20T11:08:35.737Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3674c07b266a1fba06bd4d",
+    "key": "Can't find the answer you're looking for? Our team is here to help.",
+    "createdAt": "2026-06-20T11:08:48.808Z",
+    "updatedAt": "2026-06-20T11:08:48.808Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3674cf7b266a1fba06bd7f",
+    "key": "Contact Support",
+    "createdAt": "2026-06-20T11:09:03.704Z",
+    "updatedAt": "2026-06-20T11:09:03.704Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36752c7b266a1fba06bdd7",
+    "key": "Generate My Website",
+    "createdAt": "2026-06-20T11:10:36.582Z",
+    "updatedAt": "2026-06-20T11:10:36.582Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3675957b266a1fba06be66",
+    "key": "Portfolio",
+    "createdAt": "2026-06-20T11:12:21.504Z",
+    "updatedAt": "2026-06-20T11:12:21.504Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3675a27b266a1fba06be9e",
+    "key": "Policy Links",
+    "createdAt": "2026-06-20T11:12:34.878Z",
+    "updatedAt": "2026-06-20T11:12:34.878Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3675b37b266a1fba06bed8",
+    "key": "Privacy Policy",
+    "createdAt": "2026-06-20T11:12:51.198Z",
+    "updatedAt": "2026-06-20T11:12:51.198Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3675c27b266a1fba06bf14",
+    "key": "Security Policy",
+    "createdAt": "2026-06-20T11:13:06.862Z",
+    "updatedAt": "2026-06-20T11:13:06.862Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3675d27b266a1fba06bf52",
+    "key": "Terms of Service",
+    "createdAt": "2026-06-20T11:13:22.494Z",
+    "updatedAt": "2026-06-20T11:13:22.494Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3675db7b266a1fba06bf92",
+    "key": "Login",
+    "createdAt": "2026-06-20T11:13:31.334Z",
+    "updatedAt": "2026-06-20T11:13:31.334Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3675ed7b266a1fba06bfd4",
+    "key": "Sign Up",
+    "createdAt": "2026-06-20T11:13:49.175Z",
+    "updatedAt": "2026-06-20T11:13:49.175Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3675fd7b266a1fba06c01a",
+    "key": "Start Build Now",
+    "createdAt": "2026-06-20T11:14:05.581Z",
+    "updatedAt": "2026-06-20T11:14:05.581Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36760a7b266a1fba06c060",
+    "key": "Start Creating Now",
+    "createdAt": "2026-06-20T11:14:18.455Z",
+    "updatedAt": "2026-06-20T11:14:18.455Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36761b7b266a1fba06c0a8",
+    "key": "Get the latest updates from",
+    "createdAt": "2026-06-20T11:14:35.822Z",
+    "updatedAt": "2026-06-20T11:14:35.822Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3676297b266a1fba06c0f2",
+    "key": "Email address",
+    "createdAt": "2026-06-20T11:14:49.775Z",
+    "updatedAt": "2026-06-20T11:14:49.775Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36763f7b266a1fba06c13e",
+    "key": "Subscribe",
+    "createdAt": "2026-06-20T11:15:11.149Z",
+    "updatedAt": "2026-06-20T11:15:11.149Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367791b6ab85c24c5df81a",
+    "key": "Lost in Space?",
+    "createdAt": "2026-06-20T11:20:49.149Z",
+    "updatedAt": "2026-06-20T11:20:49.149Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3677abb6ab85c24c5df86a",
+    "key": "The page you are looking for doesn't exist or has been moved. Don't worry, we can help you find your way back.",
+    "createdAt": "2026-06-20T11:21:15.118Z",
+    "updatedAt": "2026-06-20T11:21:15.118Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3677cfb6ab85c24c5df8c9",
+    "key": "BACK TO HOME",
+    "createdAt": "2026-06-20T11:21:51.309Z",
+    "updatedAt": "2026-06-20T11:21:51.309Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367925b6ab85c24c5df9a5",
+    "key": "hero",
+    "createdAt": "2026-06-20T11:27:33.229Z",
+    "updatedAt": "2026-06-20T11:27:33.229Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36792fb6ab85c24c5df9fb",
+    "key": "Create Support Ticket",
+    "createdAt": "2026-06-20T11:27:43.427Z",
+    "updatedAt": "2026-06-20T11:27:43.427Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367941b6ab85c24c5dfa7d",
+    "key": "We're here to help. Describe your issue and we'll get back to you soon.",
+    "createdAt": "2026-06-20T11:28:01.452Z",
+    "updatedAt": "2026-06-20T11:28:01.452Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36794db6ab85c24c5dfad7",
+    "key": "Subject",
+    "createdAt": "2026-06-20T11:28:13.301Z",
+    "updatedAt": "2026-06-20T11:28:13.301Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367959b6ab85c24c5dfb33",
+    "key": "Priority",
+    "createdAt": "2026-06-20T11:28:25.604Z",
+    "updatedAt": "2026-06-20T11:28:25.604Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367968b6ab85c24c5dfb91",
+    "key": "Low - General question",
+    "createdAt": "2026-06-20T11:28:40.387Z",
+    "updatedAt": "2026-06-20T11:28:40.387Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36798eb6ab85c24c5dfbf1",
+    "key": "Medium - Need assistance",
+    "createdAt": "2026-06-20T11:29:18.442Z",
+    "updatedAt": "2026-06-20T11:29:18.442Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36799cb6ab85c24c5dfc53",
+    "key": "High - Critical issue",
+    "createdAt": "2026-06-20T11:29:32.283Z",
+    "updatedAt": "2026-06-20T11:29:32.283Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3679adb6ab85c24c5dfcb7",
+    "key": "Message",
+    "createdAt": "2026-06-20T11:29:49.490Z",
+    "updatedAt": "2026-06-20T11:29:49.490Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3679c5b6ab85c24c5dfd1d",
+    "key": "Brief description of your issue",
+    "createdAt": "2026-06-20T11:30:13.587Z",
+    "updatedAt": "2026-06-20T11:30:13.587Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367aaab6ab85c24c5dfd85",
+    "key": "Select priority",
+    "createdAt": "2026-06-20T11:34:02.401Z",
+    "updatedAt": "2026-06-20T11:34:02.401Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367abeb6ab85c24c5dfdef",
+    "key": "Please provide as much detail as possible...",
+    "createdAt": "2026-06-20T11:34:22.584Z",
+    "updatedAt": "2026-06-20T11:34:22.584Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367addb6ab85c24c5dfe5b",
+    "key": "Attachments (optional)",
+    "createdAt": "2026-06-20T11:34:53.465Z",
+    "updatedAt": "2026-06-20T11:34:53.465Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367aeeb6ab85c24c5dfec9",
+    "key": "Click to upload",
+    "createdAt": "2026-06-20T11:35:10.392Z",
+    "updatedAt": "2026-06-20T11:35:10.392Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367afab6ab85c24c5dff39",
+    "key": "or drag and drop",
+    "createdAt": "2026-06-20T11:35:22.104Z",
+    "updatedAt": "2026-06-20T11:35:22.104Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367b11b6ab85c24c5dffab",
+    "key": "Cancel",
+    "createdAt": "2026-06-20T11:35:45.608Z",
+    "updatedAt": "2026-06-20T11:35:45.608Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367b1fb6ab85c24c5e001f",
+    "key": "Submit Ticket",
+    "createdAt": "2026-06-20T11:35:59.937Z",
+    "updatedAt": "2026-06-20T11:35:59.937Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367b54b6ab85c24c5e0095",
+    "key": "Expected Response Time",
+    "createdAt": "2026-06-20T11:36:52.705Z",
+    "updatedAt": "2026-06-20T11:36:52.705Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367b6cb6ab85c24c5e010d",
+    "key": "High Priority: 2-4 hours",
+    "createdAt": "2026-06-20T11:37:16.359Z",
+    "updatedAt": "2026-06-20T11:37:16.359Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367b7db6ab85c24c5e0187",
+    "key": "Medium Priority: 8-12 hours",
+    "createdAt": "2026-06-20T11:37:33.633Z",
+    "updatedAt": "2026-06-20T11:37:33.633Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367b8ab6ab85c24c5e0203",
+    "key": "Low Priority: 24-48 hours",
+    "createdAt": "2026-06-20T11:37:46.001Z",
+    "updatedAt": "2026-06-20T11:37:46.001Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367b9ab6ab85c24c5e0281",
+    "key": "Other Contact Options",
+    "createdAt": "2026-06-20T11:38:02.176Z",
+    "updatedAt": "2026-06-20T11:38:02.176Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367ba9b6ab85c24c5e0301",
+    "key": "Email Support",
+    "createdAt": "2026-06-20T11:38:17.065Z",
+    "updatedAt": "2026-06-20T11:38:17.065Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367c05b6ab85c24c5e0383",
+    "key": "Creating Your Website",
+    "createdAt": "2026-06-20T11:39:49.786Z",
+    "updatedAt": "2026-06-20T11:39:49.786Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367c12b6ab85c24c5e0407",
+    "key": "Our AI is working its magic to build your perfect website",
+    "createdAt": "2026-06-20T11:40:02.497Z",
+    "updatedAt": "2026-06-20T11:40:02.497Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367c42b6ab85c24c5e048d",
+    "key": "Your website will be fully responsive, SEO-optimized, and ready to customize",
+    "createdAt": "2026-06-20T11:40:50.722Z",
+    "updatedAt": "2026-06-20T11:40:50.722Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367c5ab6ab85c24c5e0515",
+    "key": "Complete",
+    "createdAt": "2026-06-20T11:41:14.374Z",
+    "updatedAt": "2026-06-20T11:41:14.374Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367c91b6ab85c24c5e062a",
+    "key": "Search articles...",
+    "createdAt": "2026-06-20T11:42:09.336Z",
+    "updatedAt": "2026-06-20T11:42:09.336Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367ca6b6ab85c24c5e06b6",
+    "key": "Featured Article",
+    "createdAt": "2026-06-20T11:42:30.855Z",
+    "updatedAt": "2026-06-20T11:42:30.855Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367cc6b6ab85c24c5e0744",
+    "key": "Read More",
+    "createdAt": "2026-06-20T11:43:02.048Z",
+    "updatedAt": "2026-06-20T11:43:02.048Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367cd4b6ab85c24c5e07d4",
+    "key": "No articles found matching your criteria.",
+    "createdAt": "2026-06-20T11:43:16.599Z",
+    "updatedAt": "2026-06-20T11:43:16.599Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367d53b6ab85c24c5e0866",
+    "key": "Related Articles",
+    "createdAt": "2026-06-20T11:45:23.664Z",
+    "updatedAt": "2026-06-20T11:45:23.664Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367db6b6ab85c24c5e08fa",
+    "key": "Select Payment Method",
+    "createdAt": "2026-06-20T11:47:02.815Z",
+    "updatedAt": "2026-06-20T11:47:02.815Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367dbeb6ab85c24c5e0990",
+    "key": "Secure Payment",
+    "createdAt": "2026-06-20T11:47:10.589Z",
+    "updatedAt": "2026-06-20T11:47:10.589Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367dc5b6ab85c24c5e0a28",
+    "key": "Checkout",
+    "createdAt": "2026-06-20T11:47:17.205Z",
+    "updatedAt": "2026-06-20T11:47:17.205Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367dceb6ab85c24c5e0ac2",
+    "key": "Complete your purchase securely",
+    "createdAt": "2026-06-20T11:47:26.038Z",
+    "updatedAt": "2026-06-20T11:47:26.038Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367df4b6ab85c24c5e0b5e",
+    "key": "PAY IN",
+    "createdAt": "2026-06-20T11:48:04.469Z",
+    "updatedAt": "2026-06-20T11:48:04.469Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367e06b6ab85c24c5e0bfc",
+    "key": "Payment Details",
+    "createdAt": "2026-06-20T11:48:22.295Z",
+    "updatedAt": "2026-06-20T11:48:22.295Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367e12b6ab85c24c5e0c9c",
+    "key": "Product",
+    "createdAt": "2026-06-20T11:48:34.221Z",
+    "updatedAt": "2026-06-20T11:48:34.221Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367e23b6ab85c24c5e0d3e",
+    "key": "Billing Type",
+    "createdAt": "2026-06-20T11:48:51.782Z",
+    "updatedAt": "2026-06-20T11:48:51.782Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367e31b6ab85c24c5e0de2",
+    "key": "Amount",
+    "createdAt": "2026-06-20T11:49:05.743Z",
+    "updatedAt": "2026-06-20T11:49:05.743Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367e3ab6ab85c24c5e0e88",
+    "key": "Discount",
+    "createdAt": "2026-06-20T11:49:14.967Z",
+    "updatedAt": "2026-06-20T11:49:14.967Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367e4ab6ab85c24c5e0f30",
+    "key": "Processing Charge",
+    "createdAt": "2026-06-20T11:49:30.661Z",
+    "updatedAt": "2026-06-20T11:49:30.661Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367e59b6ab85c24c5e0fda",
+    "key": "Total Payable",
+    "createdAt": "2026-06-20T11:49:45.381Z",
+    "updatedAt": "2026-06-20T11:49:45.381Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367e6ab6ab85c24c5e1086",
+    "key": "Confirm Payment",
+    "createdAt": "2026-06-20T11:50:02.525Z",
+    "updatedAt": "2026-06-20T11:50:02.525Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367e7bb6ab85c24c5e1134",
+    "key": "Your funds are protected by industry-leading encryption. We ensure a secure deposit process with world-class payment options.",
+    "createdAt": "2026-06-20T11:50:19.581Z",
+    "updatedAt": "2026-06-20T11:50:19.581Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367ed8b6ab85c24c5e11e4",
+    "key": "First Name is required",
+    "createdAt": "2026-06-20T11:51:52.651Z",
+    "updatedAt": "2026-06-20T11:51:52.651Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367ee7b6ab85c24c5e1296",
+    "key": "Last Name is required",
+    "createdAt": "2026-06-20T11:52:07.693Z",
+    "updatedAt": "2026-06-20T11:52:07.693Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367efab6ab85c24c5e134a",
+    "key": "Email Address is required",
+    "createdAt": "2026-06-20T11:52:26.421Z",
+    "updatedAt": "2026-06-20T11:52:26.421Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367f0ab6ab85c24c5e1400",
+    "key": "Invalid email format",
+    "createdAt": "2026-06-20T11:52:42.452Z",
+    "updatedAt": "2026-06-20T11:52:42.452Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367f18b6ab85c24c5e14b8",
+    "key": "Invalid phone format",
+    "createdAt": "2026-06-20T11:52:56.933Z",
+    "updatedAt": "2026-06-20T11:52:56.933Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367f28b6ab85c24c5e1572",
+    "key": "Subject is required",
+    "createdAt": "2026-06-20T11:53:12.582Z",
+    "updatedAt": "2026-06-20T11:53:12.582Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367f45b6ab85c24c5e162e",
+    "key": "Message is required",
+    "createdAt": "2026-06-20T11:53:41.141Z",
+    "updatedAt": "2026-06-20T11:53:41.141Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367f72b6ab85c24c5e16ec",
+    "key": "Email Us",
+    "createdAt": "2026-06-20T11:54:26.037Z",
+    "updatedAt": "2026-06-20T11:54:26.037Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367f88b6ab85c24c5e17ac",
+    "key": "Call Us",
+    "createdAt": "2026-06-20T11:54:48.467Z",
+    "updatedAt": "2026-06-20T11:54:48.467Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367f95b6ab85c24c5e186e",
+    "key": "Visit Us",
+    "createdAt": "2026-06-20T11:55:01.724Z",
+    "updatedAt": "2026-06-20T11:55:01.724Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367fa4b6ab85c24c5e1932",
+    "key": "Support Hours",
+    "createdAt": "2026-06-20T11:55:16.292Z",
+    "updatedAt": "2026-06-20T11:55:16.292Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367fdfb6ab85c24c5e19f8",
+    "key": "Contact us",
+    "createdAt": "2026-06-20T11:56:15.998Z",
+    "updatedAt": "2026-06-20T11:56:15.998Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a367ff3b6ab85c24c5e1ac0",
+    "key": "Get in Touch",
+    "createdAt": "2026-06-20T11:56:35.692Z",
+    "updatedAt": "2026-06-20T11:56:35.692Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368005b6ab85c24c5e1b8a",
+    "key": "we are here to help you!",
+    "createdAt": "2026-06-20T11:56:53.083Z",
+    "updatedAt": "2026-06-20T11:56:53.083Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368072b6ab85c24c5e1c56",
+    "key": "Send us a Message",
+    "createdAt": "2026-06-20T11:58:42.237Z",
+    "updatedAt": "2026-06-20T11:58:42.237Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36807cb6ab85c24c5e1d24",
+    "key": "Fill out the form below and our team will get back to you shortly",
+    "createdAt": "2026-06-20T11:58:52.715Z",
+    "updatedAt": "2026-06-20T11:58:52.715Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368094b6ab85c24c5e1df4",
+    "key": "First Name",
+    "createdAt": "2026-06-20T11:59:16.755Z",
+    "updatedAt": "2026-06-20T11:59:16.755Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3680b0b6ab85c24c5e1ec6",
+    "key": "Last Name",
+    "createdAt": "2026-06-20T11:59:44.651Z",
+    "updatedAt": "2026-06-20T11:59:44.651Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3680bdb6ab85c24c5e1f9a",
+    "key": "Email Address",
+    "createdAt": "2026-06-20T11:59:57.483Z",
+    "updatedAt": "2026-06-20T11:59:57.483Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3680cfb6ab85c24c5e2070",
+    "key": "Phone Number",
+    "createdAt": "2026-06-20T12:00:15.515Z",
+    "updatedAt": "2026-06-20T12:00:15.515Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3680efb6ab85c24c5e221c",
+    "key": "General Inquiry",
+    "createdAt": "2026-06-20T12:00:47.091Z",
+    "updatedAt": "2026-06-20T12:00:47.091Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3680fdb6ab85c24c5e22f6",
+    "key": "Technical Support",
+    "createdAt": "2026-06-20T12:01:01.180Z",
+    "updatedAt": "2026-06-20T12:01:01.180Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36810cb6ab85c24c5e23d2",
+    "key": "Sales Question",
+    "createdAt": "2026-06-20T12:01:16.524Z",
+    "updatedAt": "2026-06-20T12:01:16.524Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36811ab6ab85c24c5e24b0",
+    "key": "Billing Issue",
+    "createdAt": "2026-06-20T12:01:30.450Z",
+    "updatedAt": "2026-06-20T12:01:30.450Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368125b6ab85c24c5e2590",
+    "key": "Feedback",
+    "createdAt": "2026-06-20T12:01:41.755Z",
+    "updatedAt": "2026-06-20T12:01:41.755Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368131b6ab85c24c5e2672",
+    "key": "Other",
+    "createdAt": "2026-06-20T12:01:53.331Z",
+    "updatedAt": "2026-06-20T12:01:53.331Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368151b6ab85c24c5e27c6",
+    "key": "Sending...",
+    "createdAt": "2026-06-20T12:02:25.962Z",
+    "updatedAt": "2026-06-20T12:02:25.962Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36815bb6ab85c24c5e28ac",
+    "key": "Send Message",
+    "createdAt": "2026-06-20T12:02:35.986Z",
+    "updatedAt": "2026-06-20T12:02:35.986Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36817db6ab85c24c5e2994",
+    "key": "Connect With Us",
+    "createdAt": "2026-06-20T12:03:09.706Z",
+    "updatedAt": "2026-06-20T12:03:09.706Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36818bb6ab85c24c5e2a7e",
+    "key": "Follow us on social media for updates, tips, and community support",
+    "createdAt": "2026-06-20T12:03:23.433Z",
+    "updatedAt": "2026-06-20T12:03:23.433Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3681abb6ab85c24c5e2b6a",
+    "key": "Location Map",
+    "createdAt": "2026-06-20T12:03:55.703Z",
+    "updatedAt": "2026-06-20T12:03:55.703Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3681ceb6ab85c24c5e2c58",
+    "key": "Tell us how we can help you...",
+    "createdAt": "2026-06-20T12:04:30.058Z",
+    "updatedAt": "2026-06-20T12:04:30.058Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3681deb6ab85c24c5e2d48",
+    "key": "Select a subject",
+    "createdAt": "2026-06-20T12:04:46.562Z",
+    "updatedAt": "2026-06-20T12:04:46.562Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3682cbb6ab85c24c5e2e3a",
+    "key": "Check your email",
+    "createdAt": "2026-06-20T12:08:43.187Z",
+    "updatedAt": "2026-06-20T12:08:43.187Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3682d3b6ab85c24c5e2f2e",
+    "key": "Forgot Password?",
+    "createdAt": "2026-06-20T12:08:51.673Z",
+    "updatedAt": "2026-06-20T12:08:51.673Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3682f5b6ab85c24c5e3024",
+    "key": "We have sent a password reset link to",
+    "createdAt": "2026-06-20T12:09:25.625Z",
+    "updatedAt": "2026-06-20T12:09:25.625Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368310b6ab85c24c5e311c",
+    "key": "No worries, we'll send you reset instructions.",
+    "createdAt": "2026-06-20T12:09:52.274Z",
+    "updatedAt": "2026-06-20T12:09:52.274Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368343b6ab85c24c5e3291",
+    "key": "Enter your email",
+    "createdAt": "2026-06-20T12:10:43.878Z",
+    "updatedAt": "2026-06-20T12:10:43.878Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368361b6ab85c24c5e338d",
+    "key": "Reset Password",
+    "createdAt": "2026-06-20T12:11:13.983Z",
+    "updatedAt": "2026-06-20T12:11:13.983Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368373b6ab85c24c5e348b",
+    "key": "Open Email App",
+    "createdAt": "2026-06-20T12:11:31.864Z",
+    "updatedAt": "2026-06-20T12:11:31.864Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36837fb6ab85c24c5e358b",
+    "key": "Try another email",
+    "createdAt": "2026-06-20T12:11:43.168Z",
+    "updatedAt": "2026-06-20T12:11:43.168Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36839db6ab85c24c5e368d",
+    "key": "Back to Log In",
+    "createdAt": "2026-06-20T12:12:13.409Z",
+    "updatedAt": "2026-06-20T12:12:13.409Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3683f7b6ab85c24c5e3791",
+    "key": "Email address is required",
+    "createdAt": "2026-06-20T12:13:43.184Z",
+    "updatedAt": "2026-06-20T12:13:43.184Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36840ab6ab85c24c5e3897",
+    "key": "Please enter a valid email address",
+    "createdAt": "2026-06-20T12:14:02.724Z",
+    "updatedAt": "2026-06-20T12:14:02.724Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36841ab6ab85c24c5e399f",
+    "key": "Failed to send reset instructions. Please try again.",
+    "createdAt": "2026-06-20T12:14:18.641Z",
+    "updatedAt": "2026-06-20T12:14:18.641Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3684f3b6ab85c24c5e3aa9",
+    "key": "Logging you in...",
+    "createdAt": "2026-06-20T12:17:55.720Z",
+    "updatedAt": "2026-06-20T12:17:55.720Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3684ffb6ab85c24c5e3bb5",
+    "key": "Please wait",
+    "createdAt": "2026-06-20T12:18:07.862Z",
+    "updatedAt": "2026-06-20T12:18:07.862Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36850db6ab85c24c5e3cc3",
+    "key": "Login Failed",
+    "createdAt": "2026-06-20T12:18:21.365Z",
+    "updatedAt": "2026-06-20T12:18:21.365Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368518b6ab85c24c5e3dd3",
+    "key": "Redirecting...",
+    "createdAt": "2026-06-20T12:18:32.798Z",
+    "updatedAt": "2026-06-20T12:18:32.798Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368524b6ab85c24c5e3ee5",
+    "key": "Login Successful",
+    "createdAt": "2026-06-20T12:18:44.592Z",
+    "updatedAt": "2026-06-20T12:18:44.592Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368530b6ab85c24c5e3ff9",
+    "key": "Redirecting to dashboard...",
+    "createdAt": "2026-06-20T12:18:56.149Z",
+    "updatedAt": "2026-06-20T12:18:56.149Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368559b6ab85c24c5e410f",
+    "key": "Your account has been banned. Please contact support.",
+    "createdAt": "2026-06-20T12:19:37.872Z",
+    "updatedAt": "2026-06-20T12:19:37.872Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3685acb6ab85c24c5e4227",
+    "key": "Please enter the complete 4-digit code",
+    "createdAt": "2026-06-20T12:21:00.654Z",
+    "updatedAt": "2026-06-20T12:21:00.654Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3685bdb6ab85c24c5e4341",
+    "key": "Verification failed. Please try again.",
+    "createdAt": "2026-06-20T12:21:17.061Z",
+    "updatedAt": "2026-06-20T12:21:17.061Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3685cdb6ab85c24c5e445d",
+    "key": "Resend OTP failed. Please try again.",
+    "createdAt": "2026-06-20T12:21:33.478Z",
+    "updatedAt": "2026-06-20T12:21:33.478Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3685e3b6ab85c24c5e457b",
+    "key": "OTP Verification",
+    "createdAt": "2026-06-20T12:21:55.358Z",
+    "updatedAt": "2026-06-20T12:21:55.358Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3685f0b6ab85c24c5e469b",
+    "key": "Enter the 4-digit code sent to",
+    "createdAt": "2026-06-20T12:22:08.623Z",
+    "updatedAt": "2026-06-20T12:22:08.623Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368628b6ab85c24c5e47bd",
+    "key": "Didn't receive the code?",
+    "createdAt": "2026-06-20T12:23:04.975Z",
+    "updatedAt": "2026-06-20T12:23:04.975Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36864db6ab85c24c5e48e1",
+    "key": "Verifying...",
+    "createdAt": "2026-06-20T12:23:41.814Z",
+    "updatedAt": "2026-06-20T12:23:41.814Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36865ab6ab85c24c5e4a07",
+    "key": "Verify & Proceed",
+    "createdAt": "2026-06-20T12:23:54.964Z",
+    "updatedAt": "2026-06-20T12:23:54.964Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36866db6ab85c24c5e4b2f",
+    "key": "Resend Code",
+    "createdAt": "2026-06-20T12:24:13.853Z",
+    "updatedAt": "2026-06-20T12:24:13.853Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368696b6ab85c24c5e4c59",
+    "key": "Payment Failed",
+    "createdAt": "2026-06-20T12:24:54.380Z",
+    "updatedAt": "2026-06-20T12:24:54.380Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3686a5b6ab85c24c5e4d85",
+    "key": "We couldn't process your payment. Don't worry, no funds have been deducted from your account.",
+    "createdAt": "2026-06-20T12:25:09.734Z",
+    "updatedAt": "2026-06-20T12:25:09.734Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3686b4b6ab85c24c5e4eb3",
+    "key": "Common reasons",
+    "createdAt": "2026-06-20T12:25:24.486Z",
+    "updatedAt": "2026-06-20T12:25:24.486Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3686c2b6ab85c24c5e4fe3",
+    "key": "Insufficient funds in the account",
+    "createdAt": "2026-06-20T12:25:38.053Z",
+    "updatedAt": "2026-06-20T12:25:38.053Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3686cfb6ab85c24c5e5115",
+    "key": "Incorrect card details (CVV or Expiry)",
+    "createdAt": "2026-06-20T12:25:51.270Z",
+    "updatedAt": "2026-06-20T12:25:51.270Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3686dbb6ab85c24c5e5249",
+    "key": "Bank declined the international transaction",
+    "createdAt": "2026-06-20T12:26:03.613Z",
+    "updatedAt": "2026-06-20T12:26:03.613Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3686f5b6ab85c24c5e537f",
+    "key": "Try Again",
+    "createdAt": "2026-06-20T12:26:29.212Z",
+    "updatedAt": "2026-06-20T12:26:29.212Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368748b6ab85c24c5e5551",
+    "key": "Total Payment",
+    "createdAt": "2026-06-20T12:27:52.020Z",
+    "updatedAt": "2026-06-20T12:27:52.020Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368757b6ab85c24c5e568b",
+    "key": "successful Payment",
+    "createdAt": "2026-06-20T12:28:07.843Z",
+    "updatedAt": "2026-06-20T12:28:07.843Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368767b6ab85c24c5e57c7",
+    "key": "Failed Payment",
+    "createdAt": "2026-06-20T12:28:23.605Z",
+    "updatedAt": "2026-06-20T12:28:23.605Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368775b6ab85c24c5e5905",
+    "key": "This Year Payment",
+    "createdAt": "2026-06-20T12:28:37.611Z",
+    "updatedAt": "2026-06-20T12:28:37.611Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368795b6ab85c24c5e5a45",
+    "key": "Payment History",
+    "createdAt": "2026-06-20T12:29:09.643Z",
+    "updatedAt": "2026-06-20T12:29:09.643Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3687abb6ab85c24c5e5b87",
+    "key": "Search...",
+    "createdAt": "2026-06-20T12:29:31.724Z",
+    "updatedAt": "2026-06-20T12:29:31.724Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3687bfb6ab85c24c5e5ccb",
+    "key": "All",
+    "createdAt": "2026-06-20T12:29:51.684Z",
+    "updatedAt": "2026-06-20T12:29:51.684Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3687cdb6ab85c24c5e5e11",
+    "key": "Success",
+    "createdAt": "2026-06-20T12:30:05.194Z",
+    "updatedAt": "2026-06-20T12:30:05.194Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3687d7b6ab85c24c5e5f59",
+    "key": "Failed",
+    "createdAt": "2026-06-20T12:30:15.892Z",
+    "updatedAt": "2026-06-20T12:30:15.892Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3687ecb6ab85c24c5e60a3",
+    "key": "5 Per Page",
+    "createdAt": "2026-06-20T12:30:36.379Z",
+    "updatedAt": "2026-06-20T12:30:36.379Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3687f9b6ab85c24c5e61ef",
+    "key": "10 Per Page",
+    "createdAt": "2026-06-20T12:30:49.627Z",
+    "updatedAt": "2026-06-20T12:30:49.627Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368807b6ab85c24c5e633d",
+    "key": "20 Per Page",
+    "createdAt": "2026-06-20T12:31:03.828Z",
+    "updatedAt": "2026-06-20T12:31:03.828Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368812b6ab85c24c5e648d",
+    "key": "50 Per Page",
+    "createdAt": "2026-06-20T12:31:14.348Z",
+    "updatedAt": "2026-06-20T12:31:14.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368822b6ab85c24c5e65df",
+    "key": "Upgrade Plan",
+    "createdAt": "2026-06-20T12:31:30.108Z",
+    "updatedAt": "2026-06-20T12:31:30.108Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368830b6ab85c24c5e6733",
+    "key": "Loading payments...",
+    "createdAt": "2026-06-20T12:31:44.924Z",
+    "updatedAt": "2026-06-20T12:31:44.924Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36884bb6ab85c24c5e6889",
+    "key": "Transaction ID",
+    "createdAt": "2026-06-20T12:32:11.779Z",
+    "updatedAt": "2026-06-20T12:32:11.779Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368857b6ab85c24c5e69e1",
+    "key": "Date",
+    "createdAt": "2026-06-20T12:32:23.084Z",
+    "updatedAt": "2026-06-20T12:32:23.084Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368862b6ab85c24c5e6b3b",
+    "key": "Plan",
+    "createdAt": "2026-06-20T12:32:34.507Z",
+    "updatedAt": "2026-06-20T12:32:34.507Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368885b6ab85c24c5e6d43",
+    "key": "Total Amount",
+    "createdAt": "2026-06-20T12:33:09.450Z",
+    "updatedAt": "2026-06-20T12:33:09.450Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368897b6ab85c24c5e6ea1",
+    "key": "Method",
+    "createdAt": "2026-06-20T12:33:27.068Z",
+    "updatedAt": "2026-06-20T12:33:27.068Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3688a0b6ab85c24c5e7001",
+    "key": "Status",
+    "createdAt": "2026-06-20T12:33:36.988Z",
+    "updatedAt": "2026-06-20T12:33:36.988Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3688acb6ab85c24c5e7163",
+    "key": "Invoice",
+    "createdAt": "2026-06-20T12:33:48.916Z",
+    "updatedAt": "2026-06-20T12:33:48.916Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3688c2b6ab85c24c5e72c7",
+    "key": "Fee",
+    "createdAt": "2026-06-20T12:34:10.111Z",
+    "updatedAt": "2026-06-20T12:34:10.111Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3688ceb6ab85c24c5e742d",
+    "key": "Includes",
+    "createdAt": "2026-06-20T12:34:22.100Z",
+    "updatedAt": "2026-06-20T12:34:22.100Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3688e5b6ab85c24c5e7595",
+    "key": "Download",
+    "createdAt": "2026-06-20T12:34:45.371Z",
+    "updatedAt": "2026-06-20T12:34:45.371Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3688f4b6ab85c24c5e76ff",
+    "key": "No records found.",
+    "createdAt": "2026-06-20T12:35:00.707Z",
+    "updatedAt": "2026-06-20T12:35:00.707Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368905b6ab85c24c5e786b",
+    "key": "Previous",
+    "createdAt": "2026-06-20T12:35:17.131Z",
+    "updatedAt": "2026-06-20T12:35:17.131Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368910b6ab85c24c5e79d9",
+    "key": "Next",
+    "createdAt": "2026-06-20T12:35:28.683Z",
+    "updatedAt": "2026-06-20T12:35:28.683Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368960b6ab85c24c5e7cba",
+    "key": "Payment Successful!",
+    "createdAt": "2026-06-20T12:36:48.858Z",
+    "updatedAt": "2026-06-20T12:36:48.858Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a36896bb6ab85c24c5e7e2c",
+    "key": "Thank you for your purchase. Your account has been upgraded securely.",
+    "createdAt": "2026-06-20T12:36:59.507Z",
+    "updatedAt": "2026-06-20T12:36:59.507Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a368974b6ab85c24c5e7fa0",
+    "key": "Go to Dashboard",
+    "createdAt": "2026-06-20T12:37:08.122Z",
+    "updatedAt": "2026-06-20T12:37:08.122Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3763bda2701e7256304fa4",
+    "key": "Failed to save preferences. Please try again.",
+    "createdAt": "2026-06-21T04:08:29.425Z",
+    "updatedAt": "2026-06-21T04:08:29.425Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3763fea2701e72563051d6",
+    "key": "Step 2 of 2",
+    "createdAt": "2026-06-21T04:09:34.032Z",
+    "updatedAt": "2026-06-21T04:09:34.032Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37640aa2701e7256305350",
+    "key": "Tell us about your vision",
+    "createdAt": "2026-06-21T04:09:46.765Z",
+    "updatedAt": "2026-06-21T04:09:46.765Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37641aa2701e72563054cc",
+    "key": "Provide some details and we'll create a custom website for you",
+    "createdAt": "2026-06-21T04:10:02.386Z",
+    "updatedAt": "2026-06-21T04:10:02.386Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376429a2701e725630564a",
+    "key": "Website Name",
+    "createdAt": "2026-06-21T04:10:17.829Z",
+    "updatedAt": "2026-06-21T04:10:17.829Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37644aa2701e72563057ca",
+    "key": "e.g., My Awesome Company",
+    "createdAt": "2026-06-21T04:10:50.668Z",
+    "updatedAt": "2026-06-21T04:10:50.668Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376457a2701e725630594c",
+    "key": "Description",
+    "createdAt": "2026-06-21T04:11:03.420Z",
+    "updatedAt": "2026-06-21T04:11:03.420Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376465a2701e7256305ad0",
+    "key": "The more details you provide, the better our AI can tailor your website",
+    "createdAt": "2026-06-21T04:11:17.868Z",
+    "updatedAt": "2026-06-21T04:11:17.868Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37647ba2701e7256305c56",
+    "key": "Industry/Focus",
+    "createdAt": "2026-06-21T04:11:39.092Z",
+    "updatedAt": "2026-06-21T04:11:39.092Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376494a2701e7256305dde",
+    "key": "e.g., Technology, Fashion, Consulting",
+    "createdAt": "2026-06-21T04:12:04.589Z",
+    "updatedAt": "2026-06-21T04:12:04.589Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37649ea2701e7256305f68",
+    "key": "Font Family",
+    "createdAt": "2026-06-21T04:12:14.780Z",
+    "updatedAt": "2026-06-21T04:12:14.780Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3764afa2701e72563060f4",
+    "key": "Select a font",
+    "createdAt": "2026-06-21T04:12:31.900Z",
+    "updatedAt": "2026-06-21T04:12:31.900Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3764caa2701e7256306282",
+    "key": "Design Style",
+    "createdAt": "2026-06-21T04:12:58.339Z",
+    "updatedAt": "2026-06-21T04:12:58.339Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376538a2701e725630647b",
+    "key": "Website Colors",
+    "createdAt": "2026-06-21T04:14:48.964Z",
+    "updatedAt": "2026-06-21T04:14:48.964Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376542a2701e725630660d",
+    "key": "Primary Color",
+    "createdAt": "2026-06-21T04:14:58.434Z",
+    "updatedAt": "2026-06-21T04:14:58.434Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376555a2701e72563067a1",
+    "key": "Secondary Color",
+    "createdAt": "2026-06-21T04:15:17.043Z",
+    "updatedAt": "2026-06-21T04:15:17.043Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376566a2701e7256306937",
+    "key": "Text Color",
+    "createdAt": "2026-06-21T04:15:34.900Z",
+    "updatedAt": "2026-06-21T04:15:34.900Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37657ba2701e7256306acf",
+    "key": "Generate My Website with AI",
+    "createdAt": "2026-06-21T04:15:55.314Z",
+    "updatedAt": "2026-06-21T04:15:55.314Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3765a8a2701e7256306c69",
+    "key": "Tell us about your website...",
+    "createdAt": "2026-06-21T04:16:40.999Z",
+    "updatedAt": "2026-06-21T04:16:40.999Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37660da2701e7256306e05",
+    "key": "Join thousands of satisfied customers",
+    "createdAt": "2026-06-21T04:18:21.730Z",
+    "updatedAt": "2026-06-21T04:18:21.730Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376639a2701e7256306fa3",
+    "key": "Please enter a valid email",
+    "createdAt": "2026-06-21T04:19:05.618Z",
+    "updatedAt": "2026-06-21T04:19:05.618Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376652a2701e7256307145",
+    "key": "Subscribed successfully!",
+    "createdAt": "2026-06-21T04:19:30.101Z",
+    "updatedAt": "2026-06-21T04:19:30.101Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37665da2701e72563072e7",
+    "key": "Subscribed Failed!",
+    "createdAt": "2026-06-21T04:19:41.161Z",
+    "updatedAt": "2026-06-21T04:19:41.161Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376679a2701e725630748b",
+    "key": "Usefull Link",
+    "createdAt": "2026-06-21T04:20:09.222Z",
+    "updatedAt": "2026-06-21T04:20:09.222Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376695a2701e7256307631",
+    "key": "Quick Link",
+    "createdAt": "2026-06-21T04:20:37.281Z",
+    "updatedAt": "2026-06-21T04:20:37.281Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3766b7a2701e72563077d9",
+    "key": "Copyright",
+    "createdAt": "2026-06-21T04:21:11.696Z",
+    "updatedAt": "2026-06-21T04:21:11.696Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3766d9a2701e72563079c2",
+    "key": "All Right Reserved.",
+    "createdAt": "2026-06-21T04:21:45.921Z",
+    "updatedAt": "2026-06-21T04:21:45.921Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376727a2701e7256307b6e",
+    "key": "Legal",
+    "createdAt": "2026-06-21T04:23:03.795Z",
+    "updatedAt": "2026-06-21T04:23:03.795Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37673ba2701e7256307df1",
+    "key": "Your privacy is our priority. Learn how we handle your data.",
+    "createdAt": "2026-06-21T04:23:23.976Z",
+    "updatedAt": "2026-06-21T04:23:23.976Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37677ba2701e7256307fa1",
+    "key": "Please select your country",
+    "createdAt": "2026-06-21T04:24:27.912Z",
+    "updatedAt": "2026-06-21T04:24:27.912Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37678ba2701e7256308153",
+    "key": "Failed to update profile.",
+    "createdAt": "2026-06-21T04:24:43.512Z",
+    "updatedAt": "2026-06-21T04:24:43.512Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3767b9a2701e7256308307",
+    "key": "Failed to change password.",
+    "createdAt": "2026-06-21T04:25:29.752Z",
+    "updatedAt": "2026-06-21T04:25:29.752Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3767c4a2701e72563084bd",
+    "key": "Notification Preferences updated",
+    "createdAt": "2026-06-21T04:25:40.071Z",
+    "updatedAt": "2026-06-21T04:25:40.071Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3767dca2701e7256308675",
+    "key": "Notification Preferences failed",
+    "createdAt": "2026-06-21T04:26:04.119Z",
+    "updatedAt": "2026-06-21T04:26:04.119Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3767e5a2701e725630882f",
+    "key": "Something went wrong",
+    "createdAt": "2026-06-21T04:26:13.199Z",
+    "updatedAt": "2026-06-21T04:26:13.199Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376831a2701e72563089eb",
+    "key": "Failed to delete account.",
+    "createdAt": "2026-06-21T04:27:29.745Z",
+    "updatedAt": "2026-06-21T04:27:29.745Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37684ea2701e7256308ba9",
+    "key": "Profile",
+    "createdAt": "2026-06-21T04:27:58.408Z",
+    "updatedAt": "2026-06-21T04:27:58.408Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37685ba2701e7256308d69",
+    "key": "Account",
+    "createdAt": "2026-06-21T04:28:11.752Z",
+    "updatedAt": "2026-06-21T04:28:11.752Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376867a2701e7256308f2b",
+    "key": "Security",
+    "createdAt": "2026-06-21T04:28:23.040Z",
+    "updatedAt": "2026-06-21T04:28:23.040Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376871a2701e72563090ef",
+    "key": "Notifications",
+    "createdAt": "2026-06-21T04:28:33.711Z",
+    "updatedAt": "2026-06-21T04:28:33.711Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37687ea2701e72563092b5",
+    "key": "Billing",
+    "createdAt": "2026-06-21T04:28:46.840Z",
+    "updatedAt": "2026-06-21T04:28:46.840Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376894a2701e725630947d",
+    "key": "Personal Information",
+    "createdAt": "2026-06-21T04:29:08.199Z",
+    "updatedAt": "2026-06-21T04:29:08.199Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3768bda2701e7256309647",
+    "key": "Change Photo",
+    "createdAt": "2026-06-21T04:29:49.352Z",
+    "updatedAt": "2026-06-21T04:29:49.352Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3768fba2701e72563099db",
+    "key": "Country",
+    "createdAt": "2026-06-21T04:30:51.813Z",
+    "updatedAt": "2026-06-21T04:30:51.813Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376920a2701e7256309ba9",
+    "key": "Select Country",
+    "createdAt": "2026-06-21T04:31:28.326Z",
+    "updatedAt": "2026-06-21T04:31:28.326Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376938a2701e7256309d79",
+    "key": "State",
+    "createdAt": "2026-06-21T04:31:52.334Z",
+    "updatedAt": "2026-06-21T04:31:52.334Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376949a2701e7256309f4b",
+    "key": "Select State",
+    "createdAt": "2026-06-21T04:32:09.566Z",
+    "updatedAt": "2026-06-21T04:32:09.566Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37695ca2701e725630a11f",
+    "key": "Bio",
+    "createdAt": "2026-06-21T04:32:28.535Z",
+    "updatedAt": "2026-06-21T04:32:28.535Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376976a2701e725630a2f5",
+    "key": "Tell us about yourself...",
+    "createdAt": "2026-06-21T04:32:54.077Z",
+    "updatedAt": "2026-06-21T04:32:54.077Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376981a2701e725630a4cd",
+    "key": "Save Changes",
+    "createdAt": "2026-06-21T04:33:05.037Z",
+    "updatedAt": "2026-06-21T04:33:05.037Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3769fda2701e725630a6a7",
+    "key": "Account Settings",
+    "createdAt": "2026-06-21T04:35:09.934Z",
+    "updatedAt": "2026-06-21T04:35:09.934Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376a08a2701e725630a883",
+    "key": "Username",
+    "createdAt": "2026-06-21T04:35:20.213Z",
+    "updatedAt": "2026-06-21T04:35:20.213Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376a1ba2701e725630aa61",
+    "key": "Danger Zone",
+    "createdAt": "2026-06-21T04:35:39.152Z",
+    "updatedAt": "2026-06-21T04:35:39.152Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376a2aa2701e725630ac41",
+    "key": "Once you delete your account, there is no going back. Please be certain.",
+    "createdAt": "2026-06-21T04:35:54.503Z",
+    "updatedAt": "2026-06-21T04:35:54.503Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376a3aa2701e725630ae23",
+    "key": "Delete Account",
+    "createdAt": "2026-06-21T04:36:10.541Z",
+    "updatedAt": "2026-06-21T04:36:10.541Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376a4ba2701e725630b007",
+    "key": "Security Settings",
+    "createdAt": "2026-06-21T04:36:27.861Z",
+    "updatedAt": "2026-06-21T04:36:27.861Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376a58a2701e725630b1ed",
+    "key": "Change Password",
+    "createdAt": "2026-06-21T04:36:40.085Z",
+    "updatedAt": "2026-06-21T04:36:40.085Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376a66a2701e725630b3d5",
+    "key": "Current Password",
+    "createdAt": "2026-06-21T04:36:54.013Z",
+    "updatedAt": "2026-06-21T04:36:54.013Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376a7fa2701e725630b5bf",
+    "key": "New Password",
+    "createdAt": "2026-06-21T04:37:19.966Z",
+    "updatedAt": "2026-06-21T04:37:19.966Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376a8ea2701e725630b7ab",
+    "key": "Confirm New Password",
+    "createdAt": "2026-06-21T04:37:34.237Z",
+    "updatedAt": "2026-06-21T04:37:34.237Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376aa3a2701e725630b999",
+    "key": "Update Password",
+    "createdAt": "2026-06-21T04:37:55.380Z",
+    "updatedAt": "2026-06-21T04:37:55.380Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376b29a2701e725630bb89",
+    "key": "Notification Preferences",
+    "createdAt": "2026-06-21T04:40:09.901Z",
+    "updatedAt": "2026-06-21T04:40:09.901Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376b46a2701e725630bd7b",
+    "key": "Email Notifications",
+    "createdAt": "2026-06-21T04:40:38.116Z",
+    "updatedAt": "2026-06-21T04:40:38.116Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376b5ea2701e725630bf6f",
+    "key": "Receive updates and alerts via email",
+    "createdAt": "2026-06-21T04:41:02.436Z",
+    "updatedAt": "2026-06-21T04:41:02.436Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376b6da2701e725630c165",
+    "key": "Marketing Emails",
+    "createdAt": "2026-06-21T04:41:17.258Z",
+    "updatedAt": "2026-06-21T04:41:17.258Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376b75a2701e725630c35d",
+    "key": "Receive promotional content and news",
+    "createdAt": "2026-06-21T04:41:25.825Z",
+    "updatedAt": "2026-06-21T04:41:25.825Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376b9fa2701e725630c557",
+    "key": "Save Preferences",
+    "createdAt": "2026-06-21T04:42:07.557Z",
+    "updatedAt": "2026-06-21T04:42:07.557Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376bbaa2701e725630c753",
+    "key": "Current Plan",
+    "createdAt": "2026-06-21T04:42:34.306Z",
+    "updatedAt": "2026-06-21T04:42:34.306Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376bcda2701e725630c951",
+    "key": "Upgrade",
+    "createdAt": "2026-06-21T04:42:53.421Z",
+    "updatedAt": "2026-06-21T04:42:53.421Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376bdca2701e725630cb51",
+    "key": "Next billing date",
+    "createdAt": "2026-06-21T04:43:08.722Z",
+    "updatedAt": "2026-06-21T04:43:08.722Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376bf3a2701e725630cd53",
+    "key": "No active plan found. Purchase a plan to get started.",
+    "createdAt": "2026-06-21T04:43:31.667Z",
+    "updatedAt": "2026-06-21T04:43:31.667Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376c01a2701e725630cf57",
+    "key": "Purchase Plan",
+    "createdAt": "2026-06-21T04:43:45.107Z",
+    "updatedAt": "2026-06-21T04:43:45.107Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376c14a2701e725630d15d",
+    "key": "Total Websites",
+    "createdAt": "2026-06-21T04:44:04.538Z",
+    "updatedAt": "2026-06-21T04:44:04.538Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376c23a2701e725630d365",
+    "key": "Created Websites",
+    "createdAt": "2026-06-21T04:44:19.093Z",
+    "updatedAt": "2026-06-21T04:44:19.093Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376c4da2701e725630d56f",
+    "key": "Remaining Websites",
+    "createdAt": "2026-06-21T04:45:01.211Z",
+    "updatedAt": "2026-06-21T04:45:01.211Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376c86a2701e725630d77b",
+    "key": "Are you sure?",
+    "createdAt": "2026-06-21T04:45:58.194Z",
+    "updatedAt": "2026-06-21T04:45:58.194Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376c94a2701e725630d989",
+    "key": "This action cannot be undone. This will permanently delete your account and remove your data from our servers.",
+    "createdAt": "2026-06-21T04:46:12.234Z",
+    "updatedAt": "2026-06-21T04:46:12.234Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376cb3a2701e725630db99",
+    "key": "Yes, Delete Account",
+    "createdAt": "2026-06-21T04:46:43.498Z",
+    "updatedAt": "2026-06-21T04:46:43.498Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376d92a2701e725630def3",
+    "key": "Transparent and fair refund guidelines for our customers.",
+    "createdAt": "2026-06-21T04:50:26.303Z",
+    "updatedAt": "2026-06-21T04:50:26.303Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376db0a2701e725630e107",
+    "key": "Invalid or expired reset link",
+    "createdAt": "2026-06-21T04:50:56.601Z",
+    "updatedAt": "2026-06-21T04:50:56.601Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376dc4a2701e725630e31d",
+    "key": "Password must be at least 6 characters long",
+    "createdAt": "2026-06-21T04:51:16.898Z",
+    "updatedAt": "2026-06-21T04:51:16.898Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376dd5a2701e725630e535",
+    "key": "Passwords do not match",
+    "createdAt": "2026-06-21T04:51:33.810Z",
+    "updatedAt": "2026-06-21T04:51:33.810Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376de6a2701e725630e74f",
+    "key": "An error occurred. Please try again.",
+    "createdAt": "2026-06-21T04:51:50.602Z",
+    "updatedAt": "2026-06-21T04:51:50.602Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376e51a2701e725630e96b",
+    "key": "Password Reset!",
+    "createdAt": "2026-06-21T04:53:37.505Z",
+    "updatedAt": "2026-06-21T04:53:37.505Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376e66a2701e725630eb89",
+    "key": "Set New Password",
+    "createdAt": "2026-06-21T04:53:58.055Z",
+    "updatedAt": "2026-06-21T04:53:58.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376e78a2701e725630eda9",
+    "key": "Your password has been successfully updated.",
+    "createdAt": "2026-06-21T04:54:16.038Z",
+    "updatedAt": "2026-06-21T04:54:16.038Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376e88a2701e725630efcb",
+    "key": "Your new password must be different from previously used passwords.",
+    "createdAt": "2026-06-21T04:54:32.497Z",
+    "updatedAt": "2026-06-21T04:54:32.497Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a376eada2701e725630f2ff",
+    "key": "Enter new password",
+    "createdAt": "2026-06-21T04:55:09.967Z",
+    "updatedAt": "2026-06-21T04:55:09.967Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b435280384d999c333fb",
+    "key": "Confirm Password",
+    "createdAt": "2026-06-21T09:51:49.560Z",
+    "updatedAt": "2026-06-21T09:51:49.560Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b45a280384d999c33623",
+    "key": "Resetting...",
+    "createdAt": "2026-06-21T09:52:26.834Z",
+    "updatedAt": "2026-06-21T09:52:26.834Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b486280384d999c33960",
+    "key": "Back to Login",
+    "createdAt": "2026-06-21T09:53:10.102Z",
+    "updatedAt": "2026-06-21T09:53:10.102Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b4d2280384d999c33ca0",
+    "key": "Google authentication failed. Please try again.",
+    "createdAt": "2026-06-21T09:54:26.908Z",
+    "updatedAt": "2026-06-21T09:54:26.908Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b4e1280384d999c33ece",
+    "key": "Unable to retrieve email from your Google account.",
+    "createdAt": "2026-06-21T09:54:41.710Z",
+    "updatedAt": "2026-06-21T09:54:41.710Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b4f0280384d999c340fe",
+    "key": "This email is already registered with email and password. Please log in using your password.",
+    "createdAt": "2026-06-21T09:54:56.573Z",
+    "updatedAt": "2026-06-21T09:54:56.573Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b516280384d999c34447",
+    "key": "Something went wrong. Please try again later.",
+    "createdAt": "2026-06-21T09:55:34.180Z",
+    "updatedAt": "2026-06-21T09:55:34.180Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b5bc280384d999c3467b",
+    "key": "Don't have an account?",
+    "createdAt": "2026-06-21T09:58:20.070Z",
+    "updatedAt": "2026-06-21T09:58:20.070Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b5f0280384d999c348b1",
+    "key": "Password",
+    "createdAt": "2026-06-21T09:59:12.099Z",
+    "updatedAt": "2026-06-21T09:59:12.099Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b604280384d999c34ae9",
+    "key": "Forgot password?",
+    "createdAt": "2026-06-21T09:59:32.210Z",
+    "updatedAt": "2026-06-21T09:59:32.210Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b622280384d999c34d23",
+    "key": "Enter your password",
+    "createdAt": "2026-06-21T10:00:02.678Z",
+    "updatedAt": "2026-06-21T10:00:02.678Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b637280384d999c34f5f",
+    "key": "Remember me for 30 days",
+    "createdAt": "2026-06-21T10:00:23.769Z",
+    "updatedAt": "2026-06-21T10:00:23.769Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b64c280384d999c3519d",
+    "key": "Or continue with",
+    "createdAt": "2026-06-21T10:00:44.681Z",
+    "updatedAt": "2026-06-21T10:00:44.681Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b661280384d999c353dd",
+    "key": "Google",
+    "createdAt": "2026-06-21T10:01:05.970Z",
+    "updatedAt": "2026-06-21T10:01:05.970Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b66c280384d999c3561f",
+    "key": "GitHub",
+    "createdAt": "2026-06-21T10:01:16.793Z",
+    "updatedAt": "2026-06-21T10:01:16.793Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b679280384d999c35863",
+    "key": "Back to Home",
+    "createdAt": "2026-06-21T10:01:29.259Z",
+    "updatedAt": "2026-06-21T10:01:29.259Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b703280384d999c35aa9",
+    "key": "Password is required",
+    "createdAt": "2026-06-21T10:03:47.460Z",
+    "updatedAt": "2026-06-21T10:03:47.460Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b70d280384d999c35cf1",
+    "key": "Password must be at least 6 characters",
+    "createdAt": "2026-06-21T10:03:57.657Z",
+    "updatedAt": "2026-06-21T10:03:57.657Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b71b280384d999c35f3b",
+    "key": "Please confirm your password",
+    "createdAt": "2026-06-21T10:04:11.697Z",
+    "updatedAt": "2026-06-21T10:04:11.697Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b73a280384d999c362ab",
+    "key": "You must agree to the terms",
+    "createdAt": "2026-06-21T10:04:42.560Z",
+    "updatedAt": "2026-06-21T10:04:42.560Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b74a280384d999c364f9",
+    "key": "Signup failed. Please try again.",
+    "createdAt": "2026-06-21T10:04:58.658Z",
+    "updatedAt": "2026-06-21T10:04:58.658Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b7b7280384d999c3686f",
+    "key": "Create a strong password",
+    "createdAt": "2026-06-21T10:06:47.024Z",
+    "updatedAt": "2026-06-21T10:06:47.024Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b88f280384d999c36be8",
+    "key": "I agree to the",
+    "createdAt": "2026-06-21T10:10:23.873Z",
+    "updatedAt": "2026-06-21T10:10:23.873Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b8b1280384d999c36f64",
+    "key": "Creating...",
+    "createdAt": "2026-06-21T10:10:57.303Z",
+    "updatedAt": "2026-06-21T10:10:57.303Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b8b9280384d999c371ba",
+    "key": "Create Account",
+    "createdAt": "2026-06-21T10:11:05.886Z",
+    "updatedAt": "2026-06-21T10:11:05.886Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b918280384d999c3753c",
+    "key": "Support Tickets",
+    "createdAt": "2026-06-21T10:12:40.320Z",
+    "updatedAt": "2026-06-21T10:12:40.320Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b927280384d999c37796",
+    "key": "Track and manage your support requests",
+    "createdAt": "2026-06-21T10:12:55.573Z",
+    "updatedAt": "2026-06-21T10:12:55.573Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b93d280384d999c379f2",
+    "key": "Search tickets...",
+    "createdAt": "2026-06-21T10:13:17.606Z",
+    "updatedAt": "2026-06-21T10:13:17.606Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b955280384d999c37c50",
+    "key": "All Ticket",
+    "createdAt": "2026-06-21T10:13:41.025Z",
+    "updatedAt": "2026-06-21T10:13:41.025Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b95d280384d999c37eb0",
+    "key": "Open Ticket",
+    "createdAt": "2026-06-21T10:13:49.054Z",
+    "updatedAt": "2026-06-21T10:13:49.054Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b964280384d999c38112",
+    "key": "Answered Ticket",
+    "createdAt": "2026-06-21T10:13:56.383Z",
+    "updatedAt": "2026-06-21T10:13:56.383Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b96b280384d999c38376",
+    "key": "Closed Ticket",
+    "createdAt": "2026-06-21T10:14:03.957Z",
+    "updatedAt": "2026-06-21T10:14:03.957Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b9d1280384d999c3870d",
+    "key": "Limit",
+    "createdAt": "2026-06-21T10:15:45.504Z",
+    "updatedAt": "2026-06-21T10:15:45.504Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b9de280384d999c38975",
+    "key": "New Ticket",
+    "createdAt": "2026-06-21T10:15:58.183Z",
+    "updatedAt": "2026-06-21T10:15:58.183Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37b9f3280384d999c38bdf",
+    "key": "Loading tickets...",
+    "createdAt": "2026-06-21T10:16:19.398Z",
+    "updatedAt": "2026-06-21T10:16:19.398Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37ba1c280384d999c38e4b",
+    "key": "Created",
+    "createdAt": "2026-06-21T10:17:00.928Z",
+    "updatedAt": "2026-06-21T10:17:00.928Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37ba2a280384d999c390b9",
+    "key": "replies",
+    "createdAt": "2026-06-21T10:17:14.644Z",
+    "updatedAt": "2026-06-21T10:17:14.644Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37ba3d280384d999c39329",
+    "key": "Updated",
+    "createdAt": "2026-06-21T10:17:33.492Z",
+    "updatedAt": "2026-06-21T10:17:33.492Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37ba49280384d999c3959b",
+    "key": "View",
+    "createdAt": "2026-06-21T10:17:45.119Z",
+    "updatedAt": "2026-06-21T10:17:45.119Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37ba59280384d999c3980f",
+    "key": "No tickets found",
+    "createdAt": "2026-06-21T10:18:01.885Z",
+    "updatedAt": "2026-06-21T10:18:01.885Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37ba66280384d999c39a85",
+    "key": "Try adjusting your search or filters",
+    "createdAt": "2026-06-21T10:18:14.973Z",
+    "updatedAt": "2026-06-21T10:18:14.973Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bb5a280384d999c39cfd",
+    "key": "Loading messages...",
+    "createdAt": "2026-06-21T10:22:18.429Z",
+    "updatedAt": "2026-06-21T10:22:18.429Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bb7c280384d999c39f77",
+    "key": "File",
+    "createdAt": "2026-06-21T10:22:52.324Z",
+    "updatedAt": "2026-06-21T10:22:52.324Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bb8b280384d999c3a1f3",
+    "key": "This ticket is closed. You can no longer reply to it.",
+    "createdAt": "2026-06-21T10:23:07.372Z",
+    "updatedAt": "2026-06-21T10:23:07.372Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bba8280384d999c3a471",
+    "key": "Type your reply here...",
+    "createdAt": "2026-06-21T10:23:36.491Z",
+    "updatedAt": "2026-06-21T10:23:36.491Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bbba280384d999c3a6f1",
+    "key": "Send Reply",
+    "createdAt": "2026-06-21T10:23:54.449Z",
+    "updatedAt": "2026-06-21T10:23:54.449Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bbcb280384d999c3a973",
+    "key": "Attach a file",
+    "createdAt": "2026-06-21T10:24:11.798Z",
+    "updatedAt": "2026-06-21T10:24:11.798Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bbf0280384d999c3abf7",
+    "key": "Terms",
+    "createdAt": "2026-06-21T10:24:48.454Z",
+    "updatedAt": "2026-06-21T10:24:48.454Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bbf9280384d999c3ae7d",
+    "key": "The rules and guidelines for using our AI platform.",
+    "createdAt": "2026-06-21T10:24:57.442Z",
+    "updatedAt": "2026-06-21T10:24:57.442Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bc2b280384d999c3b105",
+    "key": "Welcome back,",
+    "createdAt": "2026-06-21T10:25:47.875Z",
+    "updatedAt": "2026-06-21T10:25:47.875Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bc3a280384d999c3b38f",
+    "key": "Here's what's happening with your websites today.",
+    "createdAt": "2026-06-21T10:26:02.371Z",
+    "updatedAt": "2026-06-21T10:26:02.371Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bc5c280384d999c3b61b",
+    "key": "Recent Websites",
+    "createdAt": "2026-06-21T10:26:36.475Z",
+    "updatedAt": "2026-06-21T10:26:36.475Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bc6a280384d999c3b8a9",
+    "key": "Your latest projects",
+    "createdAt": "2026-06-21T10:26:50.467Z",
+    "updatedAt": "2026-06-21T10:26:50.467Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bc77280384d999c3bb39",
+    "key": "New Website",
+    "createdAt": "2026-06-21T10:27:03.073Z",
+    "updatedAt": "2026-06-21T10:27:03.073Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bca1280384d999c3bdcb",
+    "key": "View All Websites",
+    "createdAt": "2026-06-21T10:27:45.229Z",
+    "updatedAt": "2026-06-21T10:27:45.229Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bcb2280384d999c3c05f",
+    "key": "Recent Activity",
+    "createdAt": "2026-06-21T10:28:02.521Z",
+    "updatedAt": "2026-06-21T10:28:02.521Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bcbe280384d999c3c2f5",
+    "key": "Latest updates",
+    "createdAt": "2026-06-21T10:28:14.330Z",
+    "updatedAt": "2026-06-21T10:28:14.330Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bcd9280384d999c3c58d",
+    "key": "Website Analytics",
+    "createdAt": "2026-06-21T10:28:41.634Z",
+    "updatedAt": "2026-06-21T10:28:41.634Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bcf4280384d999c3c827",
+    "key": "Start Date",
+    "createdAt": "2026-06-21T10:29:08.241Z",
+    "updatedAt": "2026-06-21T10:29:08.241Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bd02280384d999c3cac3",
+    "key": "End Date",
+    "createdAt": "2026-06-21T10:29:22.304Z",
+    "updatedAt": "2026-06-21T10:29:22.304Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bd20280384d999c3cd61",
+    "key": "This Week",
+    "createdAt": "2026-06-21T10:29:52.065Z",
+    "updatedAt": "2026-06-21T10:29:52.065Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bd48280384d999c3d001",
+    "key": "This Month",
+    "createdAt": "2026-06-21T10:30:32.498Z",
+    "updatedAt": "2026-06-21T10:30:32.498Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bd52280384d999c3d2a3",
+    "key": "Last Month",
+    "createdAt": "2026-06-21T10:30:42.034Z",
+    "updatedAt": "2026-06-21T10:30:42.034Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bd58280384d999c3d547",
+    "key": "This Year",
+    "createdAt": "2026-06-21T10:30:48.640Z",
+    "updatedAt": "2026-06-21T10:30:48.640Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bd60280384d999c3d7ed",
+    "key": "Custom Date",
+    "createdAt": "2026-06-21T10:30:56.138Z",
+    "updatedAt": "2026-06-21T10:30:56.138Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bd6f280384d999c3da95",
+    "key": "Websites",
+    "createdAt": "2026-06-21T10:31:11.721Z",
+    "updatedAt": "2026-06-21T10:31:11.721Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bd9b280384d999c3dd3f",
+    "key": "Quick Actions",
+    "createdAt": "2026-06-21T10:31:55.903Z",
+    "updatedAt": "2026-06-21T10:31:55.903Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bda8280384d999c3dfeb",
+    "key": "Get started quickly",
+    "createdAt": "2026-06-21T10:32:08.882Z",
+    "updatedAt": "2026-06-21T10:32:08.882Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37be82280384d999c3e2db",
+    "key": "This website is finalized and cannot be edited.",
+    "createdAt": "2026-06-21T10:35:46.490Z",
+    "updatedAt": "2026-06-21T10:35:46.490Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bf97280384d999c3e5ea",
+    "key": "website-preview",
+    "createdAt": "2026-06-21T10:40:23.978Z",
+    "updatedAt": "2026-06-21T10:40:23.978Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bfcc280384d999c3e89c",
+    "key": "Downlaod Code",
+    "createdAt": "2026-06-21T10:41:16.808Z",
+    "updatedAt": "2026-06-21T10:41:16.808Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37bfe6280384d999c3eca8",
+    "key": "AI Features",
+    "createdAt": "2026-06-21T10:41:42.231Z",
+    "updatedAt": "2026-06-21T10:41:42.231Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c001280384d999c3ef5e",
+    "key": "Responsive Design",
+    "createdAt": "2026-06-21T10:42:09.401Z",
+    "updatedAt": "2026-06-21T10:42:09.401Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c009280384d999c3f216",
+    "key": "SEO Optimized",
+    "createdAt": "2026-06-21T10:42:17.214Z",
+    "updatedAt": "2026-06-21T10:42:17.214Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c010280384d999c3f4d0",
+    "key": "Fast Loading",
+    "createdAt": "2026-06-21T10:42:24.998Z",
+    "updatedAt": "2026-06-21T10:42:24.998Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c018280384d999c3f78c",
+    "key": "Mobile-First",
+    "createdAt": "2026-06-21T10:42:32.261Z",
+    "updatedAt": "2026-06-21T10:42:32.261Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c01f280384d999c3fa4a",
+    "key": "Accessibility Ready",
+    "createdAt": "2026-06-21T10:42:39.805Z",
+    "updatedAt": "2026-06-21T10:42:39.805Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c029280384d999c3fd0a",
+    "key": "Cross-Browser Compatible",
+    "createdAt": "2026-06-21T10:42:49.566Z",
+    "updatedAt": "2026-06-21T10:42:49.566Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c08d280384d999c3ffcc",
+    "key": "Your website has been generated successfully!",
+    "createdAt": "2026-06-21T10:44:29.776Z",
+    "updatedAt": "2026-06-21T10:44:29.776Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c0cc280384d999c40290",
+    "key": "My Websites",
+    "createdAt": "2026-06-21T10:45:32.446Z",
+    "updatedAt": "2026-06-21T10:45:32.446Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c0e3280384d999c40556",
+    "key": "Search websites...",
+    "createdAt": "2026-06-21T10:45:55.774Z",
+    "updatedAt": "2026-06-21T10:45:55.774Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c0f5280384d999c4081e",
+    "key": "Grid",
+    "createdAt": "2026-06-21T10:46:13.774Z",
+    "updatedAt": "2026-06-21T10:46:13.774Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c0ff280384d999c40ae8",
+    "key": "List",
+    "createdAt": "2026-06-21T10:46:23.068Z",
+    "updatedAt": "2026-06-21T10:46:23.068Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c131280384d999c40f18",
+    "key": "Loading history...",
+    "createdAt": "2026-06-21T10:47:13.862Z",
+    "updatedAt": "2026-06-21T10:47:13.862Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c16c280384d999c411e6",
+    "key": "No history found",
+    "createdAt": "2026-06-21T10:48:12.790Z",
+    "updatedAt": "2026-06-21T10:48:12.790Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c195280384d999c4161c",
+    "key": "Preview",
+    "createdAt": "2026-06-21T10:48:53.580Z",
+    "updatedAt": "2026-06-21T10:48:53.580Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c1a2280384d999c418ee",
+    "key": "Edit",
+    "createdAt": "2026-06-21T10:49:06.044Z",
+    "updatedAt": "2026-06-21T10:49:06.044Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c1c2280384d999c41bc2",
+    "key": "Generated",
+    "createdAt": "2026-06-21T10:49:38.333Z",
+    "updatedAt": "2026-06-21T10:49:38.333Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c1c9280384d999c41e98",
+    "key": "Draft",
+    "createdAt": "2026-06-21T10:49:45.493Z",
+    "updatedAt": "2026-06-21T10:49:45.493Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c249280384d999c42170",
+    "key": "What type of website do you want to create?",
+    "createdAt": "2026-06-21T10:51:53.749Z",
+    "updatedAt": "2026-06-21T10:51:53.749Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c256280384d999c4244a",
+    "key": "Choose a template type and let our AI customize it for you",
+    "createdAt": "2026-06-21T10:52:06.331Z",
+    "updatedAt": "2026-06-21T10:52:06.331Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c262280384d999c42726",
+    "key": "Search website type...",
+    "createdAt": "2026-06-21T10:52:18.749Z",
+    "updatedAt": "2026-06-21T10:52:18.749Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c280280384d999c42a04",
+    "key": "Select",
+    "createdAt": "2026-06-21T10:52:48.028Z",
+    "updatedAt": "2026-06-21T10:52:48.028Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c4cf280384d999c42d18",
+    "key": "Saving...",
+    "createdAt": "2026-06-21T11:02:39.938Z",
+    "updatedAt": "2026-06-21T11:02:39.938Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c4d8280384d999c42ffa",
+    "key": "Unsaved changes",
+    "createdAt": "2026-06-21T11:02:48.496Z",
+    "updatedAt": "2026-06-21T11:02:48.496Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c4e2280384d999c432de",
+    "key": "All changes saved",
+    "createdAt": "2026-06-21T11:02:58.224Z",
+    "updatedAt": "2026-06-21T11:02:58.224Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c4eb280384d999c435c4",
+    "key": "Failed to export website. Please try again.",
+    "createdAt": "2026-06-21T11:03:07.224Z",
+    "updatedAt": "2026-06-21T11:03:07.224Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c4f2280384d999c438ac",
+    "key": "Failed to generate layout. Try again.",
+    "createdAt": "2026-06-21T11:03:14.846Z",
+    "updatedAt": "2026-06-21T11:03:14.846Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c4fd280384d999c43b96",
+    "key": "Failed to login. Please try again.",
+    "createdAt": "2026-06-21T11:03:25.295Z",
+    "updatedAt": "2026-06-21T11:03:25.295Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c506280384d999c43e82",
+    "key": "Website generated successfully",
+    "createdAt": "2026-06-21T11:03:34.688Z",
+    "updatedAt": "2026-06-21T11:03:34.688Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c50d280384d999c44170",
+    "key": "Applied successfully",
+    "createdAt": "2026-06-21T11:03:41.776Z",
+    "updatedAt": "2026-06-21T11:03:41.776Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c5a0280384d999c444d3",
+    "key": "Upgrade to Pro to use this feature 🚀",
+    "createdAt": "2026-06-21T11:06:08.330Z",
+    "updatedAt": "2026-06-21T11:06:08.330Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c61a280384d999c4544a",
+    "key": "Failed to payment. Please try again",
+    "createdAt": "2026-06-21T11:08:10.975Z",
+    "updatedAt": "2026-06-21T11:08:10.975Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c6a8280384d999c4573e",
+    "key": "Years Experience",
+    "createdAt": "2026-06-21T11:10:32.423Z",
+    "updatedAt": "2026-06-21T11:10:32.423Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c6c9280384d999c45a34",
+    "key": "Active Users",
+    "createdAt": "2026-06-21T11:11:05.351Z",
+    "updatedAt": "2026-06-21T11:11:05.351Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c6d0280384d999c45d2c",
+    "key": "Countries",
+    "createdAt": "2026-06-21T11:11:12.261Z",
+    "updatedAt": "2026-06-21T11:11:12.261Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c6d9280384d999c46026",
+    "key": "Success Rate",
+    "createdAt": "2026-06-21T11:11:21.022Z",
+    "updatedAt": "2026-06-21T11:11:21.022Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c6e2280384d999c46322",
+    "key": "Awards Won",
+    "createdAt": "2026-06-21T11:11:30.517Z",
+    "updatedAt": "2026-06-21T11:11:30.517Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c762280384d999c46620",
+    "key": "Founded",
+    "createdAt": "2026-06-21T11:13:38.526Z",
+    "updatedAt": "2026-06-21T11:13:38.526Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c768280384d999c46920",
+    "key": "Growth",
+    "createdAt": "2026-06-21T11:13:44.595Z",
+    "updatedAt": "2026-06-21T11:13:44.595Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c76e280384d999c46c22",
+    "key": "Innovation",
+    "createdAt": "2026-06-21T11:13:50.908Z",
+    "updatedAt": "2026-06-21T11:13:50.908Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c775280384d999c46f26",
+    "key": "Recognition",
+    "createdAt": "2026-06-21T11:13:57.107Z",
+    "updatedAt": "2026-06-21T11:13:57.107Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c77a280384d999c4722c",
+    "key": "Global",
+    "createdAt": "2026-06-21T11:14:02.844Z",
+    "updatedAt": "2026-06-21T11:14:02.844Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c7a0280384d999c47534",
+    "key": "Started with a vision to transform the industry",
+    "createdAt": "2026-06-21T11:14:40.990Z",
+    "updatedAt": "2026-06-21T11:14:40.990Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c7a7280384d999c4783e",
+    "key": "Expanded our team and reached 1000+ customers",
+    "createdAt": "2026-06-21T11:14:47.965Z",
+    "updatedAt": "2026-06-21T11:14:47.965Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c7af280384d999c47b4a",
+    "key": "Launched groundbreaking new features",
+    "createdAt": "2026-06-21T11:14:55.084Z",
+    "updatedAt": "2026-06-21T11:14:55.084Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c7b6280384d999c47e58",
+    "key": "Awarded industry leader of the year",
+    "createdAt": "2026-06-21T11:15:02.036Z",
+    "updatedAt": "2026-06-21T11:15:02.036Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c7bd280384d999c48168",
+    "key": "Opened offices in 10+ countries worldwide",
+    "createdAt": "2026-06-21T11:15:09.595Z",
+    "updatedAt": "2026-06-21T11:15:09.595Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c875280384d999c48601",
+    "key": "Read Article",
+    "createdAt": "2026-06-21T11:18:13.484Z",
+    "updatedAt": "2026-06-21T11:18:13.484Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c8d2280384d999c48915",
+    "key": "Email",
+    "createdAt": "2026-06-21T11:19:46.612Z",
+    "updatedAt": "2026-06-21T11:19:46.612Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c913280384d999c48f3d",
+    "key": "Phone",
+    "createdAt": "2026-06-21T11:20:51.909Z",
+    "updatedAt": "2026-06-21T11:20:51.909Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c920280384d999c49255",
+    "key": "Address",
+    "createdAt": "2026-06-21T11:21:04.154Z",
+    "updatedAt": "2026-06-21T11:21:04.154Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c96c280384d999c496fa",
+    "key": "We typically respond within 24 hours",
+    "createdAt": "2026-06-21T11:22:20.204Z",
+    "updatedAt": "2026-06-21T11:22:20.204Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37c9a7280384d999c49a16",
+    "key": "Follow Us",
+    "createdAt": "2026-06-21T11:23:19.546Z",
+    "updatedAt": "2026-06-21T11:23:19.546Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37cbe4280384d999c4a450",
+    "key": "Start Today!",
+    "createdAt": "2026-06-21T11:32:52.438Z",
+    "updatedAt": "2026-06-21T11:32:52.438Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37cc4a280384d999c4a770",
+    "key": "FAQ",
+    "createdAt": "2026-06-21T11:34:34.088Z",
+    "updatedAt": "2026-06-21T11:34:34.088Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37cc79280384d999c4aa92",
+    "key": "Contact our support team",
+    "createdAt": "2026-06-21T11:35:21.383Z",
+    "updatedAt": "2026-06-21T11:35:21.383Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37ccbf280384d999c4adb6",
+    "key": "Features",
+    "createdAt": "2026-06-21T11:36:31.922Z",
+    "updatedAt": "2026-06-21T11:36:31.922Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37cd39280384d999c4b0dc",
+    "key": "Step",
+    "createdAt": "2026-06-21T11:38:33.711Z",
+    "updatedAt": "2026-06-21T11:38:33.711Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37cd9c280384d999c4b404",
+    "key": "123 Corporate Blvd, Suite 200, Business City, BC 12345",
+    "createdAt": "2026-06-21T11:40:12.420Z",
+    "updatedAt": "2026-06-21T11:40:12.420Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37cdb5280384d999c4b72e",
+    "key": "All rights reserved.",
+    "createdAt": "2026-06-21T11:40:37.462Z",
+    "updatedAt": "2026-06-21T11:40:37.462Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37ce15280384d999c4ba5a",
+    "key": "Stay Updated",
+    "createdAt": "2026-06-21T11:42:13.495Z",
+    "updatedAt": "2026-06-21T11:42:13.495Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37ce20280384d999c4bd88",
+    "key": "Subscribe to our newsletter for the latest updates and news.",
+    "createdAt": "2026-06-21T11:42:24.320Z",
+    "updatedAt": "2026-06-21T11:42:24.320Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37cec7280384d999c4c3e4",
+    "key": "Privacy",
+    "createdAt": "2026-06-21T11:45:11.189Z",
+    "updatedAt": "2026-06-21T11:45:11.189Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37cef7280384d999c4c8ad",
+    "key": "Gallery",
+    "createdAt": "2026-06-21T11:45:59.108Z",
+    "updatedAt": "2026-06-21T11:45:59.108Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d164280384d999c4cd79",
+    "key": "Heart Rate",
+    "createdAt": "2026-06-21T11:56:20.809Z",
+    "updatedAt": "2026-06-21T11:56:20.809Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d1f8280384d999c4d0af",
+    "key": "Add to Cart",
+    "createdAt": "2026-06-21T11:58:48.722Z",
+    "updatedAt": "2026-06-21T11:58:48.722Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d24e280384d999c4d3e7",
+    "key": "Global Edition",
+    "createdAt": "2026-06-21T12:00:14.168Z",
+    "updatedAt": "2026-06-21T12:00:14.168Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d25a280384d999c4d721",
+    "key": "System Online",
+    "createdAt": "2026-06-21T12:00:26.328Z",
+    "updatedAt": "2026-06-21T12:00:26.328Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d26f280384d999c4da5d",
+    "key": "Premium Collection",
+    "createdAt": "2026-06-21T12:00:47.039Z",
+    "updatedAt": "2026-06-21T12:00:47.039Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d279280384d999c4dd9b",
+    "key": "Official Design",
+    "createdAt": "2026-06-21T12:00:57.609Z",
+    "updatedAt": "2026-06-21T12:00:57.609Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d290280384d999c4e0db",
+    "key": "SCROLL DOWN TO EXPLORE THE FUTURE",
+    "createdAt": "2026-06-21T12:01:20.599Z",
+    "updatedAt": "2026-06-21T12:01:20.599Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d2a0280384d999c4e41d",
+    "key": "Minimal Design",
+    "createdAt": "2026-06-21T12:01:36.664Z",
+    "updatedAt": "2026-06-21T12:01:36.664Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d2ac280384d999c4e761",
+    "key": "Maximum Impact",
+    "createdAt": "2026-06-21T12:01:48.077Z",
+    "updatedAt": "2026-06-21T12:01:48.077Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d2ef280384d999c4eaa7",
+    "key": "💪 Limited Time Offer",
+    "createdAt": "2026-06-21T12:02:55.462Z",
+    "updatedAt": "2026-06-21T12:02:55.462Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d2f6280384d999c4edef",
+    "key": "50% OFF First Month",
+    "createdAt": "2026-06-21T12:03:02.052Z",
+    "updatedAt": "2026-06-21T12:03:02.052Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d305280384d999c4f139",
+    "key": "Strategic Consulting For Growth",
+    "createdAt": "2026-06-21T12:03:17.111Z",
+    "updatedAt": "2026-06-21T12:03:17.111Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d353280384d999c4f485",
+    "key": "GET FIT",
+    "createdAt": "2026-06-21T12:04:35.486Z",
+    "updatedAt": "2026-06-21T12:04:35.486Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d420280384d999c4f7d3",
+    "key": "Beds",
+    "createdAt": "2026-06-21T12:08:00.655Z",
+    "updatedAt": "2026-06-21T12:08:00.655Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d426280384d999c4fb23",
+    "key": "Baths",
+    "createdAt": "2026-06-21T12:08:06.932Z",
+    "updatedAt": "2026-06-21T12:08:06.932Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d485280384d999c4fe75",
+    "key": "10,000+ Users",
+    "createdAt": "2026-06-21T12:09:41.615Z",
+    "updatedAt": "2026-06-21T12:09:41.615Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d491280384d999c501c9",
+    "key": "Trusted by teams worldwide",
+    "createdAt": "2026-06-21T12:09:53.749Z",
+    "updatedAt": "2026-06-21T12:09:53.749Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d4a1280384d999c5051f",
+    "key": "Product Preview",
+    "createdAt": "2026-06-21T12:10:09.857Z",
+    "updatedAt": "2026-06-21T12:10:09.857Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d4af280384d999c50877",
+    "key": "100% Verified",
+    "createdAt": "2026-06-21T12:10:23.110Z",
+    "updatedAt": "2026-06-21T12:10:23.110Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d4b7280384d999c50bd1",
+    "key": "Trusted Platform",
+    "createdAt": "2026-06-21T12:10:31.212Z",
+    "updatedAt": "2026-06-21T12:10:31.212Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d576280384d999c50f2d",
+    "key": "Business Growth",
+    "createdAt": "2026-06-21T12:13:42.774Z",
+    "updatedAt": "2026-06-21T12:13:42.774Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d58b280384d999c5128b",
+    "key": "Q1",
+    "createdAt": "2026-06-21T12:14:03.597Z",
+    "updatedAt": "2026-06-21T12:14:03.597Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d592280384d999c515eb",
+    "key": "Q2",
+    "createdAt": "2026-06-21T12:14:10.564Z",
+    "updatedAt": "2026-06-21T12:14:10.564Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d59a280384d999c5194d",
+    "key": "Q3",
+    "createdAt": "2026-06-21T12:14:18.044Z",
+    "updatedAt": "2026-06-21T12:14:18.044Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d5a1280384d999c51cb1",
+    "key": "Q4",
+    "createdAt": "2026-06-21T12:14:25.298Z",
+    "updatedAt": "2026-06-21T12:14:25.298Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d5f8280384d999c521c8",
+    "key": "Get Started",
+    "createdAt": "2026-06-21T12:15:52.026Z",
+    "updatedAt": "2026-06-21T12:15:52.026Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d608280384d999c52530",
+    "key": "All plans include 14-day free trial. No credit card required.",
+    "createdAt": "2026-06-21T12:16:08.556Z",
+    "updatedAt": "2026-06-21T12:16:08.556Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d636280384d999c5289a",
+    "key": "Pricing Plans",
+    "createdAt": "2026-06-21T12:16:54.510Z",
+    "updatedAt": "2026-06-21T12:16:54.510Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d68d280384d999c52c06",
+    "key": "Choose Plan",
+    "createdAt": "2026-06-21T12:18:21.498Z",
+    "updatedAt": "2026-06-21T12:18:21.498Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d6a8280384d999c52f74",
+    "key": "Need a custom plan for your enterprise?",
+    "createdAt": "2026-06-21T12:18:48.706Z",
+    "updatedAt": "2026-06-21T12:18:48.706Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d6bb280384d999c532e4",
+    "key": "Contact Sales",
+    "createdAt": "2026-06-21T12:19:07.930Z",
+    "updatedAt": "2026-06-21T12:19:07.930Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d6ff280384d999c53656",
+    "key": "more features",
+    "createdAt": "2026-06-21T12:20:15.570Z",
+    "updatedAt": "2026-06-21T12:20:15.570Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d711280384d999c539ca",
+    "key": "All plans include 14-day free trial",
+    "createdAt": "2026-06-21T12:20:33.417Z",
+    "updatedAt": "2026-06-21T12:20:33.417Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d71d280384d999c53d40",
+    "key": "Talk to our sales team",
+    "createdAt": "2026-06-21T12:20:45.618Z",
+    "updatedAt": "2026-06-21T12:20:45.618Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d76e280384d999c540b8",
+    "key": "reviews",
+    "createdAt": "2026-06-21T12:22:06.996Z",
+    "updatedAt": "2026-06-21T12:22:06.996Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d788280384d999c54432",
+    "key": "Details",
+    "createdAt": "2026-06-21T12:22:32.792Z",
+    "updatedAt": "2026-06-21T12:22:32.792Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d7b2280384d999c547ae",
+    "key": "Best Seller",
+    "createdAt": "2026-06-21T12:23:14.990Z",
+    "updatedAt": "2026-06-21T12:23:14.990Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d805280384d999c54ce9",
+    "key": "Quick Add",
+    "createdAt": "2026-06-21T12:24:37.161Z",
+    "updatedAt": "2026-06-21T12:24:37.161Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d83c280384d999c55069",
+    "key": "View All Products",
+    "createdAt": "2026-06-21T12:25:32.672Z",
+    "updatedAt": "2026-06-21T12:25:32.672Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d87e280384d999c553eb",
+    "key": "Learn More",
+    "createdAt": "2026-06-21T12:26:38.713Z",
+    "updatedAt": "2026-06-21T12:26:38.713Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d8c0280384d999c5576f",
+    "key": "Can't find what you're looking for?",
+    "createdAt": "2026-06-21T12:27:44.088Z",
+    "updatedAt": "2026-06-21T12:27:44.088Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d8cb280384d999c55af5",
+    "key": "Contact us for custom solutions",
+    "createdAt": "2026-06-21T12:27:55.785Z",
+    "updatedAt": "2026-06-21T12:27:55.785Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d8e8280384d999c55e7d",
+    "key": "Service",
+    "createdAt": "2026-06-21T12:28:24.399Z",
+    "updatedAt": "2026-06-21T12:28:24.399Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d915280384d999c563ca",
+    "key": "starting from",
+    "createdAt": "2026-06-21T12:29:09.249Z",
+    "updatedAt": "2026-06-21T12:29:09.249Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d96e280384d999c56756",
+    "key": "Growing Together",
+    "createdAt": "2026-06-21T12:30:38.159Z",
+    "updatedAt": "2026-06-21T12:30:38.159Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d9ee280384d999c56ca9",
+    "key": "Want to join our team?",
+    "createdAt": "2026-06-21T12:32:46.246Z",
+    "updatedAt": "2026-06-21T12:32:46.246Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37d9f9280384d999c57039",
+    "key": "We're always looking for talented people to join our mission",
+    "createdAt": "2026-06-21T12:32:57.846Z",
+    "updatedAt": "2026-06-21T12:32:57.846Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37da04280384d999c573cb",
+    "key": "View open positions",
+    "createdAt": "2026-06-21T12:33:08.493Z",
+    "updatedAt": "2026-06-21T12:33:08.493Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37da2b280384d999c5775f",
+    "key": "at",
+    "createdAt": "2026-06-21T12:33:47.829Z",
+    "updatedAt": "2026-06-21T12:33:47.829Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37da74280384d999c57af5",
+    "key": "Read more stories",
+    "createdAt": "2026-06-21T12:35:00.561Z",
+    "updatedAt": "2026-06-21T12:35:00.561Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37db1d280384d999c57e8d",
+    "key": "No options available",
+    "createdAt": "2026-06-21T12:37:49.790Z",
+    "updatedAt": "2026-06-21T12:37:49.790Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37db46280384d999c58227",
+    "key": "Site Builder",
+    "createdAt": "2026-06-21T12:38:30.141Z",
+    "updatedAt": "2026-06-21T12:38:30.141Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37db50280384d999c585c3",
+    "key": "Customize your online presence",
+    "createdAt": "2026-06-21T12:38:40.812Z",
+    "updatedAt": "2026-06-21T12:38:40.812Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37db5f280384d999c58961",
+    "key": "Site Basics",
+    "createdAt": "2026-06-21T12:38:55.428Z",
+    "updatedAt": "2026-06-21T12:38:55.428Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37db78280384d999c58ecf",
+    "key": "My Awesome Brand",
+    "createdAt": "2026-06-21T12:39:20.260Z",
+    "updatedAt": "2026-06-21T12:39:20.260Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37db96280384d999c59440",
+    "key": "Briefly describe what your site is about...",
+    "createdAt": "2026-06-21T12:39:50.061Z",
+    "updatedAt": "2026-06-21T12:39:50.061Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dbae280384d999c597e4",
+    "key": "Industry",
+    "createdAt": "2026-06-21T12:40:14.983Z",
+    "updatedAt": "2026-06-21T12:40:14.983Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dbca280384d999c59b8a",
+    "key": "Branding & Colors",
+    "createdAt": "2026-06-21T12:40:42.820Z",
+    "updatedAt": "2026-06-21T12:40:42.820Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dbdc280384d999c59f32",
+    "key": "Logo Upload",
+    "createdAt": "2026-06-21T12:41:00.940Z",
+    "updatedAt": "2026-06-21T12:41:00.940Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dbfc280384d999c5a2dc",
+    "key": "Favicon Upload",
+    "createdAt": "2026-06-21T12:41:32.995Z",
+    "updatedAt": "2026-06-21T12:41:32.995Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dc30280384d999c5aa30",
+    "key": "Accent Color",
+    "createdAt": "2026-06-21T12:42:24.028Z",
+    "updatedAt": "2026-06-21T12:42:24.028Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dc37280384d999c5adde",
+    "key": "Background Color",
+    "createdAt": "2026-06-21T12:42:31.236Z",
+    "updatedAt": "2026-06-21T12:42:31.236Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dc53280384d999c5b18e",
+    "key": "Layout & UI",
+    "createdAt": "2026-06-21T12:42:59.972Z",
+    "updatedAt": "2026-06-21T12:42:59.972Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dc63280384d999c5b540",
+    "key": "Container Width",
+    "createdAt": "2026-06-21T12:43:15.563Z",
+    "updatedAt": "2026-06-21T12:43:15.563Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dc70280384d999c5b8f4",
+    "key": "Select container width",
+    "createdAt": "2026-06-21T12:43:28.109Z",
+    "updatedAt": "2026-06-21T12:43:28.109Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dc84280384d999c5bcaa",
+    "key": "Section Spacing",
+    "createdAt": "2026-06-21T12:43:48.883Z",
+    "updatedAt": "2026-06-21T12:43:48.883Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dc90280384d999c5c062",
+    "key": "Select section spacing",
+    "createdAt": "2026-06-21T12:44:00.492Z",
+    "updatedAt": "2026-06-21T12:44:00.492Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dc9f280384d999c5c41c",
+    "key": "Border Radius",
+    "createdAt": "2026-06-21T12:44:15.581Z",
+    "updatedAt": "2026-06-21T12:44:15.581Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dcab280384d999c5c7d8",
+    "key": "Select border radius",
+    "createdAt": "2026-06-21T12:44:27.332Z",
+    "updatedAt": "2026-06-21T12:44:27.332Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dcb9280384d999c5cb96",
+    "key": "Button Style",
+    "createdAt": "2026-06-21T12:44:41.165Z",
+    "updatedAt": "2026-06-21T12:44:41.165Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dccd280384d999c5cf56",
+    "key": "Select button style",
+    "createdAt": "2026-06-21T12:45:01.417Z",
+    "updatedAt": "2026-06-21T12:45:01.417Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dcfd280384d999c5d6d6",
+    "key": "Style & Content",
+    "createdAt": "2026-06-21T12:45:49.931Z",
+    "updatedAt": "2026-06-21T12:45:49.931Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dd20280384d999c5dc7a",
+    "key": "Select design style",
+    "createdAt": "2026-06-21T12:46:24.300Z",
+    "updatedAt": "2026-06-21T12:46:24.300Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dd30280384d999c5e040",
+    "key": "Brand Tone",
+    "createdAt": "2026-06-21T12:46:40.972Z",
+    "updatedAt": "2026-06-21T12:46:40.972Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dd3e280384d999c5e408",
+    "key": "Select brand tone",
+    "createdAt": "2026-06-21T12:46:54.165Z",
+    "updatedAt": "2026-06-21T12:46:54.165Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dd50280384d999c5e7d2",
+    "key": "Content Length",
+    "createdAt": "2026-06-21T12:47:12.803Z",
+    "updatedAt": "2026-06-21T12:47:12.803Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dd5f280384d999c5eb9e",
+    "key": "Select content length",
+    "createdAt": "2026-06-21T12:47:27.348Z",
+    "updatedAt": "2026-06-21T12:47:27.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dd75280384d999c5ef6c",
+    "key": "⚠️ Changes will apply after regeneration",
+    "createdAt": "2026-06-21T12:47:49.988Z",
+    "updatedAt": "2026-06-21T12:47:49.988Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dd8a280384d999c5f33c",
+    "key": "Regenerate Content",
+    "createdAt": "2026-06-21T12:48:10.514Z",
+    "updatedAt": "2026-06-21T12:48:10.514Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dd9b280384d999c5f70e",
+    "key": "Pages",
+    "createdAt": "2026-06-21T12:48:27.265Z",
+    "updatedAt": "2026-06-21T12:48:27.265Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37ddb2280384d999c5fae2",
+    "key": "⚠️ Page changes require regeneration",
+    "createdAt": "2026-06-21T12:48:50.723Z",
+    "updatedAt": "2026-06-21T12:48:50.723Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37ddc1280384d999c5feb8",
+    "key": "Sections",
+    "createdAt": "2026-06-21T12:49:05.971Z",
+    "updatedAt": "2026-06-21T12:49:05.971Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37ddd4280384d999c60290",
+    "key": "Generating Layout...",
+    "createdAt": "2026-06-21T12:49:24.610Z",
+    "updatedAt": "2026-06-21T12:49:24.610Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dde6280384d999c6066a",
+    "key": "Regenerate Website",
+    "createdAt": "2026-06-21T12:49:42.569Z",
+    "updatedAt": "2026-06-21T12:49:42.569Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37ddf3280384d999c60a46",
+    "key": "Applies AI changes & rebuilds layout",
+    "createdAt": "2026-06-21T12:49:55.410Z",
+    "updatedAt": "2026-06-21T12:49:55.410Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37df24280384d999c60e24",
+    "key": "Close",
+    "createdAt": "2026-06-21T12:55:00.881Z",
+    "updatedAt": "2026-06-21T12:55:00.881Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37df5a280384d999c61204",
+    "key": "Export Website",
+    "createdAt": "2026-06-21T12:55:54.489Z",
+    "updatedAt": "2026-06-21T12:55:54.489Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37df69280384d999c615e6",
+    "key": "This will finalize your website.",
+    "createdAt": "2026-06-21T12:56:09.561Z",
+    "updatedAt": "2026-06-21T12:56:09.561Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37df77280384d999c619ca",
+    "key": "You won’t be able to edit it after export.",
+    "createdAt": "2026-06-21T12:56:23.248Z",
+    "updatedAt": "2026-06-21T12:56:23.248Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37df89280384d999c61db0",
+    "key": "🚀 Confirm Export",
+    "createdAt": "2026-06-21T12:56:41.554Z",
+    "updatedAt": "2026-06-21T12:56:41.554Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dfbc280384d999c62198",
+    "key": "Generating your website...",
+    "createdAt": "2026-06-21T12:57:32.392Z",
+    "updatedAt": "2026-06-21T12:57:32.392Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dfd4280384d999c62582",
+    "key": "Analyzing your design...",
+    "createdAt": "2026-06-21T12:57:56.391Z",
+    "updatedAt": "2026-06-21T12:57:56.391Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dfdb280384d999c6296e",
+    "key": "Building layout...",
+    "createdAt": "2026-06-21T12:58:03.776Z",
+    "updatedAt": "2026-06-21T12:58:03.776Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dfe3280384d999c62d5c",
+    "key": "Generating HTML & CSS...",
+    "createdAt": "2026-06-21T12:58:11.046Z",
+    "updatedAt": "2026-06-21T12:58:11.046Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37dfea280384d999c6314c",
+    "key": "Finalizing download package...",
+    "createdAt": "2026-06-21T12:58:18.287Z",
+    "updatedAt": "2026-06-21T12:58:18.287Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e01c280384d999c6353e",
+    "key": "🎉 Website Exported!",
+    "createdAt": "2026-06-21T12:59:08.278Z",
+    "updatedAt": "2026-06-21T12:59:08.278Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e028280384d999c63932",
+    "key": "Your website has been successfully generated and is ready to use.",
+    "createdAt": "2026-06-21T12:59:20.700Z",
+    "updatedAt": "2026-06-21T12:59:20.700Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e033280384d999c63d28",
+    "key": "Download ZIP",
+    "createdAt": "2026-06-21T12:59:31.479Z",
+    "updatedAt": "2026-06-21T12:59:31.479Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e0a4280384d999c6431a",
+    "key": "Remove",
+    "createdAt": "2026-06-21T13:01:24.320Z",
+    "updatedAt": "2026-06-21T13:01:24.320Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e0ad280384d999c64714",
+    "key": "Add Item",
+    "createdAt": "2026-06-21T13:01:33.422Z",
+    "updatedAt": "2026-06-21T13:01:33.422Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e111280384d999c64d0c",
+    "key": "Start Over",
+    "createdAt": "2026-06-21T13:03:13.023Z",
+    "updatedAt": "2026-06-21T13:03:13.023Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e147280384d999c65307",
+    "key": "Desktop View",
+    "createdAt": "2026-06-21T13:04:07.750Z",
+    "updatedAt": "2026-06-21T13:04:07.750Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e156280384d999c65707",
+    "key": "Tablet View",
+    "createdAt": "2026-06-21T13:04:22.239Z",
+    "updatedAt": "2026-06-21T13:04:22.239Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e164280384d999c65b09",
+    "key": "Mobile View",
+    "createdAt": "2026-06-21T13:04:36.340Z",
+    "updatedAt": "2026-06-21T13:04:36.340Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e172280384d999c65f0d",
+    "key": "Customize",
+    "createdAt": "2026-06-21T13:04:50.653Z",
+    "updatedAt": "2026-06-21T13:04:50.653Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e230280384d999c66514",
+    "key": "This page is not generated yet",
+    "createdAt": "2026-06-21T13:08:00.788Z",
+    "updatedAt": "2026-06-21T13:08:00.788Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e24a280384d999c6691c",
+    "key": "You’ve added a new page, but it doesn’t have any layout yet. Generate the layout to preview and customize this page.",
+    "createdAt": "2026-06-21T13:08:26.470Z",
+    "updatedAt": "2026-06-21T13:08:26.470Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e25c280384d999c66d26",
+    "key": "Apply Changes & Regenerate Site",
+    "createdAt": "2026-06-21T13:08:44.237Z",
+    "updatedAt": "2026-06-21T13:08:44.237Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e26a280384d999c67132",
+    "key": "This will update all pages and generate layout for this page.",
+    "createdAt": "2026-06-21T13:08:58.373Z",
+    "updatedAt": "2026-06-21T13:08:58.373Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e312280384d999c67745",
+    "key": "Edit Content",
+    "createdAt": "2026-06-21T13:11:46.350Z",
+    "updatedAt": "2026-06-21T13:11:46.350Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e321280384d999c67b55",
+    "key": "Change Style",
+    "createdAt": "2026-06-21T13:12:01.288Z",
+    "updatedAt": "2026-06-21T13:12:01.288Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e33d280384d999c67f67",
+    "key": "Next Steps",
+    "createdAt": "2026-06-21T13:12:29.175Z",
+    "updatedAt": "2026-06-21T13:12:29.175Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e348280384d999c6837b",
+    "key": "Customize colors and fonts",
+    "createdAt": "2026-06-21T13:12:40.276Z",
+    "updatedAt": "2026-06-21T13:12:40.276Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e354280384d999c68791",
+    "key": "Add your own logo and favicon",
+    "createdAt": "2026-06-21T13:12:52.591Z",
+    "updatedAt": "2026-06-21T13:12:52.591Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a37e35f280384d999c68ba9",
+    "key": "Change new style",
+    "createdAt": "2026-06-21T13:13:03.499Z",
+    "updatedAt": "2026-06-21T13:13:03.499Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38b3bf5085ec0bba790165",
+    "key": "Build Stunning Websites",
+    "createdAt": "2026-06-22T04:02:07.658Z",
+    "updatedAt": "2026-06-22T04:02:07.658Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c4b95085ec0bba791ac5",
+    "key": "With AI",
+    "createdAt": "2026-06-22T05:14:33.151Z",
+    "updatedAt": "2026-06-22T05:14:33.151Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c4d05085ec0bba791ae5",
+    "key": "Without Code",
+    "createdAt": "2026-06-22T05:14:56.046Z",
+    "updatedAt": "2026-06-22T05:14:56.046Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c56b5085ec0bba7923a2",
+    "key": "In Minutes",
+    "createdAt": "2026-06-22T05:17:31.867Z",
+    "updatedAt": "2026-06-22T05:17:31.867Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c5755085ec0bba7923c0",
+    "key": "Effortlessly",
+    "createdAt": "2026-06-22T05:17:41.345Z",
+    "updatedAt": "2026-06-22T05:17:41.345Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c57e5085ec0bba7923e0",
+    "key": "Turn your ideas into fully responsive, professional websites in minutes — powered by AI, no coding required.",
+    "createdAt": "2026-06-22T05:17:50.327Z",
+    "updatedAt": "2026-06-22T05:17:50.327Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c5a85085ec0bba792406",
+    "key": "🔥AI Powered",
+    "createdAt": "2026-06-22T05:18:32.951Z",
+    "updatedAt": "2026-06-22T05:18:32.951Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c5b15085ec0bba79242a",
+    "key": "🚀 No Code",
+    "createdAt": "2026-06-22T05:18:41.293Z",
+    "updatedAt": "2026-06-22T05:18:41.293Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c5b75085ec0bba792450",
+    "key": "⚡ Fast Setup",
+    "createdAt": "2026-06-22T05:18:47.662Z",
+    "updatedAt": "2026-06-22T05:18:47.662Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c5be5085ec0bba792478",
+    "key": "💎Modern Design",
+    "createdAt": "2026-06-22T05:18:54.212Z",
+    "updatedAt": "2026-06-22T05:18:54.212Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c63a5085ec0bba792566",
+    "key": "AI-powered website generation",
+    "createdAt": "2026-06-22T05:20:58.231Z",
+    "updatedAt": "2026-06-22T05:20:58.231Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c6425085ec0bba792592",
+    "key": "No-code, beginner friendly",
+    "createdAt": "2026-06-22T05:21:06.141Z",
+    "updatedAt": "2026-06-22T05:21:06.141Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c6495085ec0bba7925c0",
+    "key": "Instant preview on all devices",
+    "createdAt": "2026-06-22T05:21:13.853Z",
+    "updatedAt": "2026-06-22T05:21:13.853Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c6a95085ec0bba79269f",
+    "key": "Websites Generated",
+    "createdAt": "2026-06-22T05:22:49.725Z",
+    "updatedAt": "2026-06-22T05:22:49.725Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c6b15085ec0bba7926d1",
+    "key": "Website Types",
+    "createdAt": "2026-06-22T05:22:57.446Z",
+    "updatedAt": "2026-06-22T05:22:57.446Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c6b95085ec0bba792705",
+    "key": "User Satisfaction",
+    "createdAt": "2026-06-22T05:23:05.292Z",
+    "updatedAt": "2026-06-22T05:23:05.292Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c6c05085ec0bba79273b",
+    "key": "Average Build Time",
+    "createdAt": "2026-06-22T05:23:12.509Z",
+    "updatedAt": "2026-06-22T05:23:12.509Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c79a5085ec0bba7928de",
+    "key": "SEAMLESS FLOW",
+    "createdAt": "2026-06-22T05:26:50.829Z",
+    "updatedAt": "2026-06-22T05:26:50.829Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c7a25085ec0bba792918",
+    "key": "LATEST TECH STACK",
+    "createdAt": "2026-06-22T05:26:58.701Z",
+    "updatedAt": "2026-06-22T05:26:58.701Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c7aa5085ec0bba792954",
+    "key": "CLEAN CODE",
+    "createdAt": "2026-06-22T05:27:06.293Z",
+    "updatedAt": "2026-06-22T05:27:06.293Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c7b05085ec0bba792992",
+    "key": "MODERN TYPOGRAPHY",
+    "createdAt": "2026-06-22T05:27:12.580Z",
+    "updatedAt": "2026-06-22T05:27:12.580Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c7b95085ec0bba7929d2",
+    "key": "HIGH PERFORMANCE",
+    "createdAt": "2026-06-22T05:27:21.077Z",
+    "updatedAt": "2026-06-22T05:27:21.077Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c7c05085ec0bba792a14",
+    "key": "ACCESSIBILITY",
+    "createdAt": "2026-06-22T05:27:28.916Z",
+    "updatedAt": "2026-06-22T05:27:28.916Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c7c95085ec0bba792a58",
+    "key": "SMOOTH ANIMATIONS",
+    "createdAt": "2026-06-22T05:27:37.641Z",
+    "updatedAt": "2026-06-22T05:27:37.641Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c7d15085ec0bba792a9e",
+    "key": "INTERACTIVE ELEMENTS",
+    "createdAt": "2026-06-22T05:27:45.658Z",
+    "updatedAt": "2026-06-22T05:27:45.658Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c7d95085ec0bba792ae6",
+    "key": "RESPONSIVE LAYOUT",
+    "createdAt": "2026-06-22T05:27:53.980Z",
+    "updatedAt": "2026-06-22T05:27:53.980Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c7e45085ec0bba792b30",
+    "key": "DARK MODE",
+    "createdAt": "2026-06-22T05:28:04.025Z",
+    "updatedAt": "2026-06-22T05:28:04.025Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c7ee5085ec0bba792b7c",
+    "key": "USER EXPERIENCE",
+    "createdAt": "2026-06-22T05:28:14.602Z",
+    "updatedAt": "2026-06-22T05:28:14.602Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c7f55085ec0bba792bca",
+    "key": "UI DESIGN",
+    "createdAt": "2026-06-22T05:28:21.880Z",
+    "updatedAt": "2026-06-22T05:28:21.880Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c9245085ec0bba792da2",
+    "key": "Business Website",
+    "createdAt": "2026-06-22T05:33:24.977Z",
+    "updatedAt": "2026-06-22T05:33:24.977Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c92f5085ec0bba792df4",
+    "key": "A professional corporate website with modern design, smooth animations, and fast performance.",
+    "createdAt": "2026-06-22T05:33:35.530Z",
+    "updatedAt": "2026-06-22T05:33:35.530Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c9455085ec0bba792e48",
+    "key": "E-Commerce Store",
+    "createdAt": "2026-06-22T05:33:57.333Z",
+    "updatedAt": "2026-06-22T05:33:57.333Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c94c5085ec0bba792e9e",
+    "key": "A conversion-optimized online store with product listings, categories, and promotional sections.",
+    "createdAt": "2026-06-22T05:34:04.397Z",
+    "updatedAt": "2026-06-22T05:34:04.397Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c9575085ec0bba792ef6",
+    "key": "Portfolio Website",
+    "createdAt": "2026-06-22T05:34:15.557Z",
+    "updatedAt": "2026-06-22T05:34:15.557Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c9605085ec0bba792f50",
+    "key": "A clean and creative personal portfolio to showcase projects, skills, and experience.",
+    "createdAt": "2026-06-22T05:34:24.693Z",
+    "updatedAt": "2026-06-22T05:34:24.693Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c96c5085ec0bba792fac",
+    "key": "Restaurant Website",
+    "createdAt": "2026-06-22T05:34:36.565Z",
+    "updatedAt": "2026-06-22T05:34:36.565Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c9745085ec0bba79300a",
+    "key": "A stylish restaurant website featuring menus, reservations, and customer highlights.",
+    "createdAt": "2026-06-22T05:34:44.636Z",
+    "updatedAt": "2026-06-22T05:34:44.636Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c9825085ec0bba79306a",
+    "key": "SaaS Landing Page",
+    "createdAt": "2026-06-22T05:34:58.551Z",
+    "updatedAt": "2026-06-22T05:34:58.551Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c98a5085ec0bba7930cc",
+    "key": "A high-impact landing page designed to convert visitors into customers for SaaS products.",
+    "createdAt": "2026-06-22T05:35:06.359Z",
+    "updatedAt": "2026-06-22T05:35:06.359Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c99d5085ec0bba793130",
+    "key": "Education Platform",
+    "createdAt": "2026-06-22T05:35:25.032Z",
+    "updatedAt": "2026-06-22T05:35:25.032Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38c9a35085ec0bba793196",
+    "key": "An online learning website with course listings, instructors, and structured content.",
+    "createdAt": "2026-06-22T05:35:31.880Z",
+    "updatedAt": "2026-06-22T05:35:31.880Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38ca445085ec0bba793317",
+    "key": "Our Creations",
+    "createdAt": "2026-06-22T05:38:12.180Z",
+    "updatedAt": "2026-06-22T05:38:12.180Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38caa35085ec0bba79339b",
+    "key": "Websites Crafted with <span>Weblify AI</span>",
+    "createdAt": "2026-06-22T05:39:47.548Z",
+    "updatedAt": "2026-06-22T05:39:47.548Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38cd58d9a0f7d4bd4f74b9",
+    "key": "Discover beautifully designed, fully responsive websites generated using our AI-powered no-code platform.",
+    "createdAt": "2026-06-22T05:51:20.377Z",
+    "updatedAt": "2026-06-22T05:51:20.377Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38ce02d9a0f7d4bd4f7549",
+    "key": "Platform Features",
+    "createdAt": "2026-06-22T05:54:10.246Z",
+    "updatedAt": "2026-06-22T05:54:10.246Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38ce0bd9a0f7d4bd4f75b9",
+    "key": "Everything You Need to Build Smarter <span>with AI</span>",
+    "createdAt": "2026-06-22T05:54:19.861Z",
+    "updatedAt": "2026-06-22T05:54:19.861Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d302dd409244c3b33247",
+    "key": "AI-powered tools and modern workflows to create, customize, and launch websites in minutes.",
+    "createdAt": "2026-06-22T06:15:30.852Z",
+    "updatedAt": "2026-06-22T06:15:30.852Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d3b1dd409244c3b33b38",
+    "key": "AI Website Generator",
+    "createdAt": "2026-06-22T06:18:25.673Z",
+    "updatedAt": "2026-06-22T06:18:25.673Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d3b9dd409244c3b33fb2",
+    "key": "Create complete website layouts and content instantly using intelligent AI automation.",
+    "createdAt": "2026-06-22T06:18:33.297Z",
+    "updatedAt": "2026-06-22T06:18:33.297Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d3c7dd409244c3b3442e",
+    "key": "No-Code Customization",
+    "createdAt": "2026-06-22T06:18:47.451Z",
+    "updatedAt": "2026-06-22T06:18:47.451Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d3d3dd409244c3b348ac",
+    "key": "Easily customize sections, colors, and layouts without writing a single line of code.",
+    "createdAt": "2026-06-22T06:18:59.604Z",
+    "updatedAt": "2026-06-22T06:18:59.604Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d3e1dd409244c3b34d2c",
+    "key": "Fully Responsive Design",
+    "createdAt": "2026-06-22T06:19:13.984Z",
+    "updatedAt": "2026-06-22T06:19:13.984Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d3e9dd409244c3b351ae",
+    "key": "Your website automatically adapts to desktop, tablet, and mobile devices.",
+    "createdAt": "2026-06-22T06:19:21.921Z",
+    "updatedAt": "2026-06-22T06:19:21.921Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d400dd409244c3b35632",
+    "key": "SEO-Ready Structure",
+    "createdAt": "2026-06-22T06:19:44.956Z",
+    "updatedAt": "2026-06-22T06:19:44.956Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d407dd409244c3b35ab8",
+    "key": "Built-in SEO-friendly layouts to help your website rank better on search engines.",
+    "createdAt": "2026-06-22T06:19:51.055Z",
+    "updatedAt": "2026-06-22T06:19:51.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d412dd409244c3b35f40",
+    "key": "Lightning-Fast Performance",
+    "createdAt": "2026-06-22T06:20:02.466Z",
+    "updatedAt": "2026-06-22T06:20:02.466Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d418dd409244c3b363ca",
+    "key": "Clean and optimized code ensures fast loading and smooth user experience.",
+    "createdAt": "2026-06-22T06:20:08.922Z",
+    "updatedAt": "2026-06-22T06:20:08.922Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d427dd409244c3b36856",
+    "key": "Export & Deploy Anywhere",
+    "createdAt": "2026-06-22T06:20:23.090Z",
+    "updatedAt": "2026-06-22T06:20:23.090Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d42fdd409244c3b36ce4",
+    "key": "Download your complete website source code and host it on any platform.",
+    "createdAt": "2026-06-22T06:20:31.089Z",
+    "updatedAt": "2026-06-22T06:20:31.089Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d56add409244c3b371b2",
+    "key": "Uptime",
+    "createdAt": "2026-06-22T06:25:46.565Z",
+    "updatedAt": "2026-06-22T06:25:46.565Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d572dd409244c3b37644",
+    "key": "Generation Time",
+    "createdAt": "2026-06-22T06:25:54.639Z",
+    "updatedAt": "2026-06-22T06:25:54.639Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d61ddd409244c3b37d44",
+    "key": "How It Works",
+    "createdAt": "2026-06-22T06:28:45.881Z",
+    "updatedAt": "2026-06-22T06:28:45.881Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d63ddd409244c3b381da",
+    "key": "Build Your Website in Just <span>4 Simple Steps</span>",
+    "createdAt": "2026-06-22T06:29:17.095Z",
+    "updatedAt": "2026-06-22T06:29:17.095Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d6b8dd409244c3b38f9d",
+    "key": "Our AI-powered platform simplifies website creation by guiding you through a smooth, step-by-step process from idea to live website.",
+    "createdAt": "2026-06-22T06:31:20.016Z",
+    "updatedAt": "2026-06-22T06:31:20.016Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d6c2dd409244c3b39437",
+    "key": "Instant AI Generation",
+    "createdAt": "2026-06-22T06:31:30.563Z",
+    "updatedAt": "2026-06-22T06:31:30.563Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d6c9dd409244c3b398d3",
+    "key": "Smart Customization",
+    "createdAt": "2026-06-22T06:31:37.387Z",
+    "updatedAt": "2026-06-22T06:31:37.387Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d6d0dd409244c3b39d71",
+    "key": "Auto Responsive Design",
+    "createdAt": "2026-06-22T06:31:44.098Z",
+    "updatedAt": "2026-06-22T06:31:44.098Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d6dbdd409244c3b3a211",
+    "key": "One-Click Launch",
+    "createdAt": "2026-06-22T06:31:55.690Z",
+    "updatedAt": "2026-06-22T06:31:55.690Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d6f0dd409244c3b3a6b3",
+    "key": "Preview, Edit & Launch",
+    "createdAt": "2026-06-22T06:32:16.397Z",
+    "updatedAt": "2026-06-22T06:32:16.397Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d6f7dd409244c3b3ab57",
+    "key": "Review your website, make changes, and prepare it for launch.",
+    "createdAt": "2026-06-22T06:32:23.157Z",
+    "updatedAt": "2026-06-22T06:32:23.157Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d704dd409244c3b3affd",
+    "key": "Live preview mode",
+    "createdAt": "2026-06-22T06:32:36.724Z",
+    "updatedAt": "2026-06-22T06:32:36.724Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d7dbdd409244c3b3b4a5",
+    "key": "Desktop, tablet & mobile views",
+    "createdAt": "2026-06-22T06:36:11.354Z",
+    "updatedAt": "2026-06-22T06:36:11.354Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d7e2dd409244c3b3b94f",
+    "key": "Regenerate with AI",
+    "createdAt": "2026-06-22T06:36:18.727Z",
+    "updatedAt": "2026-06-22T06:36:18.727Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d7eadd409244c3b3bdfb",
+    "key": "Export ready website",
+    "createdAt": "2026-06-22T06:36:26.031Z",
+    "updatedAt": "2026-06-22T06:36:26.031Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d7fadd409244c3b3c2a9",
+    "key": "AI Builds Your Website",
+    "createdAt": "2026-06-22T06:36:42.368Z",
+    "updatedAt": "2026-06-22T06:36:42.368Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d801dd409244c3b3c759",
+    "key": "Our AI instantly generates a complete website based on your input.",
+    "createdAt": "2026-06-22T06:36:49.759Z",
+    "updatedAt": "2026-06-22T06:36:49.759Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d808dd409244c3b3cc0b",
+    "key": "Smart layout generation",
+    "createdAt": "2026-06-22T06:36:56.695Z",
+    "updatedAt": "2026-06-22T06:36:56.695Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d80fdd409244c3b3d0bf",
+    "key": "AI-generated content",
+    "createdAt": "2026-06-22T06:37:03.815Z",
+    "updatedAt": "2026-06-22T06:37:03.815Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d817dd409244c3b3d575",
+    "key": "Responsive structure",
+    "createdAt": "2026-06-22T06:37:11.839Z",
+    "updatedAt": "2026-06-22T06:37:11.839Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d820dd409244c3b3da2d",
+    "key": "Modern UI components",
+    "createdAt": "2026-06-22T06:37:20.055Z",
+    "updatedAt": "2026-06-22T06:37:20.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d840dd409244c3b3dee7",
+    "key": "Customize Your Preferences",
+    "createdAt": "2026-06-22T06:37:52.160Z",
+    "updatedAt": "2026-06-22T06:37:52.160Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d848dd409244c3b3e3a3",
+    "key": "Define your brand identity and website preferences in a few simple steps.",
+    "createdAt": "2026-06-22T06:38:00.127Z",
+    "updatedAt": "2026-06-22T06:38:00.127Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d850dd409244c3b3e861",
+    "key": "Brand name & description",
+    "createdAt": "2026-06-22T06:38:08.089Z",
+    "updatedAt": "2026-06-22T06:38:08.089Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d857dd409244c3b3ed21",
+    "key": "Color & font selection",
+    "createdAt": "2026-06-22T06:38:15.647Z",
+    "updatedAt": "2026-06-22T06:38:15.647Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d85edd409244c3b3f1e3",
+    "key": "Layout style preference",
+    "createdAt": "2026-06-22T06:38:22.664Z",
+    "updatedAt": "2026-06-22T06:38:22.664Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d865dd409244c3b3f6a7",
+    "key": "Logo & contact details",
+    "createdAt": "2026-06-22T06:38:29.905Z",
+    "updatedAt": "2026-06-22T06:38:29.905Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d873dd409244c3b3fb6d",
+    "key": "Choose Website Type",
+    "createdAt": "2026-06-22T06:38:43.231Z",
+    "updatedAt": "2026-06-22T06:38:43.231Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d87add409244c3b40035",
+    "key": "Select the type of website you want to build using Weblify AI.",
+    "createdAt": "2026-06-22T06:38:50.319Z",
+    "updatedAt": "2026-06-22T06:38:50.319Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d881dd409244c3b404ff",
+    "key": "Business, Portfolio, SaaS & more",
+    "createdAt": "2026-06-22T06:38:57.817Z",
+    "updatedAt": "2026-06-22T06:38:57.817Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d888dd409244c3b409cb",
+    "key": "Pre-designed layouts",
+    "createdAt": "2026-06-22T06:39:04.536Z",
+    "updatedAt": "2026-06-22T06:39:04.536Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d88edd409244c3b40e99",
+    "key": "Industry-specific structure",
+    "createdAt": "2026-06-22T06:39:10.855Z",
+    "updatedAt": "2026-06-22T06:39:10.855Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d896dd409244c3b41369",
+    "key": "Optimized starting point",
+    "createdAt": "2026-06-22T06:39:18.044Z",
+    "updatedAt": "2026-06-22T06:39:18.044Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38d993dd409244c3b4187f",
+    "key": "PRICING PLANS",
+    "createdAt": "2026-06-22T06:43:31.184Z",
+    "updatedAt": "2026-06-22T06:43:31.184Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38da09cb553de653d9df55",
+    "key": "Simple, Transparent Pricing for Everyone",
+    "createdAt": "2026-06-22T06:45:29.181Z",
+    "updatedAt": "2026-06-22T06:45:29.181Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38da1bcb553de653d9e42b",
+    "key": "Select a plan that fits your goals and budget. Build AI-powered, responsive websites with flexible features and seamless upgrades anytime.",
+    "createdAt": "2026-06-22T06:45:47.150Z",
+    "updatedAt": "2026-06-22T06:45:47.150Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38daa1cb553de653d9e92e",
+    "key": "Monthly",
+    "createdAt": "2026-06-22T06:48:01.759Z",
+    "updatedAt": "2026-06-22T06:48:01.759Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dabfcb553de653d9ee08",
+    "key": "Yearly",
+    "createdAt": "2026-06-22T06:48:31.618Z",
+    "updatedAt": "2026-06-22T06:48:31.618Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dae5cb553de653d9f2ef",
+    "key": "Starter",
+    "createdAt": "2026-06-22T06:49:09.056Z",
+    "updatedAt": "2026-06-22T06:49:09.056Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38daf5cb553de653d9f7cd",
+    "key": "Start building AI-powered websites with essential tools and basic customization options.",
+    "createdAt": "2026-06-22T06:49:25.068Z",
+    "updatedAt": "2026-06-22T06:49:25.068Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38db30cb553de653d9fcce",
+    "key": "Pro",
+    "createdAt": "2026-06-22T06:50:24.121Z",
+    "updatedAt": "2026-06-22T06:50:24.121Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38db36cb553de653da01b0",
+    "key": "Create professional websites with advanced customization and greater control over design and content.",
+    "createdAt": "2026-06-22T06:50:30.719Z",
+    "updatedAt": "2026-06-22T06:50:30.719Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38db5ccb553de653da06b8",
+    "key": "Business",
+    "createdAt": "2026-06-22T06:51:08.705Z",
+    "updatedAt": "2026-06-22T06:51:08.705Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38db63cb553de653da0b9e",
+    "key": "Build unlimited websites with full flexibility, powerful features, and complete design freedom.",
+    "createdAt": "2026-06-22T06:51:15.625Z",
+    "updatedAt": "2026-06-22T06:51:15.625Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dc76cb553de653da10a8",
+    "key": "Build up to 2 websites every month",
+    "createdAt": "2026-06-22T06:55:50.298Z",
+    "updatedAt": "2026-06-22T06:55:50.298Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dc83cb553de653da15a9",
+    "key": "Up to 3 pages per website",
+    "createdAt": "2026-06-22T06:56:03.681Z",
+    "updatedAt": "2026-06-22T06:56:03.681Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dc8ecb553de653da1a97",
+    "key": "Up to 6 sections per page",
+    "createdAt": "2026-06-22T06:56:14.105Z",
+    "updatedAt": "2026-06-22T06:56:14.105Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dc98cb553de653da1f85",
+    "key": "Regenerate content instantly",
+    "createdAt": "2026-06-22T06:56:24.394Z",
+    "updatedAt": "2026-06-22T06:56:24.394Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dca2cb553de653da2475",
+    "key": "Reorder sections easily",
+    "createdAt": "2026-06-22T06:56:34.641Z",
+    "updatedAt": "2026-06-22T06:56:34.641Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dcadcb553de653da2969",
+    "key": "Download website as HTML package",
+    "createdAt": "2026-06-22T06:56:45.265Z",
+    "updatedAt": "2026-06-22T06:56:45.265Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dcb6cb553de653da2e5d",
+    "key": "Edit and update section content",
+    "createdAt": "2026-06-22T06:56:54.937Z",
+    "updatedAt": "2026-06-22T06:56:54.937Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dcc0cb553de653da3353",
+    "key": "Responsive layouts for all devices",
+    "createdAt": "2026-06-22T06:57:04.266Z",
+    "updatedAt": "2026-06-22T06:57:04.266Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dccacb553de653da384b",
+    "key": "Standard user support",
+    "createdAt": "2026-06-22T06:57:14.809Z",
+    "updatedAt": "2026-06-22T06:57:14.809Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dd2ecb553de653da3ff1",
+    "key": "Create up to 10 websites per Month",
+    "createdAt": "2026-06-22T06:58:54.228Z",
+    "updatedAt": "2026-06-22T06:58:54.228Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dd36cb553de653da44ed",
+    "key": "Up to 10 pages per website",
+    "createdAt": "2026-06-22T06:59:02.123Z",
+    "updatedAt": "2026-06-22T06:59:02.123Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dd4ccb553de653da49ed",
+    "key": "Up to 12 sections per page",
+    "createdAt": "2026-06-22T06:59:24.002Z",
+    "updatedAt": "2026-06-22T06:59:24.002Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dd53cb553de653da4eed",
+    "key": "Upload your own logo and favicon",
+    "createdAt": "2026-06-22T06:59:31.208Z",
+    "updatedAt": "2026-06-22T06:59:31.208Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dd5acb553de653da53ef",
+    "key": "Regenerate full website layout",
+    "createdAt": "2026-06-22T06:59:38.211Z",
+    "updatedAt": "2026-06-22T06:59:38.211Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dd97cb553de653da680c",
+    "key": "Unlimited website creation",
+    "createdAt": "2026-06-22T07:00:39.450Z",
+    "updatedAt": "2026-06-22T07:00:39.450Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dda0cb553de653da6d12",
+    "key": "Unlimited pages per website",
+    "createdAt": "2026-06-22T07:00:48.403Z",
+    "updatedAt": "2026-06-22T07:00:48.403Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dda9cb553de653da721c",
+    "key": "Unlimited sections per page",
+    "createdAt": "2026-06-22T07:00:57.890Z",
+    "updatedAt": "2026-06-22T07:00:57.890Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38ddcfcb553de653da79a9",
+    "key": "Create up to 120 websites per Year",
+    "createdAt": "2026-06-22T07:01:35.644Z",
+    "updatedAt": "2026-06-22T07:01:35.644Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38decbcb553de653da908c",
+    "key": "Active Plan",
+    "createdAt": "2026-06-22T07:05:47.940Z",
+    "updatedAt": "2026-06-22T07:05:47.940Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38dee5cb553de653da959c",
+    "key": "Start Free",
+    "createdAt": "2026-06-22T07:06:13.567Z",
+    "updatedAt": "2026-06-22T07:06:13.567Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38e03c8b8b5854c7b8ca58",
+    "key": "Testimonials",
+    "createdAt": "2026-06-22T07:11:56.621Z",
+    "updatedAt": "2026-06-22T07:11:56.621Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38e0448b8b5854c7b8cf6a",
+    "key": "Loved by Creators and  <span>Businesses Worldwide</span>",
+    "createdAt": "2026-06-22T07:12:04.638Z",
+    "updatedAt": "2026-06-22T07:12:04.638Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38e0a68b8b5854c7b8d480",
+    "key": "Discover how creators build AI-powered websites quickly and launch confidently with Weblify.",
+    "createdAt": "2026-06-22T07:13:42.497Z",
+    "updatedAt": "2026-06-22T07:13:42.497Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38e0eb8b8b5854c7b8d9ab",
+    "key": "Weblify’s AI tools simplified development and boosted my online presence quickly.  -- anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as  anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as",
+    "createdAt": "2026-06-22T07:14:51.102Z",
+    "updatedAt": "2026-06-22T07:14:51.102Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38e45e5a9d719e200ed46e",
+    "key": "Weblify helped me create a professional website in minutes. No coding, no stress — just amazing!",
+    "createdAt": "2026-06-22T07:29:34.058Z",
+    "updatedAt": "2026-06-22T07:29:34.058Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38e46c5a9d719e200ed988",
+    "key": "The AI layouts and previews are incredible. This is the future of website building.",
+    "createdAt": "2026-06-22T07:29:48.809Z",
+    "updatedAt": "2026-06-22T07:29:48.809Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38e4775a9d719e200edea4",
+    "key": "Perfect for agencies and non-technical users. Weblify saves hours of work.",
+    "createdAt": "2026-06-22T07:29:59.013Z",
+    "updatedAt": "2026-06-22T07:29:59.013Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f0985a9d719e200ef3c6",
+    "key": "FAQs",
+    "createdAt": "2026-06-22T08:21:44.536Z",
+    "updatedAt": "2026-06-22T08:21:44.536Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f0a15a9d719e200ef8e6",
+    "key": "Got Questions? We’ve <span>Got Answers</span>",
+    "createdAt": "2026-06-22T08:21:53.078Z",
+    "updatedAt": "2026-06-22T08:21:53.078Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f0b25a9d719e200efe08",
+    "key": "Find answers about Weblify features, pricing, and launching AI-powered websites faster.",
+    "createdAt": "2026-06-22T08:22:10.062Z",
+    "updatedAt": "2026-06-22T08:22:10.062Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f0bd5a9d719e200f032c",
+    "key": "Can I export my website and host it anywhere?",
+    "createdAt": "2026-06-22T08:22:21.790Z",
+    "updatedAt": "2026-06-22T08:22:21.790Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f0c45a9d719e200f0852",
+    "key": "Yes. You can download the complete source code and host your website on any platform or hosting provider.",
+    "createdAt": "2026-06-22T08:22:28.645Z",
+    "updatedAt": "2026-06-22T08:22:28.645Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f0cf5a9d719e200f0d7a",
+    "key": "What is Weblify AI?",
+    "createdAt": "2026-06-22T08:22:39.941Z",
+    "updatedAt": "2026-06-22T08:22:39.941Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f0e05a9d719e200f12a4",
+    "key": "Weblify AI is an AI-powered no-code website builder that helps you create professional, responsive websites in minutes without any coding skills.",
+    "createdAt": "2026-06-22T08:22:56.261Z",
+    "updatedAt": "2026-06-22T08:22:56.261Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f0f05a9d719e200f17d0",
+    "key": "Do I need coding or design experience to use Weblify AI?",
+    "createdAt": "2026-06-22T08:23:12.756Z",
+    "updatedAt": "2026-06-22T08:23:12.756Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f0f75a9d719e200f1cfe",
+    "key": "No. Weblify AI is designed for beginners and professionals alike. Everything is automated and easy to customize using a simple interface.",
+    "createdAt": "2026-06-22T08:23:19.301Z",
+    "updatedAt": "2026-06-22T08:23:19.301Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f1015a9d719e200f222e",
+    "key": "How does the AI website generation work?",
+    "createdAt": "2026-06-22T08:23:29.940Z",
+    "updatedAt": "2026-06-22T08:23:29.940Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f10c5a9d719e200f2760",
+    "key": "You provide basic details like website type, description, and preferences. Weblify AI then generates layouts, content, and design automatically.",
+    "createdAt": "2026-06-22T08:23:40.525Z",
+    "updatedAt": "2026-06-22T08:23:40.525Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f1155a9d719e200f2c94",
+    "key": "Are the websites mobile responsive?",
+    "createdAt": "2026-06-22T08:23:49.487Z",
+    "updatedAt": "2026-06-22T08:23:49.487Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f11e5a9d719e200f31cc",
+    "key": "Absolutely. All websites created with Weblify AI are fully responsive and optimized for all screen sizes.",
+    "createdAt": "2026-06-22T08:23:58.723Z",
+    "updatedAt": "2026-06-22T08:23:58.723Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f2175a9d719e200f3c5c",
+    "key": "4.3/5 from 4+ reviews",
+    "createdAt": "2026-06-22T08:28:07.031Z",
+    "updatedAt": "2026-06-22T08:28:07.031Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f2b55a9d719e200f41b1",
+    "key": "How AI Helps Startups Launch Faster",
+    "createdAt": "2026-06-22T08:30:45.957Z",
+    "updatedAt": "2026-06-22T08:30:45.957Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f2bd5a9d719e200f46ed",
+    "key": "Explore how startups leverage AI website builders to go live faster and smarter.",
+    "createdAt": "2026-06-22T08:30:53.706Z",
+    "updatedAt": "2026-06-22T08:30:53.706Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f2cb5a9d719e200f4c2b",
+    "key": "How AI Is Changing Website Development",
+    "createdAt": "2026-06-22T08:31:07.236Z",
+    "updatedAt": "2026-06-22T08:31:07.236Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f2d45a9d719e200f516b",
+    "key": "Learn how AI-powered tools are reshaping website creation and speeding up the development process.",
+    "createdAt": "2026-06-22T08:31:16.810Z",
+    "updatedAt": "2026-06-22T08:31:16.810Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f2f75a9d719e200f56c6",
+    "key": "No-Code vs Traditional Development: Which Is Better?",
+    "createdAt": "2026-06-22T08:31:51.046Z",
+    "updatedAt": "2026-06-22T08:31:51.046Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f3005a9d719e200f5eaa",
+    "key": "A detailed comparison between no-code platforms and traditional development approaches.",
+    "createdAt": "2026-06-22T08:32:00.204Z",
+    "updatedAt": "2026-06-22T08:32:00.204Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f30f5a9d719e200f63f0",
+    "key": "How to Create a Website in Minutes with Weblify AI",
+    "createdAt": "2026-06-22T08:32:15.969Z",
+    "updatedAt": "2026-06-22T08:32:15.969Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f3165a9d719e200f6938",
+    "key": "A step-by-step guide to building a professional website using Weblify AI without coding.",
+    "createdAt": "2026-06-22T08:32:22.386Z",
+    "updatedAt": "2026-06-22T08:32:22.386Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f3225a9d719e200f6e82",
+    "key": "Best Website Design Practices for 2025",
+    "createdAt": "2026-06-22T08:32:34.466Z",
+    "updatedAt": "2026-06-22T08:32:34.466Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f32a5a9d719e200f73ce",
+    "key": "Discover modern design principles and trends to create visually stunning websites.",
+    "createdAt": "2026-06-22T08:32:42.394Z",
+    "updatedAt": "2026-06-22T08:32:42.394Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f3375a9d719e200f791c",
+    "key": "Why Responsive Design Is More Important Than Ever",
+    "createdAt": "2026-06-22T08:32:55.403Z",
+    "updatedAt": "2026-06-22T08:32:55.403Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f33e5a9d719e200f7e6c",
+    "key": "Understand the importance of responsive design for better user experience and SEO.",
+    "createdAt": "2026-06-22T08:33:02.577Z",
+    "updatedAt": "2026-06-22T08:33:02.577Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f3805a9d719e200f83c0",
+    "key": "Our Blog",
+    "createdAt": "2026-06-22T08:34:08.859Z",
+    "updatedAt": "2026-06-22T08:34:08.859Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f3895a9d719e200f8914",
+    "key": "Insights & Resources for <span>AI Website Building</span>",
+    "createdAt": "2026-06-22T08:34:17.440Z",
+    "updatedAt": "2026-06-22T08:34:17.440Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f39f5a9d719e200f93c1",
+    "key": "Explore expert articles, tutorials, and trends to help you build smarter websites using AI and no-code tools.",
+    "createdAt": "2026-06-22T08:34:39.986Z",
+    "updatedAt": "2026-06-22T08:34:39.986Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f4535a9d719e200f9932",
+    "key": "Blogs",
+    "createdAt": "2026-06-22T08:37:39.306Z",
+    "updatedAt": "2026-06-22T08:37:39.306Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f4605a9d719e200f9e8c",
+    "key": "Transforming Ideas Into Intelligent Web Solutions",
+    "createdAt": "2026-06-22T08:37:52.081Z",
+    "updatedAt": "2026-06-22T08:37:52.081Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f4695a9d719e200fa3e8",
+    "key": "We turn innovative ideas into intelligent, scalable web solutions using modern technologies.",
+    "createdAt": "2026-06-22T08:38:01.641Z",
+    "updatedAt": "2026-06-22T08:38:01.641Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f5645a9d719e200fa946",
+    "key": "AI & Automation",
+    "createdAt": "2026-06-22T08:42:12.882Z",
+    "updatedAt": "2026-06-22T08:42:12.882Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f56d5a9d719e200faea6",
+    "key": "No-Code",
+    "createdAt": "2026-06-22T08:42:21.219Z",
+    "updatedAt": "2026-06-22T08:42:21.219Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f5745a9d719e200fb408",
+    "key": "Tutorials",
+    "createdAt": "2026-06-22T08:42:28.599Z",
+    "updatedAt": "2026-06-22T08:42:28.599Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f57d5a9d719e200fb96c",
+    "key": "Design & UX",
+    "createdAt": "2026-06-22T08:42:37.825Z",
+    "updatedAt": "2026-06-22T08:42:37.825Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f5855a9d719e200fbed2",
+    "key": "Business & Startups",
+    "createdAt": "2026-06-22T08:42:45.214Z",
+    "updatedAt": "2026-06-22T08:42:45.214Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f58d5a9d719e200fc43a",
+    "key": "SEO & Marketing",
+    "createdAt": "2026-06-22T08:42:53.589Z",
+    "updatedAt": "2026-06-22T08:42:53.589Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f66c5a9d719e200fc9f4",
+    "key": "Ready to Build Your Website with AI?",
+    "createdAt": "2026-06-22T08:46:36.273Z",
+    "updatedAt": "2026-06-22T08:46:36.273Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f6765a9d719e200fcf60",
+    "key": "Create websites in minutes",
+    "createdAt": "2026-06-22T08:46:46.342Z",
+    "updatedAt": "2026-06-22T08:46:46.342Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f67f5a9d719e200fd4ce",
+    "key": "AI-powered no coding required",
+    "createdAt": "2026-06-22T08:46:55.783Z",
+    "updatedAt": "2026-06-22T08:46:55.783Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f68a5a9d719e200fda3e",
+    "key": "Fully responsive on all devices",
+    "createdAt": "2026-06-22T08:47:06.333Z",
+    "updatedAt": "2026-06-22T08:47:06.333Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f6935a9d719e200fdfb0",
+    "key": "Create professional, fully responsive websites in minutes using our AI-powered no-code platform—no coding required.",
+    "createdAt": "2026-06-22T08:47:15.685Z",
+    "updatedAt": "2026-06-22T08:47:15.685Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f77b5a9d719e200fe54a",
+    "key": "Weblify is an AI-powered website generator that helps businesses and creators build professional, responsive websites without coding. With smart automation, modern templates, and SEO-ready structure, Weblify makes launching fast, simple, and accessible for everyone looking to grow online.",
+    "createdAt": "2026-06-22T08:51:07.384Z",
+    "updatedAt": "2026-06-22T08:51:07.384Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f9875a9d719e200feaf9",
+    "key": "CONTACT US",
+    "createdAt": "2026-06-22T08:59:51.040Z",
+    "updatedAt": "2026-06-22T08:59:51.040Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f98e5a9d719e200ff071",
+    "key": "Let’s Build Something Great Together",
+    "createdAt": "2026-06-22T08:59:58.137Z",
+    "updatedAt": "2026-06-22T08:59:58.137Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f9955a9d719e200ff5eb",
+    "key": "Have questions about Weblify or need support? Our team is ready to help you build, customize, and launch your AI-powered website with ease",
+    "createdAt": "2026-06-22T09:00:05.601Z",
+    "updatedAt": "2026-06-22T09:00:05.601Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38f9df5a9d719e200ffb75",
+    "key": "Weblify Technologies Pvt. Ltd. 402, Skyline Business Tower MG Road, Andheri East Mumbai, Maharashtra 400069 India",
+    "createdAt": "2026-06-22T09:01:19.898Z",
+    "updatedAt": "2026-06-22T09:01:19.898Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38fac75a9d719e20100108",
+    "key": "Welcome Back to <span>Weblify</span>",
+    "createdAt": "2026-06-22T09:05:11.361Z",
+    "updatedAt": "2026-06-22T09:05:11.361Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38fadf5a9d719e20100688",
+    "key": "Log in to manage, customize, and launch your AI-powered websites with ease.",
+    "createdAt": "2026-06-22T09:05:35.918Z",
+    "updatedAt": "2026-06-22T09:05:35.918Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38fae95a9d719e20100c0a",
+    "key": "Access All Your Websites",
+    "createdAt": "2026-06-22T09:05:45.089Z",
+    "updatedAt": "2026-06-22T09:05:45.089Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38faf05a9d719e2010118e",
+    "key": "Continue Building Your Projects",
+    "createdAt": "2026-06-22T09:05:52.857Z",
+    "updatedAt": "2026-06-22T09:05:52.857Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38faf85a9d719e20101714",
+    "key": "Track Website Performance Insights",
+    "createdAt": "2026-06-22T09:06:00.333Z",
+    "updatedAt": "2026-06-22T09:06:00.333Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38faff5a9d719e20101c9c",
+    "key": "Manage Plans and Billing",
+    "createdAt": "2026-06-22T09:06:07.863Z",
+    "updatedAt": "2026-06-22T09:06:07.863Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38fb6c5a9d719e20102227",
+    "key": "Create Your Weblify <span>Account</span>",
+    "createdAt": "2026-06-22T09:07:56.895Z",
+    "updatedAt": "2026-06-22T09:07:56.895Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38fb755a9d719e201027b3",
+    "key": "Sign up to create stunning AI-powered websites in minutes. No coding required.",
+    "createdAt": "2026-06-22T09:08:05.206Z",
+    "updatedAt": "2026-06-22T09:08:05.206Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38fbd05a9d719e20102d4d",
+    "key": "Build stunning AI websites instantly",
+    "createdAt": "2026-06-22T09:09:36.318Z",
+    "updatedAt": "2026-06-22T09:09:36.318Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38fbd75a9d719e201032dd",
+    "key": "Ready in seconds",
+    "createdAt": "2026-06-22T09:09:43.888Z",
+    "updatedAt": "2026-06-22T09:09:43.888Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38fbdf5a9d719e2010386f",
+    "key": "Launch your site without coding",
+    "createdAt": "2026-06-22T09:09:51.188Z",
+    "updatedAt": "2026-06-22T09:09:51.188Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38fbe95a9d719e20103e03",
+    "key": "Simple drag & customize",
+    "createdAt": "2026-06-22T09:10:01.165Z",
+    "updatedAt": "2026-06-22T09:10:01.165Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38fbf35a9d719e20104399",
+    "key": "Access premium templates & tools",
+    "createdAt": "2026-06-22T09:10:11.173Z",
+    "updatedAt": "2026-06-22T09:10:11.173Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38fc045a9d719e20104931",
+    "key": "All features unlocked",
+    "createdAt": "2026-06-22T09:10:28.637Z",
+    "updatedAt": "2026-06-22T09:10:28.637Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38fc0d5a9d719e20104ecb",
+    "key": "Flexible plans that grow with you",
+    "createdAt": "2026-06-22T09:10:37.351Z",
+    "updatedAt": "2026-06-22T09:10:37.351Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38fc1d5a9d719e20105467",
+    "key": "Upgrade anytime",
+    "createdAt": "2026-06-22T09:10:53.948Z",
+    "updatedAt": "2026-06-22T09:10:53.948Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a38fc865a9d719e20105a0a",
+    "key": "Logging in...",
+    "createdAt": "2026-06-22T09:12:38.057Z",
+    "updatedAt": "2026-06-22T09:12:38.057Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3902355a9d719e201063d4",
+    "key": "Total Suppport Ticket",
+    "createdAt": "2026-06-22T09:36:53.072Z",
+    "updatedAt": "2026-06-22T09:36:53.072Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3902665a9d719e20106f14",
+    "key": "No Active Plan",
+    "createdAt": "2026-06-22T09:37:42.910Z",
+    "updatedAt": "2026-06-22T09:37:42.910Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390bc95a9d719e201080cc",
+    "key": "Community / Membership",
+    "createdAt": "2026-06-22T10:17:45.370Z",
+    "updatedAt": "2026-06-22T10:17:45.370Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390bcf5a9d719e20108672",
+    "key": "Websites for building communities with memberships, forums, and exclusive content.",
+    "createdAt": "2026-06-22T10:17:51.739Z",
+    "updatedAt": "2026-06-22T10:17:51.739Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390bd95a9d719e20108c1a",
+    "key": "Education / Courses",
+    "createdAt": "2026-06-22T10:18:01.224Z",
+    "updatedAt": "2026-06-22T10:18:01.224Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390be25a9d719e201091c4",
+    "key": "Platforms for online courses, coaching, and educational institutions.",
+    "createdAt": "2026-06-22T10:18:10.897Z",
+    "updatedAt": "2026-06-22T10:18:10.897Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390bec5a9d719e20109770",
+    "key": "Real Estate",
+    "createdAt": "2026-06-22T10:18:20.841Z",
+    "updatedAt": "2026-06-22T10:18:20.841Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390bf55a9d719e20109d1e",
+    "key": "Property listing websites for real estate agents and agencies to showcase properties.",
+    "createdAt": "2026-06-22T10:18:29.407Z",
+    "updatedAt": "2026-06-22T10:18:29.407Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390c2c5a9d719e2010a2ce",
+    "key": "Salon / Spa",
+    "createdAt": "2026-06-22T10:19:24.109Z",
+    "updatedAt": "2026-06-22T10:19:24.109Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390c335a9d719e2010a880",
+    "key": "Stylish websites for salons and spas to highlight services, pricing, and bookings.",
+    "createdAt": "2026-06-22T10:19:31.481Z",
+    "updatedAt": "2026-06-22T10:19:31.481Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390c3d5a9d719e2010ae34",
+    "key": "Fitness / Gym",
+    "createdAt": "2026-06-22T10:19:41.849Z",
+    "updatedAt": "2026-06-22T10:19:41.849Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390c455a9d719e2010b3ea",
+    "key": "Websites for gyms and fitness trainers to showcase programs, trainers, and memberships.",
+    "createdAt": "2026-06-22T10:19:49.617Z",
+    "updatedAt": "2026-06-22T10:19:49.617Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390c515a9d719e2010b9a2",
+    "key": "Medical / Clinic",
+    "createdAt": "2026-06-22T10:20:01.545Z",
+    "updatedAt": "2026-06-22T10:20:01.545Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390c5a5a9d719e2010bf5c",
+    "key": "Professional healthcare websites for clinics, doctors, and medical services.",
+    "createdAt": "2026-06-22T10:20:10.514Z",
+    "updatedAt": "2026-06-22T10:20:10.514Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390c835a9d719e2010c518",
+    "key": "Marketing / Lead Gen",
+    "createdAt": "2026-06-22T10:20:51.928Z",
+    "updatedAt": "2026-06-22T10:20:51.928Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390c8f5a9d719e2010cad6",
+    "key": "Websites optimized for capturing leads through forms, CTAs, and conversion funnels.",
+    "createdAt": "2026-06-22T10:21:03.816Z",
+    "updatedAt": "2026-06-22T10:21:03.816Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390c985a9d719e2010d096",
+    "key": "App Showcase",
+    "createdAt": "2026-06-22T10:21:12.089Z",
+    "updatedAt": "2026-06-22T10:21:12.089Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390ca15a9d719e2010d658",
+    "key": "Websites to promote mobile or web apps with features, screenshots, and download links.",
+    "createdAt": "2026-06-22T10:21:21.256Z",
+    "updatedAt": "2026-06-22T10:21:21.256Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390caa5a9d719e2010dc1c",
+    "key": "Landing Page",
+    "createdAt": "2026-06-22T10:21:30.775Z",
+    "updatedAt": "2026-06-22T10:21:30.775Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390cb35a9d719e2010e1e2",
+    "key": "High-converting landing pages designed for marketing campaigns and lead generation.",
+    "createdAt": "2026-06-22T10:21:39.847Z",
+    "updatedAt": "2026-06-22T10:21:39.847Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390cbf5a9d719e2010e7aa",
+    "key": "News / Magazine",
+    "createdAt": "2026-06-22T10:21:51.023Z",
+    "updatedAt": "2026-06-22T10:21:51.023Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390cc55a9d719e2010ed74",
+    "key": "Content-heavy platforms for publishing news, articles, and editorial content.",
+    "createdAt": "2026-06-22T10:21:57.167Z",
+    "updatedAt": "2026-06-22T10:21:57.167Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390ccf5a9d719e2010f340",
+    "key": "Personal Brand",
+    "createdAt": "2026-06-22T10:22:07.073Z",
+    "updatedAt": "2026-06-22T10:22:07.073Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390ce95a9d719e2010f90e",
+    "key": "Personal websites for individuals to build their brand, share content, and grow audience.",
+    "createdAt": "2026-06-22T10:22:33.607Z",
+    "updatedAt": "2026-06-22T10:22:33.607Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390cf05a9d719e2010fede",
+    "key": "Hotel / Resort",
+    "createdAt": "2026-06-22T10:22:40.575Z",
+    "updatedAt": "2026-06-22T10:22:40.575Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390cf75a9d719e201104b0",
+    "key": "Elegant websites for hotels and resorts with booking features and property showcases.",
+    "createdAt": "2026-06-22T10:22:47.407Z",
+    "updatedAt": "2026-06-22T10:22:47.407Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390d035a9d719e20110a84",
+    "key": "Single Product",
+    "createdAt": "2026-06-22T10:22:59.744Z",
+    "updatedAt": "2026-06-22T10:22:59.744Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390d095a9d719e2011105a",
+    "key": "Focused landing pages designed to promote and sell a single product effectively.",
+    "createdAt": "2026-06-22T10:23:05.119Z",
+    "updatedAt": "2026-06-22T10:23:05.119Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390d1a5a9d719e20111632",
+    "key": "Agency / Consulting",
+    "createdAt": "2026-06-22T10:23:22.877Z",
+    "updatedAt": "2026-06-22T10:23:22.877Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390d225a9d719e20111c0c",
+    "key": "Service-based websites for agencies and consultants to highlight expertise, projects, and clients.",
+    "createdAt": "2026-06-22T10:23:30.631Z",
+    "updatedAt": "2026-06-22T10:23:30.631Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390d2d5a9d719e201121e8",
+    "key": "Startup / SaaS",
+    "createdAt": "2026-06-22T10:23:41.367Z",
+    "updatedAt": "2026-06-22T10:23:41.367Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390d325a9d719e201127c6",
+    "key": "Modern websites for startups and SaaS products focused on features, pricing, and conversions.",
+    "createdAt": "2026-06-22T10:23:46.671Z",
+    "updatedAt": "2026-06-22T10:23:46.671Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390d3e5a9d719e20112da6",
+    "key": "Digital Agency",
+    "createdAt": "2026-06-22T10:23:58.558Z",
+    "updatedAt": "2026-06-22T10:23:58.558Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390d445a9d719e20113388",
+    "key": "Promote your services, case studies, and client success stories.",
+    "createdAt": "2026-06-22T10:24:04.295Z",
+    "updatedAt": "2026-06-22T10:24:04.295Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390d4f5a9d719e2011396c",
+    "key": "Restaurant / Cafe",
+    "createdAt": "2026-06-22T10:24:15.582Z",
+    "updatedAt": "2026-06-22T10:24:15.582Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390d575a9d719e20113f52",
+    "key": "Websites for restaurants and cafes to display menus, ambiance, and reservation details.",
+    "createdAt": "2026-06-22T10:24:23.472Z",
+    "updatedAt": "2026-06-22T10:24:23.472Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390d5f5a9d719e2011453a",
+    "key": "Blog / Content Creator",
+    "createdAt": "2026-06-22T10:24:31.854Z",
+    "updatedAt": "2026-06-22T10:24:31.854Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390d645a9d719e20114b24",
+    "key": "Content-focused websites for bloggers and creators to publish articles and media.",
+    "createdAt": "2026-06-22T10:24:36.877Z",
+    "updatedAt": "2026-06-22T10:24:36.877Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390d765a9d719e20115404",
+    "key": "Creative portfolios for designers, developers, and artists to showcase their work.",
+    "createdAt": "2026-06-22T10:24:54.762Z",
+    "updatedAt": "2026-06-22T10:24:54.762Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390d885a9d719e201159f2",
+    "key": "Corporate / Company",
+    "createdAt": "2026-06-22T10:25:12.032Z",
+    "updatedAt": "2026-06-22T10:25:12.032Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390d915a9d719e20115fe2",
+    "key": "Professional websites for companies to showcase services, team, and business information.",
+    "createdAt": "2026-06-22T10:25:21.472Z",
+    "updatedAt": "2026-06-22T10:25:21.472Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390da25a9d719e201168cb",
+    "key": "Online stores for selling physical or digital products with product listings and checkout flow.",
+    "createdAt": "2026-06-22T10:25:38.511Z",
+    "updatedAt": "2026-06-22T10:25:38.511Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390e7a5a9d719e201186de",
+    "key": "Modern & Minimalist",
+    "createdAt": "2026-06-22T10:29:14.497Z",
+    "updatedAt": "2026-06-22T10:29:14.497Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390e825a9d719e20118cd4",
+    "key": "Bold & Vibrant",
+    "createdAt": "2026-06-22T10:29:22.806Z",
+    "updatedAt": "2026-06-22T10:29:22.806Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390e8a5a9d719e201192cc",
+    "key": "Elegant & Professional",
+    "createdAt": "2026-06-22T10:29:30.485Z",
+    "updatedAt": "2026-06-22T10:29:30.485Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390e915a9d719e201198c6",
+    "key": "Creative & Artistic",
+    "createdAt": "2026-06-22T10:29:37.317Z",
+    "updatedAt": "2026-06-22T10:29:37.317Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a390e985a9d719e20119ec2",
+    "key": "Corporate & Traditional",
+    "createdAt": "2026-06-22T10:29:44.661Z",
+    "updatedAt": "2026-06-22T10:29:44.661Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a39120b5a9d719e2011aef8",
+    "key": "Create Website",
+    "createdAt": "2026-06-22T10:44:27.242Z",
+    "updatedAt": "2026-06-22T10:44:27.242Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3912135a9d719e2011b4f8",
+    "key": "Pricing Plan",
+    "createdAt": "2026-06-22T10:44:35.367Z",
+    "updatedAt": "2026-06-22T10:44:35.367Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3912f85a9d719e2011cd55",
+    "key": "This Month Websites",
+    "createdAt": "2026-06-22T10:48:24.600Z",
+    "updatedAt": "2026-06-22T10:48:24.600Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3915425a9d719e2011d722",
+    "key": "Yearly Plan",
+    "createdAt": "2026-06-22T10:58:10.078Z",
+    "updatedAt": "2026-06-22T10:58:10.078Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3915495a9d719e2011dd28",
+    "key": "Monthly Plan",
+    "createdAt": "2026-06-22T10:58:17.300Z",
+    "updatedAt": "2026-06-22T10:58:17.300Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3916c25a9d719e2011e364",
+    "key": "Open Tickets",
+    "createdAt": "2026-06-22T11:04:34.197Z",
+    "updatedAt": "2026-06-22T11:04:34.197Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3916cb5a9d719e2011e96e",
+    "key": "Closed Tickets",
+    "createdAt": "2026-06-22T11:04:43.805Z",
+    "updatedAt": "2026-06-22T11:04:43.805Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3916d35a9d719e2011ef7a",
+    "key": "Answered Tickets",
+    "createdAt": "2026-06-22T11:04:51.018Z",
+    "updatedAt": "2026-06-22T11:04:51.018Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3917095a9d719e2011f5aa",
+    "key": "Open",
+    "createdAt": "2026-06-22T11:05:45.053Z",
+    "updatedAt": "2026-06-22T11:05:45.053Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3917105a9d719e2011fbba",
+    "key": "Answered",
+    "createdAt": "2026-06-22T11:05:52.644Z",
+    "updatedAt": "2026-06-22T11:05:52.644Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3917195a9d719e201201cc",
+    "key": "Closed",
+    "createdAt": "2026-06-22T11:06:01.313Z",
+    "updatedAt": "2026-06-22T11:06:01.313Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3917ad5a9d719e20120816",
+    "key": "High",
+    "createdAt": "2026-06-22T11:08:29.666Z",
+    "updatedAt": "2026-06-22T11:08:29.666Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3917b45a9d719e20120e2c",
+    "key": "Medium",
+    "createdAt": "2026-06-22T11:08:36.313Z",
+    "updatedAt": "2026-06-22T11:08:36.313Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3917c15a9d719e20121444",
+    "key": "Low",
+    "createdAt": "2026-06-22T11:08:49.001Z",
+    "updatedAt": "2026-06-22T11:08:49.001Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a391a8b5a9d719e20121a8e",
+    "key": "Ticket created successfully!",
+    "createdAt": "2026-06-22T11:20:43.775Z",
+    "updatedAt": "2026-06-22T11:20:43.775Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a391a995a9d719e201220aa",
+    "key": "Failed to create ticket.",
+    "createdAt": "2026-06-22T11:20:57.837Z",
+    "updatedAt": "2026-06-22T11:20:57.837Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a391aa65a9d719e201226c8",
+    "key": "Error creating ticket. Please try again.",
+    "createdAt": "2026-06-22T11:21:10.612Z",
+    "updatedAt": "2026-06-22T11:21:10.612Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a391b175a9d719e20122cf0",
+    "key": "Subject is required.",
+    "createdAt": "2026-06-22T11:23:03.363Z",
+    "updatedAt": "2026-06-22T11:23:03.363Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a391b255a9d719e20123312",
+    "key": "Message is required.",
+    "createdAt": "2026-06-22T11:23:17.037Z",
+    "updatedAt": "2026-06-22T11:23:17.037Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a391c185a9d719e20123d1a",
+    "key": "stripe",
+    "createdAt": "2026-06-22T11:27:20.917Z",
+    "updatedAt": "2026-06-22T11:27:20.917Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a391c245a9d719e20124340",
+    "key": "paypal",
+    "createdAt": "2026-06-22T11:27:32.337Z",
+    "updatedAt": "2026-06-22T11:27:32.337Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a391c2d5a9d719e2012496c",
+    "key": "braintree",
+    "createdAt": "2026-06-22T11:27:41.131Z",
+    "updatedAt": "2026-06-22T11:27:41.131Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a391ce75a9d719e201252ee",
+    "key": "Analyzing your requirements",
+    "createdAt": "2026-06-22T11:30:47.611Z",
+    "updatedAt": "2026-06-22T11:30:47.611Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a391cf55a9d719e2012591a",
+    "key": "Designing layout structure",
+    "createdAt": "2026-06-22T11:31:01.308Z",
+    "updatedAt": "2026-06-22T11:31:01.308Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a391d1f5a9d719e20125f48",
+    "key": "Generating color scheme",
+    "createdAt": "2026-06-22T11:31:43.466Z",
+    "updatedAt": "2026-06-22T11:31:43.466Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a391d275a9d719e20126578",
+    "key": "Creating content sections",
+    "createdAt": "2026-06-22T11:31:51.443Z",
+    "updatedAt": "2026-06-22T11:31:51.443Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a391d2f5a9d719e20126baa",
+    "key": "Optimizing for mobile devices",
+    "createdAt": "2026-06-22T11:31:59.992Z",
+    "updatedAt": "2026-06-22T11:31:59.992Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a391d3a5a9d719e201271de",
+    "key": "Adding SEO metadata",
+    "createdAt": "2026-06-22T11:32:10.273Z",
+    "updatedAt": "2026-06-22T11:32:10.273Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a391d425a9d719e20127814",
+    "key": "Finalizing your website",
+    "createdAt": "2026-06-22T11:32:18.456Z",
+    "updatedAt": "2026-06-22T11:32:18.456Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a391d5c5a9d719e20127e4c",
+    "key": "Payment UI not ready. Please try another method.",
+    "createdAt": "2026-06-22T11:32:44.129Z",
+    "updatedAt": "2026-06-22T11:32:44.129Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3922325a9d719e20128c94",
+    "key": "Narrow",
+    "createdAt": "2026-06-22T11:53:22.119Z",
+    "updatedAt": "2026-06-22T11:53:22.119Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3922385a9d719e201292d0",
+    "key": "Standard",
+    "createdAt": "2026-06-22T11:53:28.524Z",
+    "updatedAt": "2026-06-22T11:53:28.524Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3922415a9d719e2012990e",
+    "key": "Full Width",
+    "createdAt": "2026-06-22T11:53:37.441Z",
+    "updatedAt": "2026-06-22T11:53:37.441Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3922ef5a9d719e20129f5a",
+    "key": "Compact",
+    "createdAt": "2026-06-22T11:56:31.869Z",
+    "updatedAt": "2026-06-22T11:56:31.869Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3922f65a9d719e2012a59c",
+    "key": "Normal",
+    "createdAt": "2026-06-22T11:56:38.305Z",
+    "updatedAt": "2026-06-22T11:56:38.305Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3922fd5a9d719e2012abe0",
+    "key": "Spacious",
+    "createdAt": "2026-06-22T11:56:45.002Z",
+    "updatedAt": "2026-06-22T11:56:45.002Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a39232a5a9d719e2012b228",
+    "key": "None",
+    "createdAt": "2026-06-22T11:57:30.105Z",
+    "updatedAt": "2026-06-22T11:57:30.105Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3923335a9d719e2012b870",
+    "key": "Small",
+    "createdAt": "2026-06-22T11:57:39.793Z",
+    "updatedAt": "2026-06-22T11:57:39.793Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3923435a9d719e2012c1dd",
+    "key": "Large",
+    "createdAt": "2026-06-22T11:57:55.257Z",
+    "updatedAt": "2026-06-22T11:57:55.257Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a39237c5a9d719e2012c835",
+    "key": "Rounded",
+    "createdAt": "2026-06-22T11:58:52.592Z",
+    "updatedAt": "2026-06-22T11:58:52.592Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3923835a9d719e2012ce83",
+    "key": "Sharp",
+    "createdAt": "2026-06-22T11:58:59.834Z",
+    "updatedAt": "2026-06-22T11:58:59.834Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3923895a9d719e2012d4d3",
+    "key": "Pill",
+    "createdAt": "2026-06-22T11:59:05.713Z",
+    "updatedAt": "2026-06-22T11:59:05.713Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3923b75a9d719e2012db25",
+    "key": "Inter",
+    "createdAt": "2026-06-22T11:59:51.449Z",
+    "updatedAt": "2026-06-22T11:59:51.449Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3923be5a9d719e2012e179",
+    "key": "Poppins",
+    "createdAt": "2026-06-22T11:59:58.033Z",
+    "updatedAt": "2026-06-22T11:59:58.033Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3923cd5a9d719e2012e7cf",
+    "key": "DMSans",
+    "createdAt": "2026-06-22T12:00:13.169Z",
+    "updatedAt": "2026-06-22T12:00:13.169Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3923d65a9d719e2012ee27",
+    "key": "Montserrat",
+    "createdAt": "2026-06-22T12:00:22.282Z",
+    "updatedAt": "2026-06-22T12:00:22.282Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3923dd5a9d719e2012f481",
+    "key": "Raleway",
+    "createdAt": "2026-06-22T12:00:29.816Z",
+    "updatedAt": "2026-06-22T12:00:29.816Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3924045a9d719e2012fadd",
+    "key": "Lato",
+    "createdAt": "2026-06-22T12:01:08.527Z",
+    "updatedAt": "2026-06-22T12:01:08.527Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a39240c5a9d719e2013013b",
+    "key": "Playfair Display",
+    "createdAt": "2026-06-22T12:01:16.666Z",
+    "updatedAt": "2026-06-22T12:01:16.666Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a39241a5a9d719e2013079b",
+    "key": "Open Sans",
+    "createdAt": "2026-06-22T12:01:30.570Z",
+    "updatedAt": "2026-06-22T12:01:30.570Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3924245a9d719e20130dfd",
+    "key": "Roboto",
+    "createdAt": "2026-06-22T12:01:40.609Z",
+    "updatedAt": "2026-06-22T12:01:40.609Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a39250a5a9d719e201317fc",
+    "key": "Professional",
+    "createdAt": "2026-06-22T12:05:30.850Z",
+    "updatedAt": "2026-06-22T12:05:30.850Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3925125a9d719e20131e62",
+    "key": "Friendly",
+    "createdAt": "2026-06-22T12:05:38.751Z",
+    "updatedAt": "2026-06-22T12:05:38.751Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a39251a5a9d719e201324ca",
+    "key": "Creative",
+    "createdAt": "2026-06-22T12:05:46.247Z",
+    "updatedAt": "2026-06-22T12:05:46.247Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3925205a9d719e20132b34",
+    "key": "Corporate",
+    "createdAt": "2026-06-22T12:05:52.692Z",
+    "updatedAt": "2026-06-22T12:05:52.692Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3925515a9d719e201331ac",
+    "key": "Short",
+    "createdAt": "2026-06-22T12:06:41.686Z",
+    "updatedAt": "2026-06-22T12:06:41.686Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a39255a5a9d719e2013381a",
+    "key": "Detailed",
+    "createdAt": "2026-06-22T12:06:50.952Z",
+    "updatedAt": "2026-06-22T12:06:50.952Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a39268c5a9d719e20134207",
+    "key": "Active Pages",
+    "createdAt": "2026-06-22T12:11:56.580Z",
+    "updatedAt": "2026-06-22T12:11:56.580Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a39269d5a9d719e20134879",
+    "key": "Select pages to include...",
+    "createdAt": "2026-06-22T12:12:13.985Z",
+    "updatedAt": "2026-06-22T12:12:13.985Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3928e75a9d719e20134f36",
+    "key": "About",
+    "createdAt": "2026-06-22T12:21:59.378Z",
+    "updatedAt": "2026-06-22T12:21:59.378Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3928f05a9d719e201355ac",
+    "key": "Contact",
+    "createdAt": "2026-06-22T12:22:08.515Z",
+    "updatedAt": "2026-06-22T12:22:08.515Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3928f85a9d719e20135c24",
+    "key": "Services",
+    "createdAt": "2026-06-22T12:22:16.532Z",
+    "updatedAt": "2026-06-22T12:22:16.532Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3929095a9d719e201365d9",
+    "key": "Team",
+    "createdAt": "2026-06-22T12:22:33.928Z",
+    "updatedAt": "2026-06-22T12:22:33.928Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3929315a9d719e20137945",
+    "key": "Products",
+    "createdAt": "2026-06-22T12:23:13.842Z",
+    "updatedAt": "2026-06-22T12:23:13.842Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3929445a9d719e20138300",
+    "key": "Header",
+    "createdAt": "2026-06-22T12:23:32.136Z",
+    "updatedAt": "2026-06-22T12:23:32.136Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a39294f5a9d719e20138980",
+    "key": "Hero Section",
+    "createdAt": "2026-06-22T12:23:43.618Z",
+    "updatedAt": "2026-06-22T12:23:43.618Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a39295e5a9d719e20139002",
+    "key": "About Section",
+    "createdAt": "2026-06-22T12:23:58.035Z",
+    "updatedAt": "2026-06-22T12:23:58.035Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a39296e5a9d719e201399c6",
+    "key": "Call To Action",
+    "createdAt": "2026-06-22T12:24:14.682Z",
+    "updatedAt": "2026-06-22T12:24:14.682Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a39298d5a9d719e2013a6ce",
+    "key": "Stats / Counters",
+    "createdAt": "2026-06-22T12:24:45.746Z",
+    "updatedAt": "2026-06-22T12:24:45.746Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a39299f5a9d719e2013b098",
+    "key": "Footer",
+    "createdAt": "2026-06-22T12:25:03.567Z",
+    "updatedAt": "2026-06-22T12:25:03.567Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a087a7930572a677caeb9",
+    "key": "Subject and message are required",
+    "createdAt": "2026-06-23T04:15:54.280Z",
+    "updatedAt": "2026-06-23T04:15:54.280Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a08847930572a677caed7",
+    "key": "Unauthorized",
+    "createdAt": "2026-06-23T04:16:04.815Z",
+    "updatedAt": "2026-06-23T04:16:04.815Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a08907930572a677caef7",
+    "key": "User not found",
+    "createdAt": "2026-06-23T04:16:16.416Z",
+    "updatedAt": "2026-06-23T04:16:16.416Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a089a7930572a677caf19",
+    "key": "Ticket submitted",
+    "createdAt": "2026-06-23T04:16:26.727Z",
+    "updatedAt": "2026-06-23T04:16:26.727Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a08a67930572a677caf3d",
+    "key": "Message required",
+    "createdAt": "2026-06-23T04:16:38.231Z",
+    "updatedAt": "2026-06-23T04:16:38.231Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a08af7930572a677caf63",
+    "key": "Ticket not found",
+    "createdAt": "2026-06-23T04:16:47.140Z",
+    "updatedAt": "2026-06-23T04:16:47.140Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a09317930572a677caf8b",
+    "key": "Missing fields",
+    "createdAt": "2026-06-23T04:18:57.823Z",
+    "updatedAt": "2026-06-23T04:18:57.823Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a09817930572a677cd07e",
+    "key": "Invalid payment gateway",
+    "createdAt": "2026-06-23T04:20:17.268Z",
+    "updatedAt": "2026-06-23T04:20:17.268Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a098b7930572a677cd718",
+    "key": "Payment creation error",
+    "createdAt": "2026-06-23T04:20:27.611Z",
+    "updatedAt": "2026-06-23T04:20:27.611Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a09b07930572a677cddb4",
+    "key": "Your message has been sent successfully!",
+    "createdAt": "2026-06-23T04:21:04.149Z",
+    "updatedAt": "2026-06-23T04:21:04.149Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a09b77930572a677ce452",
+    "key": "Failed to send your message. Please try again later.",
+    "createdAt": "2026-06-23T04:21:11.689Z",
+    "updatedAt": "2026-06-23T04:21:11.689Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a09ed7930572a677cee40",
+    "key": "All required fields must be filled!",
+    "createdAt": "2026-06-23T04:22:05.827Z",
+    "updatedAt": "2026-06-23T04:22:05.827Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a09f77930572a677cf4e2",
+    "key": "Message submitted successfully!",
+    "createdAt": "2026-06-23T04:22:15.933Z",
+    "updatedAt": "2026-06-23T04:22:15.933Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0a017930572a677cfb86",
+    "key": "Server error. Please try again later.",
+    "createdAt": "2026-06-23T04:22:25.579Z",
+    "updatedAt": "2026-06-23T04:22:25.579Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0a297930572a677d022c",
+    "key": "Email not found",
+    "createdAt": "2026-06-23T04:23:05.917Z",
+    "updatedAt": "2026-06-23T04:23:05.917Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0a357930572a677d08d4",
+    "key": "Password reset link sent to your email!",
+    "createdAt": "2026-06-23T04:23:17.425Z",
+    "updatedAt": "2026-06-23T04:23:17.425Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0a3f7930572a677d0f7e",
+    "key": "Failed to send reset link",
+    "createdAt": "2026-06-23T04:23:27.009Z",
+    "updatedAt": "2026-06-23T04:23:27.009Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0a587930572a677d162a",
+    "key": "Invalid login attempt",
+    "createdAt": "2026-06-23T04:23:52.574Z",
+    "updatedAt": "2026-06-23T04:23:52.574Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0ade7930572a677d1cd8",
+    "key": "Invalid OTP",
+    "createdAt": "2026-06-23T04:26:06.823Z",
+    "updatedAt": "2026-06-23T04:26:06.823Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0ae67930572a677d2388",
+    "key": "OTP expired",
+    "createdAt": "2026-06-23T04:26:14.102Z",
+    "updatedAt": "2026-06-23T04:26:14.102Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0aef7930572a677d2a3a",
+    "key": "Email verified successfully",
+    "createdAt": "2026-06-23T04:26:23.941Z",
+    "updatedAt": "2026-06-23T04:26:23.941Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0b0c7930572a677d30ee",
+    "key": "Email is required.",
+    "createdAt": "2026-06-23T04:26:52.907Z",
+    "updatedAt": "2026-06-23T04:26:52.907Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0b1c7930572a677d37a4",
+    "key": "Email already verified.",
+    "createdAt": "2026-06-23T04:27:08.037Z",
+    "updatedAt": "2026-06-23T04:27:08.037Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0b297930572a677d3e5c",
+    "key": "OTP resent to your email.",
+    "createdAt": "2026-06-23T04:27:21.734Z",
+    "updatedAt": "2026-06-23T04:27:21.734Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0b537930572a677d4bcc",
+    "key": "Invalid or expired token",
+    "createdAt": "2026-06-23T04:28:03.355Z",
+    "updatedAt": "2026-06-23T04:28:03.355Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0b677930572a677d55e4",
+    "key": "Password changed successfully!",
+    "createdAt": "2026-06-23T04:28:23.481Z",
+    "updatedAt": "2026-06-23T04:28:23.481Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0b717930572a677d5ca2",
+    "key": "Server error",
+    "createdAt": "2026-06-23T04:28:33.739Z",
+    "updatedAt": "2026-06-23T04:28:33.739Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0b8f7930572a677d6362",
+    "key": "Current Password fields are required",
+    "createdAt": "2026-06-23T04:29:03.479Z",
+    "updatedAt": "2026-06-23T04:29:03.479Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0ba17930572a677d6a24",
+    "key": "New password and confirm password do not match",
+    "createdAt": "2026-06-23T04:29:21.730Z",
+    "updatedAt": "2026-06-23T04:29:21.730Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0bb87930572a677d7448",
+    "key": "Current password is incorrect",
+    "createdAt": "2026-06-23T04:29:44.445Z",
+    "updatedAt": "2026-06-23T04:29:44.445Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0bc07930572a677d7b0e",
+    "key": "Password changed successfully",
+    "createdAt": "2026-06-23T04:29:52.998Z",
+    "updatedAt": "2026-06-23T04:29:52.998Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0be47930572a677d81d6",
+    "key": "Please login to continue",
+    "createdAt": "2026-06-23T04:30:28.482Z",
+    "updatedAt": "2026-06-23T04:30:28.482Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0bee7930572a677d88a0",
+    "key": "Please fill in all required fields before generating your website.",
+    "createdAt": "2026-06-23T04:30:38.310Z",
+    "updatedAt": "2026-06-23T04:30:38.310Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0bf77930572a677d8f6c",
+    "key": "Invalid Business Type",
+    "createdAt": "2026-06-23T04:30:47.869Z",
+    "updatedAt": "2026-06-23T04:30:47.869Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0c017930572a677d963a",
+    "key": "Your plan has expired. Please upgrade your plan.",
+    "createdAt": "2026-06-23T04:30:57.179Z",
+    "updatedAt": "2026-06-23T04:30:57.179Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0c0d7930572a677d9d0a",
+    "key": "Your subscription is expired. Please select a plan to continue.",
+    "createdAt": "2026-06-23T04:31:09.093Z",
+    "updatedAt": "2026-06-23T04:31:09.093Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0c197930572a677da3dc",
+    "key": "Your monthly limit reached. Upgrade your plan to continue.",
+    "createdAt": "2026-06-23T04:31:21.616Z",
+    "updatedAt": "2026-06-23T04:31:21.616Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0c247930572a677daab0",
+    "key": "website limit reached. Upgrade your plan to continue.",
+    "createdAt": "2026-06-23T04:31:32.347Z",
+    "updatedAt": "2026-06-23T04:31:32.347Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0c2e7930572a677db186",
+    "key": "API key settings not configured.",
+    "createdAt": "2026-06-23T04:31:42.169Z",
+    "updatedAt": "2026-06-23T04:31:42.169Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0c467930572a677db85e",
+    "key": "No AI provider enabled",
+    "createdAt": "2026-06-23T04:32:06.969Z",
+    "updatedAt": "2026-06-23T04:32:06.969Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0c4e7930572a677dbf38",
+    "key": "Failed to generate website. Please try again.",
+    "createdAt": "2026-06-23T04:32:14.657Z",
+    "updatedAt": "2026-06-23T04:32:14.657Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0c697930572a677dc614",
+    "key": "Website generated & preference saved successfully",
+    "createdAt": "2026-06-23T04:32:41.383Z",
+    "updatedAt": "2026-06-23T04:32:41.383Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0c707930572a677dccf2",
+    "key": "Internal Server Error",
+    "createdAt": "2026-06-23T04:32:48.663Z",
+    "updatedAt": "2026-06-23T04:32:48.663Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0c997930572a677dd3d2",
+    "key": "Profile updated successfully",
+    "createdAt": "2026-06-23T04:33:29.968Z",
+    "updatedAt": "2026-06-23T04:33:29.968Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0cb57930572a677ddab4",
+    "key": "Notification settings updated successfully",
+    "createdAt": "2026-06-23T04:33:57.457Z",
+    "updatedAt": "2026-06-23T04:33:57.457Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0d087930572a677de198",
+    "key": "Invalid JSON format in updateData",
+    "createdAt": "2026-06-23T04:35:20.819Z",
+    "updatedAt": "2026-06-23T04:35:20.819Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0d127930572a677de87e",
+    "key": "preferenceId & primaryColor required",
+    "createdAt": "2026-06-23T04:35:30.673Z",
+    "updatedAt": "2026-06-23T04:35:30.673Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0d1b7930572a677def66",
+    "key": "Preference not found",
+    "createdAt": "2026-06-23T04:35:39.174Z",
+    "updatedAt": "2026-06-23T04:35:39.174Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0d287930572a677df650",
+    "key": "Preference response updated successfully",
+    "createdAt": "2026-06-23T04:35:52.936Z",
+    "updatedAt": "2026-06-23T04:35:52.936Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0d4a7930572a677dfd3c",
+    "key": "preferenceId required",
+    "createdAt": "2026-06-23T04:36:26.088Z",
+    "updatedAt": "2026-06-23T04:36:26.088Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0d597930572a677e079f",
+    "key": "No active subscription found. Please purchase a plan.",
+    "createdAt": "2026-06-23T04:36:41.820Z",
+    "updatedAt": "2026-06-23T04:36:41.820Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0da17930572a677e1c67",
+    "key": "Content updated successfully ✨",
+    "createdAt": "2026-06-23T04:37:53.866Z",
+    "updatedAt": "2026-06-23T04:37:53.866Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0daa7930572a677e2359",
+    "key": "Layout regenerated successfully 🚀",
+    "createdAt": "2026-06-23T04:38:02.162Z",
+    "updatedAt": "2026-06-23T04:38:02.162Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0df77930572a677e313d",
+    "key": "Account deleted successfully",
+    "createdAt": "2026-06-23T04:39:19.871Z",
+    "updatedAt": "2026-06-23T04:39:19.871Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0e0f7930572a677e3833",
+    "key": "Preference already created",
+    "createdAt": "2026-06-23T04:39:43.253Z",
+    "updatedAt": "2026-06-23T04:39:43.253Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0e1f7930572a677e3f2b",
+    "key": "Your subscription has expired.",
+    "createdAt": "2026-06-23T04:39:59.142Z",
+    "updatedAt": "2026-06-23T04:39:59.142Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0e2d7930572a677e4625",
+    "key": "Website exported successfully",
+    "createdAt": "2026-06-23T04:40:13.069Z",
+    "updatedAt": "2026-06-23T04:40:13.069Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0e627930572a677e509d",
+    "key": "This email is already subscribed!",
+    "createdAt": "2026-06-23T04:41:06.028Z",
+    "updatedAt": "2026-06-23T04:41:06.028Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0e6c7930572a677e579b",
+    "key": "Successfully subscribed to the newsletter!",
+    "createdAt": "2026-06-23T04:41:16.306Z",
+    "updatedAt": "2026-06-23T04:41:16.306Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0e757930572a677e5e9b",
+    "key": "Server error while subscribing.",
+    "createdAt": "2026-06-23T04:41:25.485Z",
+    "updatedAt": "2026-06-23T04:41:25.485Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0e8d7930572a677e659d",
+    "key": "name, email & password are required",
+    "createdAt": "2026-06-23T04:41:49.359Z",
+    "updatedAt": "2026-06-23T04:41:49.359Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0e9f7930572a677e7021",
+    "key": "This email is registered using Google. Please log in with Google.",
+    "createdAt": "2026-06-23T04:42:07.785Z",
+    "updatedAt": "2026-06-23T04:42:07.785Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0eaa7930572a677e7727",
+    "key": "This email is registered using Github. Please log in with Github.",
+    "createdAt": "2026-06-23T04:42:18.663Z",
+    "updatedAt": "2026-06-23T04:42:18.663Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0eb67930572a677e7e2f",
+    "key": "OTP resend to your email.",
+    "createdAt": "2026-06-23T04:42:30.423Z",
+    "updatedAt": "2026-06-23T04:42:30.423Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0ec07930572a677e8539",
+    "key": "Email already registered plese login",
+    "createdAt": "2026-06-23T04:42:40.052Z",
+    "updatedAt": "2026-06-23T04:42:40.052Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0ecc7930572a677e8c45",
+    "key": "Signup successful. OTP sent to your email.",
+    "createdAt": "2026-06-23T04:42:52.694Z",
+    "updatedAt": "2026-06-23T04:42:52.694Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0ef77930572a677e9353",
+    "key": "Email & password are required",
+    "createdAt": "2026-06-23T04:43:35.501Z",
+    "updatedAt": "2026-06-23T04:43:35.501Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0eff7930572a677e9a63",
+    "key": "Invalid email or password",
+    "createdAt": "2026-06-23T04:43:43.133Z",
+    "updatedAt": "2026-06-23T04:43:43.133Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0f087930572a677ea175",
+    "key": "Account not verified. Please verify your email or contact support.",
+    "createdAt": "2026-06-23T04:43:52.052Z",
+    "updatedAt": "2026-06-23T04:43:52.052Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a0f237930572a677eaf99",
+    "key": "Invalid password",
+    "createdAt": "2026-06-23T04:44:19.964Z",
+    "updatedAt": "2026-06-23T04:44:19.964Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a30a247b40cd03157027f",
+    "key": "Create websites in minutes, AI-powered no coding required, Fully responsive on all devices",
+    "createdAt": "2026-06-23T07:07:14.410Z",
+    "updatedAt": "2026-06-23T07:07:14.410Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a331347b40cd031577c5b",
+    "key": "eCommerce",
+    "createdAt": "2026-06-23T07:17:39.851Z",
+    "updatedAt": "2026-06-23T07:17:39.851Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a367147b40cd03157d5a6",
+    "key": "Already have an account?",
+    "createdAt": "2026-06-23T07:32:01.507Z",
+    "updatedAt": "2026-06-23T07:32:01.507Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a369e47b40cd03157dcc5",
+    "key": "and",
+    "createdAt": "2026-06-23T07:32:46.974Z",
+    "updatedAt": "2026-06-23T07:32:46.974Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a36c447b40cd03157e3e3",
+    "key": "Profile Setting",
+    "createdAt": "2026-06-23T07:33:24.290Z",
+    "updatedAt": "2026-06-23T07:33:24.290Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a36d247b40cd03157eb03",
+    "key": "Manage your account settings and preferences",
+    "createdAt": "2026-06-23T07:33:38.895Z",
+    "updatedAt": "2026-06-23T07:33:38.895Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a54b3e376ec40855fba5c",
+    "key": "home",
+    "createdAt": "2026-06-23T09:41:07.695Z",
+    "updatedAt": "2026-06-23T09:41:07.695Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a56b3e376ec40855fde1e",
+    "key": "about",
+    "createdAt": "2026-06-23T09:49:39.462Z",
+    "updatedAt": "2026-06-23T09:49:39.462Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a56bce376ec40855fe544",
+    "key": "contact",
+    "createdAt": "2026-06-23T09:49:48.622Z",
+    "updatedAt": "2026-06-23T09:49:48.622Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a56c5e376ec40855fec6c",
+    "key": "services",
+    "createdAt": "2026-06-23T09:49:57.796Z",
+    "updatedAt": "2026-06-23T09:49:57.796Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a56cee376ec40855ff396",
+    "key": "pricing",
+    "createdAt": "2026-06-23T09:50:06.318Z",
+    "updatedAt": "2026-06-23T09:50:06.318Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a56e6e376ec40855ffac2",
+    "key": "team",
+    "createdAt": "2026-06-23T09:50:30.606Z",
+    "updatedAt": "2026-06-23T09:50:30.606Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a56f0e376ec40856001f0",
+    "key": "blog",
+    "createdAt": "2026-06-23T09:50:40.045Z",
+    "updatedAt": "2026-06-23T09:50:40.045Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a56f7e376ec4085600920",
+    "key": "faq",
+    "createdAt": "2026-06-23T09:50:47.621Z",
+    "updatedAt": "2026-06-23T09:50:47.621Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a56fee376ec4085601052",
+    "key": "portfolio",
+    "createdAt": "2026-06-23T09:50:54.958Z",
+    "updatedAt": "2026-06-23T09:50:54.958Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a5707e376ec4085601786",
+    "key": "gallery",
+    "createdAt": "2026-06-23T09:51:03.446Z",
+    "updatedAt": "2026-06-23T09:51:03.446Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a570fe376ec4085601ebc",
+    "key": "products",
+    "createdAt": "2026-06-23T09:51:11.116Z",
+    "updatedAt": "2026-06-23T09:51:11.116Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a5717e376ec40856025f4",
+    "key": "testimonials",
+    "createdAt": "2026-06-23T09:51:19.702Z",
+    "updatedAt": "2026-06-23T09:51:19.702Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a5723e376ec4085602d2e",
+    "key": "header",
+    "createdAt": "2026-06-23T09:51:31.476Z",
+    "updatedAt": "2026-06-23T09:51:31.476Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a5747e376ec4085603f3e",
+    "key": "cta",
+    "createdAt": "2026-06-23T09:52:07.076Z",
+    "updatedAt": "2026-06-23T09:52:07.076Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a575ee376ec4085604db6",
+    "key": "features",
+    "createdAt": "2026-06-23T09:52:30.349Z",
+    "updatedAt": "2026-06-23T09:52:30.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a578ae376ec408560636e",
+    "key": "stats",
+    "createdAt": "2026-06-23T09:53:14.927Z",
+    "updatedAt": "2026-06-23T09:53:14.927Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3a57a1e376ec40856071ee",
+    "key": "footer",
+    "createdAt": "2026-06-23T09:53:37.917Z",
+    "updatedAt": "2026-06-23T09:53:37.917Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3e1f95eca53f84e8660c9e",
+    "key": "Confirm Upgrade Free Plan!",
+    "createdAt": "2026-06-26T06:43:33.116Z",
+    "updatedAt": "2026-06-26T06:43:33.116Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3e1f9eeca53f84e86613e4",
+    "key": "Are you sure to upgrade free plan?",
+    "createdAt": "2026-06-26T06:43:42.912Z",
+    "updatedAt": "2026-06-26T06:43:42.912Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3e1fb0eca53f84e8661ece",
+    "key": "Yes Confirm",
+    "createdAt": "2026-06-26T06:44:00.971Z",
+    "updatedAt": "2026-06-26T06:44:00.971Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3e202aeca53f84e866437a",
+    "key": "Your Free Plan Upgrade successfully.",
+    "createdAt": "2026-06-26T06:46:02.879Z",
+    "updatedAt": "2026-06-26T06:46:02.879Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3e3a882c301033c37461f5",
+    "key": "Something went wrong while deleting the website.",
+    "createdAt": "2026-06-26T08:38:32.995Z",
+    "updatedAt": "2026-06-26T08:38:32.995Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3e3a932c301033c3746943",
+    "key": "Website deleted successfully.",
+    "createdAt": "2026-06-26T08:38:43.916Z",
+    "updatedAt": "2026-06-26T08:38:43.916Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3e3a9f2c301033c3747093",
+    "key": "Website not found.",
+    "createdAt": "2026-06-26T08:38:55.295Z",
+    "updatedAt": "2026-06-26T08:38:55.295Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3e3aa82c301033c37477e5",
+    "key": "Preference ID is required.",
+    "createdAt": "2026-06-26T08:39:04.720Z",
+    "updatedAt": "2026-06-26T08:39:04.720Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3e3ada2c301033c3747f43",
+    "key": "Delete Website",
+    "createdAt": "2026-06-26T08:39:54.425Z",
+    "updatedAt": "2026-06-26T08:39:54.425Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3e3ae92c301033c3748699",
+    "key": "This action cannot be undone.",
+    "createdAt": "2026-06-26T08:40:09.042Z",
+    "updatedAt": "2026-06-26T08:40:09.042Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3e3af02c301033c3748df1",
+    "key": "Website",
+    "createdAt": "2026-06-26T08:40:16.041Z",
+    "updatedAt": "2026-06-26T08:40:16.041Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3e3af92c301033c374954b",
+    "key": "Please type",
+    "createdAt": "2026-06-26T08:40:25.075Z",
+    "updatedAt": "2026-06-26T08:40:25.075Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3e3b042c301033c3749ca7",
+    "key": "to confirm deletion.",
+    "createdAt": "2026-06-26T08:40:36.784Z",
+    "updatedAt": "2026-06-26T08:40:36.784Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3e3b0e2c301033c374a405",
+    "key": "Enter website name",
+    "createdAt": "2026-06-26T08:40:46.041Z",
+    "updatedAt": "2026-06-26T08:40:46.041Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3fa89d763a9ad9bfaf8917",
+    "key": "Duplicate Website",
+    "createdAt": "2026-06-27T10:40:29.333Z",
+    "updatedAt": "2026-06-27T10:40:29.333Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3fa8a7763a9ad9bfaf9079",
+    "key": "Enter a name for the duplicated website.",
+    "createdAt": "2026-06-27T10:40:39.564Z",
+    "updatedAt": "2026-06-27T10:40:39.564Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3fa8bc763a9ad9bfaf9b8d",
+    "key": "Duplicate",
+    "createdAt": "2026-06-27T10:41:00.633Z",
+    "updatedAt": "2026-06-27T10:41:00.633Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3fa91d763a9ad9bfafa6a4",
+    "key": "Website name & Id is required.",
+    "createdAt": "2026-06-27T10:42:37.134Z",
+    "updatedAt": "2026-06-27T10:42:37.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3fa940763a9ad9bfafb1be",
+    "key": "Website duplicated successfully.",
+    "createdAt": "2026-06-27T10:43:12.455Z",
+    "updatedAt": "2026-06-27T10:43:12.455Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a66f35e64083a8b8a649f71",
+    "key": "Payment gateway could not be loaded. Please check your internet connection.",
+    "createdAt": "2026-07-27T05:57:50.583Z",
+    "updatedAt": "2026-07-27T05:57:50.583Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a66f3a464083a8b8a64a6dd",
+    "key": "Payment cancelled by user.",
+    "createdAt": "2026-07-27T05:59:00.633Z",
+    "updatedAt": "2026-07-27T05:59:00.633Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a66f3ba64083a8b8a64ae4b",
+    "key": "Payment initiation failed",
+    "createdAt": "2026-07-27T05:59:22.138Z",
+    "updatedAt": "2026-07-27T05:59:22.138Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a66f3d164083a8b8a64b5bb",
+    "key": "Payment failed. Please try again.",
+    "createdAt": "2026-07-27T05:59:45.913Z",
+    "updatedAt": "2026-07-27T05:59:45.913Z",
+    "__v": 0
+  }
+]

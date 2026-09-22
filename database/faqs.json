@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "6979ac9a34b386d8d27f510f",
+    "question": "Are the websites mobile responsive?",
+    "answer": "Absolutely. All websites created with Weblify AI are fully responsive and optimized for all screen sizes.",
+    "createdAt": "2026-01-28T06:28:42.944Z",
+    "updatedAt": "2026-02-13T05:50:56.407Z",
+    "__v": 0
+  },
+  {
+    "_id": "6979acb134b386d8d27f5112",
+    "question": "How does the AI website generation work?",
+    "answer": "You provide basic details like website type, description, and preferences. Weblify AI then generates layouts, content, and design automatically.",
+    "createdAt": "2026-01-28T06:29:05.016Z",
+    "updatedAt": "2026-02-13T05:49:45.243Z",
+    "__v": 0
+  },
+  {
+    "_id": "6979acc534b386d8d27f5115",
+    "question": "Do I need coding or design experience to use Weblify AI?",
+    "answer": "No. Weblify AI is designed for beginners and professionals alike. Everything is automated and easy to customize using a simple interface.",
+    "createdAt": "2026-01-28T06:29:25.960Z",
+    "updatedAt": "2026-02-13T05:49:23.298Z",
+    "__v": 0
+  },
+  {
+    "_id": "6979ace034b386d8d27f5118",
+    "question": "What is Weblify AI?",
+    "answer": "Weblify AI is an AI-powered no-code website builder that helps you create professional, responsive websites in minutes without any coding skills.",
+    "createdAt": "2026-01-28T06:29:52.209Z",
+    "updatedAt": "2026-02-13T05:49:07.202Z",
+    "__v": 0
+  },
+  {
+    "_id": "698ebbe06e65d0de7071956a",
+    "question": "Can I export my website and host it anywhere?",
+    "answer": "Yes. You can download the complete source code and host your website on any platform or hosting provider.",
+    "createdAt": "2026-02-13T05:51:28.012Z",
+    "updatedAt": "2026-02-13T05:51:28.012Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "69799114041aa6b49e49b516",
+    "geminiApi": {
+      "enabled": true,
+      "apiKey": "##########"
+    },
+    "openAi": {
+      "enabled": false,
+      "apiKey": "##########"
+    },
+    "createdAt": "2026-01-28T04:31:16.228Z",
+    "updatedAt": "2026-04-17T07:22:27.990Z",
+    "__v": 0
+  }
+]

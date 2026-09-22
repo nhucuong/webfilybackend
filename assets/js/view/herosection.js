@@ -1,0 +1,193 @@
+$(document).ready(function () {
+
+  // ===============================
+  // LOAD HERO SECTION
+  // ===============================
+
+  toastr.options = {
+    "closeButton": true,
+    "progressBar": true,
+    "positionClass": "toast-top-right",
+    "timeOut": "3000"
+  };
+
+  $.ajax({
+    url: "/herosectionjson",
+    type: "GET",
+    success: (res) => {
+      if (res.success && res.data) {
+        const row = res.data;
+
+        $("#heroSectionTitle").val(row.title || "");
+        $("#heroSectionDescription").val(row.shortDescription || "");
+
+        $("#heroLabelsContainer").html("");
+        room = 0;
+
+        if (Array.isArray(row.labels) && row.labels.length > 0) {
+          row.labels.forEach((label) => {
+            addLabelField(label);
+          });
+        } else {
+          addLabelField("");
+        }
+if (row.herofetures && Array.isArray(row.herofetures)) {
+  const inputs = $(".heroFeatureInput");
+
+  // Directly assign the array values to inputs
+  inputs.each(function(i) {
+    $(this).val(row.herofetures[i] || "");
+  });
+}
+
+
+      }
+    }
+  });
+
+ 
+  // ===============================
+  // LABEL HANDLING
+  // ===============================
+  let room = 0;
+
+  function addLabelField(value = "") {
+    room++;
+    $("#heroLabelsContainer").append(`
+      <div class="mb-2 removeclass${room}">
+        <div class="input-group">
+          <input type="text" class="form-control heroLabelInput" value="${value}" placeholder="Enter label" required>
+          <button class="btn btn-outline-danger" type="button" onclick="remove_hero_label(${room})">
+            <i class="fa-solid fa-minus"></i>
+          </button>
+        </div>
+      </div>
+    `);
+  }
+
+  $("#addLabelBtn").on("click", function () {
+    addLabelField("");
+  });
+
+  window.remove_hero_label = function (rid) {
+    $(".removeclass" + rid).remove();
+
+    // ALWAYS KEEP ONE ROW
+    if ($(".heroLabelInput").length === 0) {
+      addLabelField("");
+    }
+  };
+
+  // ===============================
+  // SAVE / UPDATE HERO SECTION
+  // ===============================
+  $("#heroSectionForm").on("submit", function (e) {
+    e.preventDefault();
+
+    if (!this.checkValidity()) {
+      this.reportValidity();
+      return;
+    }
+
+
+    const formData = new FormData();
+    formData.append("type", "hero");
+    formData.append("title", $("#heroSectionTitle").val());
+    formData.append("shortDescription", $("#heroSectionDescription").val());
+      const specialRaw = $("#heroSectionspecial").val() || "";
+    const specialArr = specialRaw
+      .split(",")
+      .map(v => v.trim())
+      .filter(v => v);
+
+    formData.append("special", specialArr.join(","));
+    
+
+const features = [];
+$(".heroFeatureInput").each(function () {
+  const val = $(this).val().trim();
+  if (val) {
+    features.push(val); 
+  }
+});
+formData.append("herofetures", JSON.stringify(features));
+
+
+    const labels = [];
+    $(".heroLabelInput").each(function () {
+      const val = $(this).val().trim();
+      if (val) labels.push(val);
+    });
+    formData.append("labels", JSON.stringify(labels));
+
+
+    const $submitBtn = $("#heroSectionForm button[type='submit']");
+    const originalBtnContent = $submitBtn.html();
+    $submitBtn.prop("disabled", true);
+    $submitBtn.html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>`); // <-- NEW: spinner inside button
+
+
+    $.ajax({
+      url: "/herosectionsave",
+      type: "POST",
+      data: formData,
+      contentType: false,
+      processData: false,
+      success: (res) => {
+        $submitBtn.prop("disabled", false).html(originalBtnContent); // <-- NEW: restore button
+        if (res.success) toastr.success(res.message || "Saved successfully");
+        else toastr.error(res.message || "Failed to save");
+      },
+      error: () => {
+        $submitBtn.prop("disabled", false).html(originalBtnContent); // <-- NEW: restore button even on error
+        toastr.error("Something went wrong")
+      }
+    });
+  });
+
+});
+
+
+// ===============================
+// HERO DESCRIPTION AI GENERATE
+// ===============================
+$("#generateHeroDescriptionAI").on("click", function () {
+
+  const title = $("#heroSectionTitle").val().trim();
+
+  if (!title) {
+    toastr.error("Please enter title first");
+    return;
+  }
+
+
+  const loadingToast = toastr.info(
+        "AI is writing description...",
+        "Please wait",
+        { timeOut: 0, extendedTimeOut: 0 }
+    );
+    
+  $.ajax({
+    url: "/generateDescription",
+    type: "POST",
+    contentType: "application/json",
+    data: JSON.stringify({
+      name: title,
+      prompt: `Generate a professional hero section description only 20 words`
+    }),
+    success: (res) => {
+      toastr.clear(loadingToast);
+      if (!res.success) {
+        toastr.error(res.message || "AI failed");
+        return;
+      }
+
+      $("#heroSectionDescription").val(res.description);
+      toastr.success("Description generated by AI");
+    },
+    error: () => {
+      toastr.clear(loadingToast);
+      toastr.error("AI generation failed");
+    }
+  });
+});

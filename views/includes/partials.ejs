@@ -1,0 +1,75 @@
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+
+  const form = document.querySelector("#forgetPasswordForm");
+  if (!form) return;
+
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+
+    const formData = new FormData(form);
+    const data = {};
+    formData.forEach((value, key) => data[key] = value);
+
+    try {
+      const response = await fetch(form.action, {
+        method: form.method,
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(data)
+      });
+
+      const res = await response.json();
+
+      if (res.success) {
+      toastr.success(res.message || "Request sent successfully");
+      } else {
+         toastr.error(res.message || "Something went wrong");
+      }
+
+    } catch (err) {
+     toastr.error("Something went wrong. Try again.");
+    }
+  });
+
+});
+
+document.addEventListener("DOMContentLoaded", () => {
+
+  const form = document.querySelector("#resetPasswordForm");
+  if (!form) return;
+
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+
+    const formData = new FormData(form);
+    const data = {};
+    formData.forEach((value, key) => data[key] = value);
+
+    try {
+      const response = await fetch(form.action, {
+        method: form.method,
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(data)
+      });
+
+      const res = await response.json();
+
+      if (res.success) {
+       toastr.success(res.message || "Password reset successfully");
+
+        setTimeout(() => {
+          window.location.href = "/loginpage";
+        }, 1500);
+      } else {
+         toastr.error(res.message || "Something went wrong");
+      }
+
+    } catch (err) {
+     toastr.error("Something went wrong. Try again.");
+    }
+  });
+
+});
+
+
+</script>

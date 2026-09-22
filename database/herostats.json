@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "6981b3e18cfd369ac88fef65",
+    "label": "Average Build Time",
+    "count": "3 Min",
+    "iconName": "Clock",
+    "createdAt": "2026-02-03T08:37:53.151Z",
+    "updatedAt": "2026-02-11T11:38:47.304Z",
+    "__v": 0
+  },
+  {
+    "_id": "698c0bac893cbc320cac167a",
+    "label": "User Satisfaction",
+    "count": "99%",
+    "iconName": "UserCheck",
+    "createdAt": "2026-02-11T04:55:08.402Z",
+    "updatedAt": "2026-02-11T11:37:22.865Z",
+    "__v": 0
+  },
+  {
+    "_id": "698c0c06893cbc320cac1693",
+    "label": "Website Types",
+    "count": "20+",
+    "iconName": "Layers",
+    "createdAt": "2026-02-11T04:56:39.000Z",
+    "updatedAt": "2026-04-13T10:34:33.811Z",
+    "__v": 0
+  },
+  {
+    "_id": "698c0c23893cbc320cac16ac",
+    "label": "Websites Generated",
+    "count": "10K+",
+    "iconName": "Globe",
+    "createdAt": "2026-02-11T04:57:07.781Z",
+    "updatedAt": "2026-02-11T11:34:21.883Z",
+    "__v": 0
+  }
+]

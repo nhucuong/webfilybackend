@@ -1,0 +1,129 @@
+<%- include('includes/header', { username: admin[0].name, email: admin[0].email }) %>
+
+<div class="body-wrapper">
+  <div class="container-fluid">
+
+    <!-- HEADER -->
+    <div class="card bg-info-subtle shadow-none mb-4">
+      <div class="card-body px-4 py-3">
+        <h4 class="fw-semibold mb-1">Manage Hero Section</h4>
+      </div>
+    </div>
+
+    <!-- ================= HERO FORM ================= -->
+<div class="card shadow-sm">
+  <div class="card-body p-4">
+
+    <form id="heroSectionForm" enctype="multipart/form-data">
+
+      <!-- HERO TYPE -->
+      <input type="hidden" id="heroSectionType" value="hero">
+
+      <!-- TITLE -->
+      <div class="mb-3">
+        <label class="form-label fw-medium">
+          Title <span class="text-danger">*</span>
+        </label>
+        <input
+          type="text"
+          id="heroSectionTitle"
+          name="title"
+          class="form-control"
+          value="<%= section?.title || '' %>"
+          required
+        >
+      </div>
+
+       <div class="mb-4">
+              <label class="form-label fw-semibold">Animated Text</label>
+              <input type="text" class="form-control" name="special" id="heroSectionspecial" value="<%= section ? section.special : '' %>"
+                placeholder="Add Animated Text">
+              <small class="text-muted">
+          Please add multiple values using comma ( , )
+        </small>
+            </div>
+
+
+      <!-- DESCRIPTION -->
+      <div class="d-flex justify-content-between align-items-center mb-2">
+        <label class="form-label fw-semibold">
+          Description <span class="text-danger">*</span>
+        </label>
+        <button
+          type="button"
+          id="generateHeroDescriptionAI"
+          class="btn btn-sm btn-outline-primary"
+        >
+          <i class="fa-solid fa-wand-magic-sparkles me-1"></i>
+          Generate by AI
+        </button>
+      </div>
+
+      <div class="mb-3">
+        <textarea
+          id="heroSectionDescription"
+          class="form-control"
+          rows="4"
+          required
+        ><%= section?.shortDescription || '' %></textarea>
+      </div>
+
+      <!-- LABELS -->
+      <div class="mb-1 d-flex justify-content-between">
+        <label class="form-label fw-semibold">
+          Hero Labels <span class="text-danger">*</span>
+        </label>
+           <div class="mb-1 text-end">
+        <button
+          type="button"
+          class="btn btn-outline-primary btn-sm px-3"
+          id="addLabelBtn"
+        >
+          <i class="fa-solid fa-plus me-1"></i> Add Label
+        </button>
+      </div>
+      </div>
+
+
+      <div id="heroLabelsContainer"></div>
+
+   
+      <!-- FEATURES -->
+      <div class="mb-2">
+        <label class="form-label fw-semibold">
+          Hero Features  <span class="text-danger">*</span>
+        </label>
+      </div>
+
+      <!-- FEATURES IN ONE ROW -->
+   <div class="row g-2 mb-4">
+  <div class="col-md-4">
+    <input type="text" class="form-control heroFeatureInput" placeholder="Feature 1" required>
+  </div>
+  <div class="col-md-4">
+    <input type="text" class="form-control heroFeatureInput" placeholder="Feature 2" required>
+  </div>
+  <div class="col-md-4">
+    <input type="text" class="form-control heroFeatureInput" placeholder="Feature 3" required>
+  </div>
+</div>
+
+
+
+      <!-- SAVE -->
+      <div class="text-start mt-3">
+        <button type="submit" class="btn btn-primary px-4">
+          Save Hero Section
+        </button>
+      </div>
+
+    </form>
+
+  </div>
+</div>
+
+  </div>
+</div>
+
+<%- include('includes/allscripts') %>
+<script src="/js/view/herosection.js"></script>

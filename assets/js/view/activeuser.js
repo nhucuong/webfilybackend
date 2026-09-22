@@ -1,0 +1,100 @@
+$(document).ready(function () {
+  // Destroy table if it exists
+  if ($.fn.DataTable.isDataTable("#zero_config")) {
+    $("#zero_config").DataTable().clear().destroy();
+  }
+
+  // Initialize DataTable
+  const table = $("#zero_config").DataTable({
+    serverSide: true,
+    processing: true,
+    responsive: true,
+    autoWidth: false,
+    ajax: "/getactiveusersjson",
+    columns: [
+      { data: "firstName" },
+      { data: "email" },
+      { data: "phone" },
+      { data: "ip" },
+      {
+        data: "status",
+        className: "text-center",
+        render: function (data) {
+          if (data === 1) {
+            return '<span class="badge bg-success">Active</span>';
+          }
+          if (data === 0) {
+            return '<span class="badge bg-danger">Banned</span>';
+          }
+        }
+      },
+      {
+        data: "_id",
+        className: "text-center",
+        orderable: false,
+        searchable: false,
+        render: function (id, type, row) {
+
+          // id itself is USER ID here
+          const userId = id;
+
+          return `
+      <div class="dropdown dropstart">
+        <button 
+          class="btn btn-sm btn-light rounded-circle" 
+          type="button"
+          data-bs-toggle="dropdown"
+          aria-expanded="false">
+          <i class="fa-solid fa-ellipsis-vertical"></i>
+        </button>
+
+        <ul class="dropdown-menu dropdown-menu-end shadow">
+          <li>
+            <a href="/userdetails/${userId}" class="dropdown-item">
+              <i class="fa-solid fa-eye text-info me-2"></i> Details
+            </a>
+          </li>
+
+          <li>
+            <a href="/loginhistory/${userId}" class="dropdown-item">
+              <i class="fa-solid fa-clock-rotate-left text-primary me-2"></i> Login History
+            </a>
+          </li>
+        </ul>
+      </div>
+    `;
+        }
+      }
+
+    ],
+    pageLength: 10,
+    lengthMenu: [5, 10, 25, 50],
+  });
+
+  // Add refresh button manually next to search input
+  setTimeout(() => {
+    const searchContainer = $("#zero_config_filter");
+    if (searchContainer.length && !$("#refreshTableBtn").length) {
+      searchContainer.addClass("d-flex justify-content-end gap-2").append(`
+        <button id="refreshTableBtn" class="btn btn-sm btn-outline-secondary ms-2" title="Refresh Table">
+          <i class="fa fa-rotate"></i>
+        </button>
+      `);
+    }
+  }, 300);
+
+  // Refresh table on button click
+  $(document).on("click", "#refreshTableBtn", function () {
+    table.ajax.reload(null, false); // reload without resetting pagination
+  });
+
+
+
+
+
+  // --- Details ---
+  $("#zero_config").on("click", ".details-btn", function () {
+    const id = $(this).data("id");
+    // open details modal or show info
+  });
+});

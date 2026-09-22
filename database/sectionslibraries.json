@@ -1,0 +1,549 @@
+[
+  {
+    "_id": "69bcd0d7152a73a69d04de7c",
+    "type": "header",
+    "label": "Header",
+    "variants": [
+      "split",
+      "classic",
+      "centered",
+      "minimal",
+      "sticky"
+    ],
+    "category": "layout",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:11.730Z",
+    "updatedAt": "2026-03-20T04:45:11.730Z",
+    "__v": 0
+  },
+  {
+    "_id": "69bcd0d7152a73a69d04de7f",
+    "type": "hero",
+    "label": "Hero Section",
+    "variants": [
+      "centered",
+      "media",
+      "split",
+      "minimal",
+      "business",
+      "ecommerce",
+      "portfolio",
+      "restaurant",
+      "realestate",
+      "saas",
+      "agency",
+      "consulting",
+      "gym",
+      "education",
+      "clinic",
+      "salon",
+      "event",
+      "startup"
+    ],
+    "category": "top",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:11.968Z",
+    "updatedAt": "2026-03-20T04:45:11.968Z",
+    "__v": 0
+  },
+  {
+    "_id": "69bcd0d7152a73a69d04de82",
+    "type": "about",
+    "label": "About Section",
+    "variants": [
+      "split",
+      "centered",
+      "timeline",
+      "stats",
+      "minimal",
+      "story",
+      "mission",
+      "video",
+      "bento",
+      "history"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.000Z",
+    "updatedAt": "2026-03-20T04:45:12.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "69bcd0d8152a73a69d04de84",
+    "type": "blog",
+    "label": "Blog",
+    "variants": [
+      "grid",
+      "cards",
+      "list",
+      "featured",
+      "minimal"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.033Z",
+    "updatedAt": "2026-03-20T04:45:12.033Z",
+    "__v": 0
+  },
+  {
+    "_id": "69bcd0d8152a73a69d04de86",
+    "type": "cta",
+    "label": "Call To Action",
+    "variants": [
+      "centered",
+      "split",
+      "boxed"
+    ],
+    "category": "conversion",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.067Z",
+    "updatedAt": "2026-03-20T04:45:12.067Z",
+    "__v": 0
+  },
+  {
+    "_id": "69bcd0d8152a73a69d04de88",
+    "type": "contact",
+    "label": "Contact",
+    "variants": [
+      "centered",
+      "split",
+      "minimal",
+      "mapleft",
+      "mapright",
+      "offices",
+      "support",
+      "booking"
+    ],
+    "category": "conversion",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.098Z",
+    "updatedAt": "2026-03-20T04:45:12.098Z",
+    "__v": 0
+  },
+  {
+    "_id": "69bcd0d8152a73a69d04de8a",
+    "type": "faq",
+    "label": "FAQ",
+    "variants": [
+      "accordion",
+      "grid",
+      "minimal"
+    ],
+    "category": "support",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.130Z",
+    "updatedAt": "2026-03-20T04:45:12.130Z",
+    "__v": 0
+  },
+  {
+    "_id": "69bcd0d8152a73a69d04de8c",
+    "type": "features",
+    "label": "Features",
+    "variants": [
+      "grid",
+      "cards",
+      "list",
+      "timeline",
+      "bento",
+      "zigzag",
+      "tabs",
+      "comparison",
+      "hexagon",
+      "hover",
+      "alternating"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.161Z",
+    "updatedAt": "2026-03-20T04:45:12.161Z",
+    "__v": 0
+  },
+  {
+    "_id": "69bcd0d8152a73a69d04de8e",
+    "type": "gallery",
+    "label": "Gallery",
+    "variants": [
+      "grid",
+      "masonry",
+      "slider"
+    ],
+    "category": "media",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.222Z",
+    "updatedAt": "2026-03-20T04:45:12.222Z",
+    "__v": 0
+  },
+  {
+    "_id": "69bcd0d8152a73a69d04de90",
+    "type": "pricing",
+    "label": "Pricing",
+    "variants": [
+      "cards",
+      "comparison",
+      "minimal",
+      "toggle",
+      "enterprise",
+      "bento",
+      "highlight",
+      "table"
+    ],
+    "category": "conversion",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.254Z",
+    "updatedAt": "2026-03-20T04:45:12.254Z",
+    "__v": 0
+  },
+  {
+    "_id": "69bcd0d8152a73a69d04de92",
+    "type": "products",
+    "label": "Products",
+    "variants": [
+      "grid",
+      "carousel",
+      "split",
+      "featured",
+      "minimal"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.285Z",
+    "updatedAt": "2026-03-20T04:45:12.285Z",
+    "__v": 0
+  },
+  {
+    "_id": "69bcd0d8152a73a69d04de94",
+    "type": "services",
+    "label": "Services",
+    "variants": [
+      "cards",
+      "split",
+      "icons",
+      "timeline",
+      "bento",
+      "accordion",
+      "steps",
+      "hover"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.320Z",
+    "updatedAt": "2026-03-20T04:45:12.320Z",
+    "__v": 0
+  },
+  {
+    "_id": "69bcd0d8152a73a69d04de96",
+    "type": "stats",
+    "label": "Stats / Counters",
+    "variants": [
+      "split",
+      "grid",
+      "inline",
+      "cards",
+      "minimal",
+      "circle",
+      "progress",
+      "horizontal",
+      "dark"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.353Z",
+    "updatedAt": "2026-03-20T04:45:12.353Z",
+    "__v": 0
+  },
+  {
+    "_id": "69bcd0d8152a73a69d04de98",
+    "type": "team",
+    "label": "Team",
+    "variants": [
+      "grid",
+      "cards",
+      "minimal",
+      "slider",
+      "circle",
+      "masonry",
+      "founder",
+      "stacked"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.386Z",
+    "updatedAt": "2026-03-20T04:45:12.386Z",
+    "__v": 0
+  },
+  {
+    "_id": "69bcd0d8152a73a69d04de9a",
+    "type": "testimonials",
+    "label": "Testimonials",
+    "variants": [
+      "grid",
+      "carousel",
+      "minimal",
+      "video",
+      "masonry",
+      "cards",
+      "split",
+      "floating"
+    ],
+    "category": "social-proof",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.418Z",
+    "updatedAt": "2026-03-20T04:45:12.418Z",
+    "__v": 0
+  },
+  {
+    "_id": "69bcd0d8152a73a69d04de9c",
+    "type": "footer",
+    "label": "Footer",
+    "variants": [
+      "classic",
+      "columns",
+      "minimal",
+      "mega",
+      "newsletter",
+      "corporate",
+      "centered",
+      "dark"
+    ],
+    "category": "layout",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.453Z",
+    "updatedAt": "2026-03-20T04:45:12.453Z",
+    "__v": 0
+  },
+  {
+    "_id": "6870d2f1a8c94b3e7f12a00b",
+    "type": "whychoose",
+    "label": "Why Choose Us",
+    "variants": [
+      "cards",
+      "split",
+      "checklist",
+      "icons",
+      "timeline",
+      "bento"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.453Z",
+    "updatedAt": "2026-03-20T04:45:12.453Z",
+    "__v": 0
+  },
+  {
+    "_id": "6870d2f1a8c94b3e7f12a00c",
+    "type": "process",
+    "label": "Process / How It Works",
+    "variants": [
+      "timeline",
+      "cards",
+      "zigzag",
+      "numbered",
+      "horizontal",
+      "minimal"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.453Z",
+    "updatedAt": "2026-03-20T04:45:12.453Z",
+    "__v": 0
+  },
+  {
+    "_id": "6870d2f1a8c94b3e7f12a00d",
+    "type": "clients",
+    "label": "Clients / Brands",
+    "variants": [
+      "grid",
+      "carousel",
+      "marquee",
+      "monochrome",
+      "cards"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.453Z",
+    "updatedAt": "2026-03-20T04:45:12.453Z",
+    "__v": 0
+  },
+  {
+    "_id": "6870d2f1a8c94b3e7f12a00e",
+    "type": "awards",
+    "label": "Awards & Certifications",
+    "variants": [
+      "cards",
+      "timeline",
+      "badges",
+      "grid"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.453Z",
+    "updatedAt": "2026-03-20T04:45:12.453Z",
+    "__v": 0
+  },
+  {
+    "_id": "6870d2f1a8c94b3e7f12a00f",
+    "type": "newsletter",
+    "label": "Newsletter",
+    "variants": [
+      "centered",
+      "split",
+      "gradient",
+      "popup",
+      "minimal"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.453Z",
+    "updatedAt": "2026-03-20T04:45:12.453Z",
+    "__v": 0
+  },
+  {
+    "_id": "6870d2f1a8c94b3e7f12a010",
+    "type": "video",
+    "label": "Video",
+    "variants": [
+      "popup",
+      "split",
+      "background",
+      "centered"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.453Z",
+    "updatedAt": "2026-03-20T04:45:12.453Z",
+    "__v": 0
+  },
+  {
+    "_id": "6870d2f1a8c94b3e7f12a016",
+    "type": "integrations",
+    "label": "Integrations",
+    "variants": [
+      "grid",
+      "cards",
+      "logos",
+      "carousel"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.453Z",
+    "updatedAt": "2026-03-20T04:45:12.453Z",
+    "__v": 0
+  },
+  {
+    "_id": "6870d2f1a8c94b3e7f12a011",
+    "type": "offices",
+    "label": "Offices",
+    "variants": [
+      "cards",
+      "map",
+      "split",
+      "minimal"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.453Z",
+    "updatedAt": "2026-03-20T04:45:12.453Z",
+    "__v": 0
+  },
+  {
+    "_id": "6870d2f1a8c94b3e7f12a012",
+    "type": "hours",
+    "label": "Working Hours",
+    "variants": [
+      "cards",
+      "table",
+      "minimal"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.453Z",
+    "updatedAt": "2026-03-20T04:45:12.453Z",
+    "__v": 0
+  },
+  {
+    "_id": "6870d2f1a8c94b3e7f12a013",
+    "type": "trust",
+    "label": "Trust Badges",
+    "variants": [
+      "badges",
+      "cards",
+      "icons",
+      "certificates"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.453Z",
+    "updatedAt": "2026-03-20T04:45:12.453Z",
+    "__v": 0
+  },
+  {
+    "_id": "6870d2f1a8c94b3e7f12a017",
+    "type": "roadmap",
+    "label": "Roadmap",
+    "variants": [
+      "timeline",
+      "vertical",
+      "cards",
+      "minimal"
+    ],
+    "category": "content",
+    "isPremium": false,
+    "isActive": true,
+    "order": 0,
+    "createdAt": "2026-03-20T04:45:12.453Z",
+    "updatedAt": "2026-03-20T04:45:12.453Z",
+    "__v": 0
+  }
+]

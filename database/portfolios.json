@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "6979a12834b386d8d27f4fd8",
+    "title": "Education Platform",
+    "description": "An online learning website with course listings, instructors, and structured content.",
+    "image": "/uploads/portfolio/1770810343567-360185110.jpg",
+    "createdAt": "2026-01-28T05:39:52.178Z",
+    "updatedAt": "2026-02-20T09:32:59.622Z",
+    "__v": 0
+  },
+  {
+    "_id": "6979a13e34b386d8d27f4fdb",
+    "title": "SaaS Landing Page",
+    "description": "A high-impact landing page designed to convert visitors into customers for SaaS products.",
+    "image": "/uploads/portfolio/1770810294972-497454499.jpg",
+    "createdAt": "2026-01-28T05:40:14.929Z",
+    "updatedAt": "2026-02-20T09:32:49.370Z",
+    "__v": 0
+  },
+  {
+    "_id": "6979a15534b386d8d27f4fde",
+    "title": "Restaurant Website",
+    "description": "A stylish restaurant website featuring menus, reservations, and customer highlights.",
+    "image": "/uploads/portfolio/1770810267794-846429662.jpg",
+    "createdAt": "2026-01-28T05:40:37.672Z",
+    "updatedAt": "2026-02-20T09:32:38.792Z",
+    "__v": 0
+  },
+  {
+    "_id": "6979a16a34b386d8d27f4fe1",
+    "title": "Portfolio Website",
+    "description": "A clean and creative personal portfolio to showcase projects, skills, and experience.",
+    "image": "/uploads/portfolio/1770810238265-85150928.jpg",
+    "createdAt": "2026-01-28T05:40:58.242Z",
+    "updatedAt": "2026-02-20T09:32:28.996Z",
+    "__v": 0
+  },
+  {
+    "_id": "6981b71d8cfd369ac88ff0d2",
+    "title": "E-Commerce Store",
+    "description": "A conversion-optimized online store with product listings, categories, and promotional sections.",
+    "image": "/uploads/portfolio/1770810180813-944521742.jpg",
+    "createdAt": "2026-02-03T08:51:41.787Z",
+    "updatedAt": "2026-02-20T09:32:19.341Z",
+    "__v": 0
+  },
+  {
+    "_id": "6981b9258cfd369ac88ff146",
+    "title": "Business Website",
+    "description": "A professional corporate website with modern design, smooth animations, and fast performance.",
+    "image": "/uploads/portfolio/1771579922407-330154173.jpg",
+    "createdAt": "2026-02-03T09:00:21.566Z",
+    "updatedAt": "2026-02-20T09:32:02.471Z",
+    "__v": 0
+  }
+]

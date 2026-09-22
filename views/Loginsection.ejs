@@ -1,0 +1,112 @@
+<%- include('includes/header', { username: admin[0].name, email: admin[0].email }) %>
+
+  <div class="body-wrapper">
+    <div class="container-fluid">
+
+      <div class="card bg-info-subtle shadow-none mb-4">
+        <div class="card-body">
+          <h4 class="fw-semibold mb-0">Manage Login Section</h4>
+        </div>
+      </div>
+
+      <div class="card shadow-sm mt-4">
+        <div class="card-body">
+          <!-- TABS -->
+          <ul class="nav nav-pills flex-column flex-sm-row mt-3 gap-2" role="tablist">
+            <li class="nav-item flex-sm-fill text-sm-center border rounded">
+              <a class="nav-link active" data-type="login" style="cursor:pointer">
+                Login Section
+              </a>
+            </li>
+            <li class="nav-item flex-sm-fill text-sm-center border rounded">
+              <a class="nav-link" data-type="signup" style="cursor:pointer">
+                Signup Section
+              </a>
+            </li>
+          </ul>
+
+          <!-- FORM -->
+          <div class="tab-content border rounded mt-3 p-4">
+            <form id="authSectionForm" enctype="multipart/form-data">
+
+              <!-- HIDDEN TYPE -->
+              <input type="hidden" id="sectionType" name="type" value="login">
+
+              <!-- TITLE -->
+              <div class="mb-3">
+                <label class="form-label fw-semibold">Title<span class="text-danger">*</span></label>
+                <input type="text" id="sectionTitle" name="title" class="form-control" placeholder="Enter section title"
+                  required>
+                    <small class="text-muted">
+                  Highlight any word using <code>&lt;span&gt;word&lt;/span&gt;</code>
+                </small>
+              </div>
+
+              <!-- DESCRIPTION -->
+              <div class="d-flex justify-content-between align-items-center mb-2">
+                <label class="form-label fw-semibold mb-0">Description<span class="text-danger">*</span></label>
+                <button type="button" id="generateLoginSectionAI" class="btn btn-sm btn-outline-primary">
+                  Generate by AI
+                </button>
+              </div>
+
+              <div class="mb-3">
+                <textarea id="sectionDescription" name="shortDescription" class="form-control" rows="4"
+                  placeholder="Write short description here..." required></textarea>
+              </div>
+
+              <!-- LOGIN LABELS -->
+              <div id="loginLabelsWrapper" style="display:none" class="mb-4">
+                <div class="d-flex justify-content-between align-items-center mb-2">
+                  <label class="form-label fw-semibold mb-0">
+                    Login Labels<span class="text-danger">*</span>
+                  </label>
+                  <button type="button" id="addLoginLabelBtn" class="btn btn-sm btn-outline-primary">
+                    Add More
+                  </button>
+                </div>
+
+                <div id="loginLabelsContainer"></div>
+              </div>
+
+              <!-- SIGNUP LABEL + FEATURE -->
+              <div id="signupLFWrapper" style="display:none" class="mb-4">
+                <div class="d-flex justify-content-between align-items-center mb-2">
+                  <label class="form-label fw-semibold mb-0">
+                    Signup Features & Labels<span class="text-danger">*</span>
+                  </label>
+                  <button type="button" id="addSignupLFBtn" class="btn btn-sm btn-outline-primary">
+                    Add More
+                  </button>
+                </div>
+
+                <div id="signupLFContainer"></div>
+              </div>
+
+              <!-- IMAGE -->
+              <div class="mb-4">
+                <label class="form-label fw-semibold">Image<span class="text-danger">*</span></label>
+                <input type="file" id="sectionImage" name="image" class="form-control">
+                <img id="previewImage" class="img-thumbnail mt-2" style="max-width:200px; display:none;">
+              </div>
+              <small class="text-muted d-block mt-1">
+                <i class="fa-solid fa-circle-info text-primary"></i>
+                Recommended Size: <strong>1536 x 1024 px</strong>,Formats: <strong>/jpeg|jpg|png|webp/</strong>
+              </small>
+              <!-- SUBMIT -->
+              <div class="text-end">
+                <button type="submit" class="btn btn-primary px-4">
+                  Save Changes
+                </button>
+              </div>
+
+            </form>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <%- include('includes/allscripts') %>
+    <script src="/js/view/loginsection.js"></script>

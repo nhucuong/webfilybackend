@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "6979ab2434b386d8d27f50de",
+    "image": "/uploads/testimonial/1770813382743-172402587.jpg",
+    "name": "Aman Verma",
+    "username": "@AmanVerma",
+    "review": "Perfect for agencies and non-technical users. Weblify saves hours of work.",
+    "rating": 3,
+    "createdAt": "2026-01-28T06:22:28.205Z",
+    "updatedAt": "2026-02-11T12:36:22.772Z",
+    "__v": 0
+  },
+  {
+    "_id": "6981c1ae8cfd369ac88ff5a8",
+    "image": "/uploads/testimonial/1770813308520-973071072.jpg",
+    "name": "Neha Patel",
+    "username": "@NehaPatel",
+    "review": "The AI layouts and previews are incredible. This is the future of website building.",
+    "rating": 4,
+    "createdAt": "2026-02-03T09:36:46.343Z",
+    "updatedAt": "2026-02-11T12:36:35.595Z",
+    "__v": 0
+  },
+  {
+    "_id": "698c2345893cbc320cac1d50",
+    "image": "/uploads/testimonial/1770813077676-620439895.jpg",
+    "name": "Rahul Sharma",
+    "username": "@RahulSharma",
+    "review": "Weblify helped me create a professional website in minutes. No coding, no stress — just amazing!",
+    "rating": 5,
+    "createdAt": "2026-02-11T06:35:49.193Z",
+    "updatedAt": "2026-02-11T12:36:29.528Z",
+    "__v": 0
+  },
+  {
+    "_id": "698edfee6e65d0de707199e6",
+    "image": "",
+    "name": "Liam Anderson",
+    "username": "@LiamAnderson",
+    "review": "Weblify’s AI tools simplified development and boosted my online presence quickly.  -- anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as  anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as",
+    "rating": 5,
+    "createdAt": "2026-02-13T08:25:18.743Z",
+    "updatedAt": "2026-02-28T11:02:39.664Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,85 @@
+<%- include('includes/header',  {username: admin[0].name,email: admin[0].email } ) %>
+
+  <div class="body-wrapper">
+    <div class="container-fluid">
+      <div class="card bg-info-subtle shadow-none position-relative overflow-hidden mb-4">
+        <div class="card-body px-4 py-3">
+          <div class="row align-items-center">
+            <div class="col-md-8 col-sm-7">
+              <h4 class="fw-semibold mb-1">Inquiry</h4>
+
+            </div>
+
+
+          </div>
+
+        </div>
+      </div>
+      <div class="datatables">
+
+
+     <div class="card">
+  <div class="card-body">
+    <div class="table-responsive">
+      <table id="zero_config" class="table table-striped table-bordered text-nowrap align-middle">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Subject</th>
+            <th>Message</th>
+            <th class="action-col">Action</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- Inquiry Details Modal -->
+<div id="inquiryDetailsModal" class="modal fade" tabindex="-1">
+    <div class="modal-dialog modal-dialog-scrollable modal-lg">
+        <div class="modal-content shadow-sm border-0">
+
+            <div class="modal-header bg-light-subtle">
+                <h4 class="modal-title">Inquiry Details</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+
+            <div class="modal-body">
+                <div class="mb-4">
+                    <h5 class="fw-bold">Name</h5>
+                    <p class="fs-5" id="inquiryName">-</p>
+                </div>
+
+                <div class="mb-4">
+                    <h5 class="fw-bold">Email</h5>
+                    <p class="fs-5" id="inquiryEmail">-</p>
+                </div>
+
+                <div>
+                    <h5 class="fw-bold">Message</h5>
+                    <p class="fs-5" id="inquiryMessage">-</p>
+                </div>
+            </div>
+
+            <div class="modal-footer">
+                <button class="btn btn-light" data-bs-dismiss="modal">Close</button>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+  </div>
+
+  <%- include('includes/allscripts') %>
+<script src="/js/view/inquiry.js"></script>

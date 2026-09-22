@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "6979d914529ef23ef8be335f",
+    "name": "stripe",
+    "clientId": "",
+    "secretKey": "########",
+    "publicKey": "",
+    "privateKey": "",
+    "webhookUrl": "########",
+    "fixedCharge": 1,
+    "iconName": "CreditCard",
+    "enabled": true,
+    "createdAt": "1970-01-01T00:00:00.001Z",
+    "updatedAt": "2026-04-17T07:18:38.545Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cb678d93e7ecd4c020a2ac",
+    "name": "paypal",
+    "clientId": "########",
+    "secretKey": "########",
+    "publicKey": "",
+    "privateKey": "",
+    "webhookUrl": "########",
+    "fixedCharge": 1,
+    "iconName": "PayPal",
+    "enabled": true,
+    "createdAt": "2026-03-31T06:19:57.311Z",
+    "updatedAt": "2026-04-17T07:18:32.575Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cb6feb0a96222353b4d629",
+    "name": "braintree",
+    "clientId": "########",
+    "secretKey": "",
+    "publicKey": "########",
+    "privateKey": "########",
+    "webhookUrl": "########",
+    "fixedCharge": 1,
+    "iconName": "brain",
+    "enabled": true,
+    "createdAt": "2026-03-31T06:55:39.193Z",
+    "updatedAt": "2026-04-17T07:18:21.549Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7033dd2c5253863cee0573",
+    "name": "razorpay",
+    "__v": 0,
+    "clientId": "########",
+    "createdAt": "2026-08-03T06:23:25.768Z",
+    "enabled": true,
+    "fixedCharge": 1,
+    "iconName": "indian-rupee",
+    "privateKey": "########",
+    "publicKey": "########",
+    "secretKey": "########",
+    "updatedAt": "2026-08-03T08:38:51.282Z",
+    "webhookUrl": "########"
+  }
+]

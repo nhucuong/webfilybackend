@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "6979a3bc34b386d8d27f5019",
+    "title": "Export & Deploy Anywhere",
+    "description": "Download your complete website source code and host it on any platform.",
+    "iconName": "Rocket",
+    "createdAt": "2026-01-28T05:50:52.992Z",
+    "updatedAt": "2026-02-20T09:27:07.537Z",
+    "__v": 0
+  },
+  {
+    "_id": "6979a3d134b386d8d27f501c",
+    "title": "Lightning-Fast Performance",
+    "description": "Clean and optimized code ensures fast loading and smooth user experience.",
+    "iconName": "Zap",
+    "createdAt": "2026-01-28T05:51:13.688Z",
+    "updatedAt": "2026-02-20T09:26:39.122Z",
+    "__v": 0
+  },
+  {
+    "_id": "6979a3e334b386d8d27f501f",
+    "title": "SEO-Ready Structure",
+    "description": "Built-in SEO-friendly layouts to help your website rank better on search engines.",
+    "iconName": "TrendingUp",
+    "createdAt": "2026-01-28T05:51:31.831Z",
+    "updatedAt": "2026-02-20T09:23:28.382Z",
+    "__v": 0
+  },
+  {
+    "_id": "6979a40734b386d8d27f5024",
+    "title": "Fully Responsive Design",
+    "description": "Your website automatically adapts to desktop, tablet, and mobile devices.",
+    "iconName": "MonitorSmartphone",
+    "createdAt": "2026-01-28T05:52:07.102Z",
+    "updatedAt": "2026-02-20T09:21:48.655Z",
+    "__v": 0
+  },
+  {
+    "_id": "6979a41e34b386d8d27f5027",
+    "title": "No-Code Customization",
+    "description": "Easily customize sections, colors, and layouts without writing a single line of code.",
+    "iconName": "SlidersHorizontal",
+    "createdAt": "2026-01-28T05:52:30.077Z",
+    "updatedAt": "2026-02-20T09:21:26.946Z",
+    "__v": 0
+  },
+  {
+    "_id": "6979a44034b386d8d27f502c",
+    "title": "AI Website Generator",
+    "description": "Create complete website layouts and content instantly using intelligent AI automation.",
+    "iconName": "Sparkles",
+    "createdAt": "2026-01-28T05:53:04.094Z",
+    "updatedAt": "2026-02-20T09:20:53.460Z",
+    "__v": 0
+  }
+]

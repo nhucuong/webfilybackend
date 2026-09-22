@@ -1,0 +1,212 @@
+[
+  {
+    "_id": "69784ff1047d46c8292ee59c",
+    "type": "E-Commerce Store",
+    "shortDescription": "Online stores for selling physical or digital products with product listings and checkout flow.",
+    "iconName": "ShoppingCart",
+    "status": true,
+    "createdAt": "2026-01-27T05:41:05.256Z",
+    "updatedAt": "2026-04-06T04:00:03.185Z",
+    "__v": 0
+  },
+  {
+    "_id": "6981ed248cfd369ac8900362",
+    "type": "Corporate / Company",
+    "shortDescription": "Professional websites for companies to showcase services, team, and business information.",
+    "iconName": "Building2",
+    "status": true,
+    "createdAt": "2026-02-03T12:42:12.168Z",
+    "updatedAt": "2026-04-06T03:57:12.725Z",
+    "__v": 0
+  },
+  {
+    "_id": "6981ed6c8cfd369ac890036a",
+    "type": "Portfolio",
+    "shortDescription": "Creative portfolios for designers, developers, and artists to showcase their work.",
+    "iconName": "Palette",
+    "status": true,
+    "createdAt": "2026-02-03T12:43:24.786Z",
+    "updatedAt": "2026-04-06T04:02:48.987Z",
+    "__v": 0
+  },
+  {
+    "_id": "6982e47ef832800b4ad33176",
+    "type": "Blog / Content Creator",
+    "shortDescription": "Content-focused websites for bloggers and creators to publish articles and media.",
+    "iconName": "PenTool",
+    "status": true,
+    "createdAt": "2026-02-04T06:17:34.510Z",
+    "updatedAt": "2026-04-06T04:03:56.417Z",
+    "__v": 0
+  },
+  {
+    "_id": "698ea5c06e65d0de70719240",
+    "type": "Restaurant / Cafe",
+    "shortDescription": "Websites for restaurants and cafes to display menus, ambiance, and reservation details.",
+    "iconName": "Utensils",
+    "status": true,
+    "createdAt": "2026-02-13T04:17:04.210Z",
+    "updatedAt": "2026-04-06T04:01:22.915Z",
+    "__v": 0
+  },
+  {
+    "_id": "698ea5e86e65d0de70719247",
+    "type": "Digital Agency",
+    "shortDescription": "Promote your services, case studies, and client success stories.",
+    "iconName": "Rocket",
+    "status": true,
+    "createdAt": "2026-02-13T04:17:44.690Z",
+    "updatedAt": "2026-02-20T05:50:01.532Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d32f3b3b5163f63d2c510c",
+    "type": "Startup / SaaS",
+    "shortDescription": "Modern websites for startups and SaaS products focused on features, pricing, and conversions.",
+    "iconName": "Rocket",
+    "status": true,
+    "createdAt": "2026-04-06T03:57:47.987Z",
+    "updatedAt": "2026-04-06T03:57:47.987Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d32fa93b5163f63d2c510f",
+    "type": "Agency / Consulting",
+    "shortDescription": "Service-based websites for agencies and consultants to highlight expertise, projects, and clients.",
+    "iconName": "Briefcase",
+    "status": true,
+    "createdAt": "2026-04-06T03:59:37.499Z",
+    "updatedAt": "2026-04-06T03:59:37.499Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d32fdf3b5163f63d2c5114",
+    "type": "Single Product",
+    "shortDescription": "Focused landing pages designed to promote and sell a single product effectively.",
+    "iconName": "Package",
+    "status": true,
+    "createdAt": "2026-04-06T04:00:31.814Z",
+    "updatedAt": "2026-04-06T04:00:31.814Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d330313b5163f63d2c511c",
+    "type": "Hotel / Resort",
+    "shortDescription": "Elegant websites for hotels and resorts with booking features and property showcases.",
+    "iconName": "Hotel",
+    "status": true,
+    "createdAt": "2026-04-06T04:01:53.692Z",
+    "updatedAt": "2026-04-06T04:01:53.692Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d330843b5163f63d2c5121",
+    "type": "Personal Brand",
+    "shortDescription": "Personal websites for individuals to build their brand, share content, and grow audience.",
+    "iconName": "User",
+    "status": true,
+    "createdAt": "2026-04-06T04:03:16.493Z",
+    "updatedAt": "2026-04-06T04:03:16.493Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d330c83b5163f63d2c5126",
+    "type": "News / Magazine",
+    "shortDescription": "Content-heavy platforms for publishing news, articles, and editorial content.",
+    "iconName": "Newspaper",
+    "status": true,
+    "createdAt": "2026-04-06T04:04:24.894Z",
+    "updatedAt": "2026-04-06T04:04:24.894Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d330f13b5163f63d2c5129",
+    "type": "Landing Page",
+    "shortDescription": "High-converting landing pages designed for marketing campaigns and lead generation.",
+    "iconName": "LayoutTemplate",
+    "status": true,
+    "createdAt": "2026-04-06T04:05:05.125Z",
+    "updatedAt": "2026-04-06T04:05:05.125Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d331073b5163f63d2c512c",
+    "type": "App Showcase",
+    "shortDescription": "Websites to promote mobile or web apps with features, screenshots, and download links.",
+    "iconName": "Smartphone",
+    "status": true,
+    "createdAt": "2026-04-06T04:05:27.587Z",
+    "updatedAt": "2026-04-06T04:05:27.587Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d3314b3b5163f63d2c5133",
+    "type": "Marketing / Lead Gen",
+    "shortDescription": "Websites optimized for capturing leads through forms, CTAs, and conversion funnels.",
+    "iconName": "Megaphone",
+    "status": true,
+    "createdAt": "2026-04-06T04:06:35.204Z",
+    "updatedAt": "2026-04-06T04:06:35.204Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d331793b5163f63d2c5136",
+    "type": "Medical / Clinic",
+    "shortDescription": "Professional healthcare websites for clinics, doctors, and medical services.",
+    "iconName": "Stethoscope",
+    "status": true,
+    "createdAt": "2026-04-06T04:07:21.903Z",
+    "updatedAt": "2026-04-06T04:07:21.903Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d331a43b5163f63d2c5139",
+    "type": "Fitness / Gym",
+    "shortDescription": "Websites for gyms and fitness trainers to showcase programs, trainers, and memberships.",
+    "iconName": "Dumbbell",
+    "status": true,
+    "createdAt": "2026-04-06T04:08:04.620Z",
+    "updatedAt": "2026-04-06T04:08:04.620Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d331c53b5163f63d2c513c",
+    "type": "Salon / Spa",
+    "shortDescription": "Stylish websites for salons and spas to highlight services, pricing, and bookings.",
+    "iconName": "Scissors",
+    "status": true,
+    "createdAt": "2026-04-06T04:08:37.174Z",
+    "updatedAt": "2026-04-06T04:08:37.174Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d331e83b5163f63d2c513f",
+    "type": "Real Estate",
+    "shortDescription": "Property listing websites for real estate agents and agencies to showcase properties.",
+    "iconName": "Home",
+    "status": true,
+    "createdAt": "2026-04-06T04:09:12.858Z",
+    "updatedAt": "2026-04-06T04:09:12.858Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d3322e3b5163f63d2c5142",
+    "type": "Education / Courses",
+    "shortDescription": "Platforms for online courses, coaching, and educational institutions.",
+    "iconName": "GraduationCap",
+    "status": true,
+    "createdAt": "2026-04-06T04:10:22.092Z",
+    "updatedAt": "2026-04-06T04:10:22.092Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d3324a3b5163f63d2c5145",
+    "type": "Community / Membership",
+    "shortDescription": "Websites for building communities with memberships, forums, and exclusive content.",
+    "iconName": "Users",
+    "status": true,
+    "createdAt": "2026-04-06T04:10:50.618Z",
+    "updatedAt": "2026-04-06T04:10:50.618Z",
+    "__v": 0
+  }
+]

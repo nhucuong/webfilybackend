@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "698ecd596e65d0de707197a7",
+    "iconName": "LayoutTemplate",
+    "title": "Choose Website Type",
+    "description": "Select the type of website you want to build using Weblify AI.",
+    "features": [
+      "Business, Portfolio, SaaS & more",
+      "Pre-designed layouts",
+      "Industry-specific structure",
+      "Optimized starting point"
+    ],
+    "image": "/uploads/howitwork/1770966844708-728586083.png",
+    "createdAt": "2026-02-13T07:06:01.576Z",
+    "updatedAt": "2026-02-20T09:08:34.328Z",
+    "__v": 0
+  },
+  {
+    "_id": "698ecdf36e65d0de707197e0",
+    "iconName": "Settings2",
+    "title": "Customize Your Preferences",
+    "description": "Define your brand identity and website preferences in a few simple steps.",
+    "features": [
+      "Brand name & description",
+      "Color & font selection",
+      "Layout style preference",
+      "Logo & contact details"
+    ],
+    "image": "/uploads/howitwork/1770966853168-50963860.png",
+    "createdAt": "2026-02-13T07:08:35.638Z",
+    "updatedAt": "2026-02-20T09:09:22.688Z",
+    "__v": 0
+  },
+  {
+    "_id": "698ece3e6e65d0de707197e3",
+    "iconName": "Cpu",
+    "title": "AI Builds Your Website",
+    "description": "Our AI instantly generates a complete website based on your input.",
+    "features": [
+      "Smart layout generation",
+      "AI-generated content",
+      "Responsive structure",
+      "Modern UI components"
+    ],
+    "image": "/uploads/howitwork/1770966859781-13345922.png",
+    "createdAt": "2026-02-13T07:09:50.298Z",
+    "updatedAt": "2026-02-20T09:09:59.795Z",
+    "__v": 0
+  },
+  {
+    "_id": "698ece756e65d0de707197e6",
+    "iconName": "Rocket",
+    "title": "Preview, Edit & Launch",
+    "description": "Review your website, make changes, and prepare it for launch.",
+    "features": [
+      "Live preview mode",
+      "Desktop, tablet & mobile views",
+      "Regenerate with AI",
+      "Export ready website"
+    ],
+    "image": "/uploads/howitwork/1770966866427-141201516.png",
+    "createdAt": "2026-02-13T07:10:45.542Z",
+    "updatedAt": "2026-02-21T10:19:09.762Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,267 @@
+<%- include('includes/header', {username: admin[0].name,email: admin[0].email } ) %>
+
+  <div class="body-wrapper">
+    <div class="container-fluid">
+      <div class="card bg-info-subtle shadow-none position-relative overflow-hidden mb-4">
+        <div class="card-body px-4 py-3">
+          <div class="row align-items-center">
+            <div class="col-md-8 col-sm-7">
+              <h4 class="fw-semibold mb-1">Setting</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-12">
+        <div class="card  border-0">
+          <div class="card-body p-4">
+            <form id="contactForm" enctype="multipart/form-data">
+              <input type="hidden" id="contactId" name="id" />
+              <div class="row">
+
+                <!-- COMPANY LOGO -->
+                <div class="col-md-6">
+                  <label class="form-label fw-medium">Company logo<span class="text-danger">*</span></label>
+                  <input type="file" id="logo" class="form-control" name="logo" accept="image/*" />
+
+                  <div class="mt-3">
+                    <img id="logoPreview" src="#" alt="Logo Preview" class="logoPreviewsetting" />
+                  </div>
+
+                  <small class="text-muted d-block mt-3 mb-3">
+                    <i class="fa-solid fa-circle-info text-primary"></i>
+                    Recommended Max Size: <strong>217 x 45 px</strong>,
+                    Formats: <strong>jpeg | jpg | png | webp</strong>
+                  </small>
+                </div>
+
+                <!-- FAVICON -->
+                <div class="col-md-6">
+                  <label class="form-label fw-medium">Favicon<span class="text-danger">*</span></label>
+                  <input type="file" id="favicon" class="form-control" name="favicon" accept="image/*" />
+
+                  <div class="mt-3">
+                    <img id="faviconPreview" src="#" alt="Favicon Preview" class="faviconPreviewsetting" />
+                  </div>
+
+                  <small class="text-muted d-block mt-3 mb-3">
+                    <i class="fa-solid fa-circle-info text-primary"></i>
+                    Recommended Size: <strong>35 x 35 px</strong>,
+                    Formats: <strong>jpeg | jpg | png | ico | webp</strong>
+                  </small>
+                </div>
+
+              </div>
+
+              <!-- THEME COLORS -->
+<h6 class="fw-bold mb-3 mt-4">Theme Colors</h6>
+
+<div class="row">
+  <div class="col-md-6">
+    <div class="form-group mb-3">
+      <label class="form-label fw-medium">Primary Color</label>
+      <input
+        type="color"
+        id="primaryColor"
+        name="primaryColor"
+        class="form-control form-control-color w-100"
+        value="#6B4FE6"
+      >
+    </div>
+  </div>
+
+  <div class="col-md-6">
+    <div class="form-group mb-3">
+      <label class="form-label fw-medium">Secondary Color</label>
+      <input
+        type="color"
+        id="secondaryColor"
+        name="secondaryColor"
+        class="form-control form-control-color w-100"
+        value="#795EFE"
+      >
+    </div>
+  </div>
+
+</div>
+
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group mb-3">
+                    <label class="form-label fw-medium">Company Name<span class="text-danger">*</span></label>
+                    <input type="text" id="companyName" name="companyName" class="form-control" required>
+                  </div>
+                </div>
+
+                <div class="col-md-6">
+                  <div class="form-group mb-3">
+                    <label class="form-label fw-medium">Email Address<span class="text-danger">*</span></label>
+                    <input type="email" id="emailAddress" name="emailAddress" class="form-control" required>
+                  </div>
+                </div>
+              </div>
+
+              <div class="form-group mb-3">
+                <label class="form-label fw-medium">Contact Address<span class="text-danger">*</span></label>
+                <input type="text" id="contactAddress" name="contactAddress" class="form-control" required>
+              </div>
+
+               <div class="form-group mb-3">
+                <label class="form-label fw-medium">About Company<span class="text-danger">*</span></label>
+                <input type="text" id="aboutcompany" name="aboutcompany" class="form-control" required>
+              </div>
+
+            
+       
+               <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group mb-3">
+                <label class="form-label fw-medium">Contact Number<span class="text-danger">*</span></label>
+                <input type="text" id="contactNumber" name="contactNumber" class="form-control" required>
+              </div>
+                </div>
+
+                <div class="col-md-6">
+                  <div class="form-group mb-3">
+                    <label class="form-label fw-medium">Support Time</label>
+                    <input type="text" id="supportTime" name="supportTime" class="form-control" placeholder="24/7">
+                  </div>
+                </div>
+              </div>
+           <div class="row">       
+                 <div class="col-md-6">
+                  <div class="mb-3">
+
+                    <label class="form-label fw-medium">Select Default Language <span class="text-danger">*</span></label>
+                    <select class="form-select" id="defaultLanguageSelect">
+                      <option selected disabled>Loading...</option>
+                    </select>
+                  </div>
+               </div>
+             <div class="col-md-6">
+              <div class="form-group mb-3">
+                <label class="form-label fw-medium">
+                  Google Map URL <span class="text-danger">*</span>
+                </label>
+                <input type="text" id="googleMapLink" name="mapUrl" class="form-control"
+                  placeholder="https://www.google.com/maps/embed?..." required />
+                <small class="text-muted d-block mt-2">
+                  Paste Google Map embed URL or map link
+                </small>
+               </div>
+             </div>
+            </div>
+
+              <!-- Currency -->
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group mb-3">
+                    <label class="form-label fw-medium">Currency<span class="text-danger">*</span></label>
+                    <input type="text" id="currency" name="currency" class="form-control" placeholder="USD" required>
+                  </div>
+                </div>
+
+                <div class="col-md-6">
+                  <div class="form-group mb-3">
+                    <label class="form-label fw-medium">Currency Symbol</label>
+                    <input type="text" id="currencySymbol" name="currencySymbol" class="form-control" placeholder="$">
+                  </div>
+                </div>
+              </div>
+
+
+              <!-- SOCIAL LINKS HEADING -->
+              <h6 class="fw-bold mb-3">Social Media Links</h6>
+
+              <!-- SOCIAL ROW 1 -->
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group mb-3">
+                    <label class="form-label fw-medium">Facebook</label>
+                    <input type="text" id="facebook" name="facebook" class="form-control"
+                      placeholder="https://facebook.com/...">
+                  </div>
+                </div>
+
+                <div class="col-md-6">
+                  <div class="form-group mb-3">
+                    <label class="form-label fw-medium">Instagram</label>
+                    <input type="text" id="instagram" name="instagram" class="form-control"
+                      placeholder="https://instagram.com/...">
+                  </div>
+                </div>
+              </div>
+
+              <!-- SOCIAL ROW 2 -->
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group mb-3">
+                    <label class="form-label fw-medium">X (Twitter)</label>
+                    <input type="text" id="twitter" name="twitter" class="form-control" placeholder="https://x.com/...">
+                  </div>
+                </div>
+
+                <div class="col-md-6">
+                  <div class="form-group mb-4">
+                    <label class="form-label fw-medium">LinkedIn</label>
+                    <input type="text" id="linkedin" name="linkedin" class="form-control"
+                      placeholder="https://linkedin.com/...">
+                  </div>
+                </div>
+
+                  <div class="col-md-6">
+                  <div class="form-group mb-4">
+                    <label class="form-label fw-medium">YouTube</label>
+                    <input type="text" id="youtube" name="youtube" class="form-control"
+                      placeholder="https://youtube.com/...">
+                  </div>
+                </div>
+
+              </div>
+
+              <h6 class="fw-bold mb-3">Add Email For Send Mail</h6>
+
+              <!-- SOCIAL ROW 2 -->
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group mb-3">
+                    <label class="form-label fw-medium">Email</label>
+                    <input type="text" id="email" name="email" class="form-control" placeholder="Enter Email">
+                  </div>
+                </div>
+
+                <div class="col-md-6">
+                  <div class="form-group mb-4">
+                    <label class="form-label fw-medium">Password</label>
+                    <input type="text" id="password" name="password" class="form-control" placeholder="Enter password">
+                    <small>
+                          Use a Gmail App Password (not your Gmail password).
+                          Enable 2-Step Verification first.
+                          <a href="https://support.google.com/accounts/answer/185833" target="_blank">
+                            Learn more
+                          </a>
+                        </small>
+                  </div>
+                </div>
+              </div>
+              <button class="btn btn-primary w-100 py-2" type="submit">
+                Save Contact Details
+              </button>
+
+            </form>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+  </div>
+
+
+  <%- include('includes/allscripts') %>
+    <script src="https://cdn.quilljs.com/1.3.6/quill.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <script src="/js/view/setting.js"></script>
+  

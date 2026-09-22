@@ -1,0 +1,120 @@
+<%- include('includes/header', { username: admin[0].name, email: admin[0].email }) %>
+
+<div class="body-wrapper">
+  <div class="container-fluid pb-5">
+
+    <!-- Page Header -->
+    <div class="card bg-info-subtle shadow-none position-relative overflow-hidden mb-4">
+      <div class="card-body px-4 py-3">
+        <h4 class="fw-semibold mb-1">Auth Login Settings</h4>
+      </div>
+    </div>
+
+    <%
+      const providers = [
+        {
+          key: "google",
+          title: "Google Login",
+          icon: "ti ti-brand-google"
+        },
+        {
+          key: "github",
+          title: "GitHub Login",
+          icon: "ti ti-brand-github"
+        }
+      ];
+    %>
+
+    <form id="authSettingForm" class="pb-5">
+
+      <div class="row">
+
+        <% providers.forEach(provider => { %>
+
+          <div class="col-md-12 mb-3">
+            <div class="card border shadow-sm h-100">
+
+              <div class="card-header bg-light d-flex justify-content-between align-items-center">
+
+                <div>
+                  <i class="<%= provider.icon %> me-2"></i>
+                  <strong><%= provider.title %></strong>
+                </div>
+
+                <div class="form-check form-switch">
+                  <input
+                    class="form-check-input provider-enabled"
+                    type="checkbox"
+                    data-provider="<%= provider.key %>"
+                    <%= setting?.[provider.key]?.enabled ? "checked" : "" %>
+                    >
+                </div>
+
+              </div>
+
+              <div class="card-body">
+
+                <!-- API KEY -->
+                <div class="mb-3">
+                  <label class="form-label fw-semibold">
+                    API Key
+                  </label>
+                  <input
+                    type="text"
+                    class="form-control auth-input"
+                    data-provider="<%= provider.key %>"
+                    data-field="apiKey"
+                    value="<%= setting?.[provider.key]?.apiKey || '' %>"
+                    placeholder="Enter API Key">
+                </div>
+
+                <!-- SECRET KEY -->
+                <div class="mb-3">
+                  <label class="form-label fw-semibold">
+                    Secret Key
+                  </label>
+                  <input
+                    type="text"
+                    class="form-control auth-input"
+                    data-provider="<%= provider.key %>"
+                    data-field="apiSecretKey"
+                    value="<%= setting?.[provider.key]?.apiSecretKey || '' %>"
+                    placeholder="Enter Secret Key">
+                </div>
+
+                <!-- REDIRECT URL -->
+                <div class="mb-3">
+                  <label class="form-label fw-semibold">
+                    Redirect URL
+                  </label>
+                  <input
+                    type="text"
+                    class="form-control auth-input"
+                    data-provider="<%= provider.key %>"
+                    data-field="apiRedirectUrl"
+                    value="<%= setting?.[provider.key]?.apiRedirectUrl || '' %>"
+                    placeholder="Enter Redirect URL">
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+
+        <% }) %>
+
+      </div>
+
+      <div class="text-end">
+        <button type="button" id="saveBtn" class="btn btn-primary">
+          Save Changes
+        </button>
+      </div>
+
+    </form>
+
+  </div>
+</div>
+
+<%- include('includes/allscripts') %>
+<script src="/js/view/authsetting.js"></script>
